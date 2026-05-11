@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a81deb7038af9ed43baa5b94416ae66a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339192
+  packageName: Wooden Bench Mini Pack
+  packageVersion: 1.0
+  assetPath: Assets/RainFall BenchAsset/URP/Materials/M_LogBench.mat
+  uploadId: 803876

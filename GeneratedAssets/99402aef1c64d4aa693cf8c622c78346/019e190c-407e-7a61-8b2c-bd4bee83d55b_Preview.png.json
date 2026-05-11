@@ -1,0 +1,12 @@
+{
+  "asset": "99402aef1c64d4aa693cf8c622c78346",
+  "fileName": "019e190c-407e-7a61-8b2c-bd4bee83d55b_Preview.png",
+  "prompt": "table realistic wood",
+  "negativePrompt": "",
+  "model": "gemini-3.1-flash-texture",
+  "modelName": "Gemini 3.1 Nano Banana 2",
+  "customSeed": 1433363452,
+  "w3CTraceId": "",
+  "feedback": 1,
+  "refinementMode": "Generation"
+}

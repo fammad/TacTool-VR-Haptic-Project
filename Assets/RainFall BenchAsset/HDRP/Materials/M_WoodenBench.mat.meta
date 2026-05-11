@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a833ff1a3e4962443a3140876fadb3f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339192
+  packageName: Wooden Bench Mini Pack
+  packageVersion: 1.0
+  assetPath: Assets/RainFall BenchAsset/HDRP/Materials/M_WoodenBench.mat
+  uploadId: 803876

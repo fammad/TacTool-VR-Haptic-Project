@@ -9,7 +9,6 @@ using System.Collections.Generic;
 [RequireComponent(typeof(Rigidbody))]
 [RequireComponent(typeof(Collider))]
 public class ToolCollisionDetector : MonoBehaviour
-public class ToolCollisionDetector : MonoBehaviour
 {
     public enum ToolType { Hammer, Chisel, File }
 

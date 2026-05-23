@@ -375,7 +375,7 @@ IL2CPP_EXTERN_C RuntimeClass* WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7
 IL2CPP_EXTERN_C RuntimeClass* WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____44BF6A034AAE4DFEA2EA33CC4FA73CD9DAE7323B29B1CD78F6C0E8FC38EB2199_FieldInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____D0D3F8666C75E01E4E4F4B29B0B49E44236CCD63100B5E297733EFF0A6F776A1_FieldInfo_var;
 IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____F0B7BAF0B4B029E9E8506572D2276160187721E70BCD0933852CDCF0C5B9DB1B_FieldInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral000A577FA6F1044FCB37680E918D59D0DA3E7DDA;
 IL2CPP_EXTERN_C String_t* _stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD;
@@ -5063,6 +5063,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Awake_m02C55CEEB1720
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:40>
 		sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013* L_0 = ((sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_StaticFields*)il2cpp_codegen_static_fields_for(sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_il2cpp_TypeInfo_var))->___Instance;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -5073,6 +5074,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Awake_m02C55CEEB1720
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:41>
 		((sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_StaticFields*)il2cpp_codegen_static_fields_for(sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_il2cpp_TypeInfo_var))->___Instance = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&((sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_StaticFields*)il2cpp_codegen_static_fields_for(sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_il2cpp_TypeInfo_var))->___Instance), (void*)__this);
 		return;
@@ -5080,6 +5082,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Awake_m02C55CEEB1720
 
 IL_0014:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:42>
 		sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013* L_2 = ((sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_StaticFields*)il2cpp_codegen_static_fields_for(sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013_il2cpp_TypeInfo_var))->___Instance;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_3;
@@ -5090,6 +5093,7 @@ IL_0014:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:43>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4;
 		L_4 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -5098,6 +5102,7 @@ IL_0014:
 
 IL_002c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:44>
 		return;
 	}
 }
@@ -5114,18 +5119,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Start_m41F76B804FF50
 	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
 	memset((&V_0), 0, sizeof(V_0));
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:48>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
 		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		NullCheck(L_0);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
 		L_1 = Transform_get_eulerAngles_mCAAF48EFCF628F1ED91C2FFE75A4FD19C039DD6A(L_0, NULL);
 		V_0 = L_1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:49>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2 = V_0;
 		float L_3 = L_2.___y;
 		__this->___x = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:50>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4 = V_0;
 		float L_5 = L_4.___x;
 		__this->___y = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:52>
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_6;
 		L_6 = Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8(__this, Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -5137,6 +5146,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Start_m41F76B804FF50
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:53>
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_8;
 		L_8 = Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8(__this, Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
 		NullCheck(L_8);
@@ -5145,8 +5155,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Start_m41F76B804FF50
 
 IL_003d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:55>
 		sCameraControlOrbit_UpdatePosition_m57446241B853B4C62863779383B7160D93D8786B(__this, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:57>
 		Time_set_timeScale_mEF84EE4B2376A458387648079B426B267862D331((1.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:58>
 		return;
 	}
 }
@@ -5162,6 +5175,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:78>
 		Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD* L_0 = (Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD*)(&__this->____targetAngels);
 		bool L_1;
 		L_1 = Nullable_1_get_HasValue_m2E9343B9161EB12C0123A2A9801D2BD86422CEEB_inline(L_0, Nullable_1_get_HasValue_m2E9343B9161EB12C0123A2A9801D2BD86422CEEB_RuntimeMethod_var);
@@ -5171,6 +5185,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:80>
 		float L_2 = __this->___x;
 		Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD* L_3 = (Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD*)(&__this->____targetAngels);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_4;
@@ -5179,6 +5194,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 		float L_6;
 		L_6 = Mathf_LerpAngle_m0653422E15193C2E4A4E5AF05236B6315C789C23_inline(L_2, L_5, (0.100000001f), NULL);
 		__this->___x = L_6;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:81>
 		float L_7 = __this->___y;
 		Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD* L_8 = (Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD*)(&__this->____targetAngels);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_9;
@@ -5187,6 +5203,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 		float L_11;
 		L_11 = Mathf_LerpAngle_m0653422E15193C2E4A4E5AF05236B6315C789C23_inline(L_7, L_10, (0.100000001f), NULL);
 		__this->___y = L_11;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:83>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_12;
 		L_12 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		float L_13 = __this->___y;
@@ -5195,6 +5212,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 		L_15 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline(L_13, L_14, (0.0f), NULL);
 		NullCheck(L_12);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_12, L_15, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:84>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_16;
 		L_16 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_17;
@@ -5216,6 +5234,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 		L_24 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_21, L_23, NULL);
 		NullCheck(L_16);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_16, L_24, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:86>
 		bool L_25;
 		L_25 = Input_GetMouseButton_m4995DD4A2D4F916565C1B1B5AAF7DF17C126B3EA(1, NULL);
 		if (L_25)
@@ -5234,6 +5253,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_Update_m1505781EFBB2
 
 IL_00d7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:87>
 		Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD* L_27 = (Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD*)(&__this->____targetAngels);
 		il2cpp_codegen_initobj(L_27, sizeof(Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD));
 		return;
@@ -5241,11 +5261,13 @@ IL_00d7:
 
 IL_00e4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:91>
 		sCameraControlOrbit_UpdatePosition_m57446241B853B4C62863779383B7160D93D8786B(__this, (bool)0, NULL);
 	}
 
 IL_00eb:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:93>
 		return;
 	}
 }
@@ -5253,9 +5275,12 @@ IL_00eb:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_SetTargetDistance_mD531B1132B8156F437D0C7D03B0832E84D1D4E36 (sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013* __this, float ___0_targetDistance, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:102>
 		float L_0 = ___0_targetDistance;
 		__this->___Distance = L_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:103>
 		sCameraControlOrbit_UpdatePosition_m57446241B853B4C62863779383B7160D93D8786B(__this, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:104>
 		return;
 	}
 }
@@ -5269,11 +5294,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_SetTargetAngels_m1F1
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:108>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0 = ___0_angels;
 		Nullable_1_tAC9037ECF4C188DFFE614617119CAC19A784F9FD L_1;
 		memset((&L_1), 0, sizeof(L_1));
 		Nullable_1__ctor_m5B4AD6C29FA5950EF6C215B9A459707DCC95EF73((&L_1), L_0, Nullable_1__ctor_m5B4AD6C29FA5950EF6C215B9A459707DCC95EF73_RuntimeMethod_var);
 		__this->____targetAngels = L_1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:109>
 		return;
 	}
 }
@@ -5291,6 +5318,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_UpdatePosition_m5744
 	}
 	int32_t G_B5_0 = 0;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:113>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = __this->___target;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -5301,11 +5329,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_UpdatePosition_m5744
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:114>
 		return;
 	}
 
 IL_000f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:116>
 		bool L_2;
 		L_2 = Input_GetMouseButton_m4995DD4A2D4F916565C1B1B5AAF7DF17C126B3EA(1, NULL);
 		if (L_2)
@@ -5343,6 +5373,7 @@ IL_002e:
 
 IL_003d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:118>
 		bool L_6;
 		L_6 = Input_GetMouseButton_m4995DD4A2D4F916565C1B1B5AAF7DF17C126B3EA(1, NULL);
 		if (!L_6)
@@ -5351,16 +5382,19 @@ IL_003d:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:120>
 		float L_7 = __this->___x;
 		float L_8;
 		L_8 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteral88BEE283254D7094E258B3A88730F4CC4F1E4AC7, NULL);
 		float L_9 = __this->___XSpeed;
 		__this->___x = ((float)il2cpp_codegen_add(L_7, ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_8, L_9)), (0.0350000001f)))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:121>
 		float L_10 = __this->___y;
 		float L_11;
 		L_11 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteral16DD21BE77B115D392226EB71A2D3A9FDC29E3F0, NULL);
 		float L_12 = __this->___YSpeed;
 		__this->___y = ((float)il2cpp_codegen_subtract(L_10, ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_11, L_12)), (0.0450000018f)))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:122>
 		float L_13 = __this->___y;
 		float L_14 = __this->___YMinLimit;
 		float L_15 = __this->___YMaxLimit;
@@ -5371,6 +5405,7 @@ IL_003d:
 
 IL_00ab:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:125>
 		float L_17;
 		L_17 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteralFC6687DC37346CD2569888E29764F727FAF530E0, NULL);
 		if ((((float)L_17) == ((float)(0.0f))))
@@ -5379,6 +5414,7 @@ IL_00ab:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:126>
 		float L_18 = __this->___Distance;
 		float L_19;
 		L_19 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteralFC6687DC37346CD2569888E29764F727FAF530E0, NULL);
@@ -5392,6 +5428,7 @@ IL_00ab:
 
 IL_00eb:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:128>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_24;
 		L_24 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		float L_25 = __this->___y;
@@ -5400,6 +5437,7 @@ IL_00eb:
 		L_27 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline(L_25, L_26, (0.0f), NULL);
 		NullCheck(L_24);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_24, L_27, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:129>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_28;
 		L_28 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_29;
@@ -5425,6 +5463,7 @@ IL_00eb:
 
 IL_014d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:133>
 		return;
 	}
 }
@@ -5432,6 +5471,7 @@ IL_014d:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float sCameraControlOrbit_ClampAngle_m301B0D575C7A5E45E4B9CBEEC7241055ACCA3563 (sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013* __this, float ___0_angle, float ___1_min, float ___2_max, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:137>
 		float L_0 = ___0_angle;
 		if ((!(((float)L_0) < ((float)(-360.0f)))))
 		{
@@ -5439,12 +5479,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float sCameraControlOrbit_ClampAngle_m301B0D5
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:138>
 		float L_1 = ___0_angle;
 		___0_angle = ((float)il2cpp_codegen_add(L_1, (360.0f)));
 	}
 
 IL_0011:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:139>
 		float L_2 = ___0_angle;
 		if ((!(((float)L_2) > ((float)(360.0f)))))
 		{
@@ -5452,12 +5494,14 @@ IL_0011:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:140>
 		float L_3 = ___0_angle;
 		___0_angle = ((float)il2cpp_codegen_subtract(L_3, (360.0f)));
 	}
 
 IL_0022:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:142>
 		float L_4 = ___0_angle;
 		float L_5 = ___1_min;
 		float L_6 = ___2_max;
@@ -5470,9 +5514,11 @@ IL_0022:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_ToggleEnabled_m20F95B0384B3529C91B3A76ADC9A53A2DC079DC8 (sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:147>
 		bool L_0;
 		L_0 = Behaviour_get_enabled_mAAC9F15E9EBF552217A5AE2681589CC0BFA300C1(__this, NULL);
 		Behaviour_set_enabled_mF1DCFE60EB09E0529FE9476CA804A3AA2D72B16A(__this, (bool)((((int32_t)L_0) == ((int32_t)0))? 1 : 0), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:148>
 		return;
 	}
 }
@@ -5480,13 +5526,21 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit_ToggleEnabled_m20F95
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit__ctor_mC5D804175B62517EAAD31DF749DDDDCA6C0858DC (sCameraControlOrbit_t0A50F461F27D3405B41A57720B70E6F132FD9013* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:14>
 		__this->___Distance = (10.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:15>
 		__this->___ScrollSensitivity = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:17>
 		__this->___XSpeed = (250.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:18>
 		__this->___YSpeed = (120.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:20>
 		__this->___YMinLimit = (-20.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:21>
 		__this->___YMaxLimit = (80.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:23>
 		__this->___DistanceMin = (3.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/3D Assets/CoolWorks_Studio/Common/Scripts/sCameraControlOrbit.cs:24>
 		__this->___DistanceMax = (15.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -5504,6 +5558,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void sCameraControlOrbit__ctor_mC5D804175B625
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnimateHandOnInput_Start_mDFB567101BCB7DCE653AE7E320015E93D3609592 (AnimateHandOnInput_tA9C05EB723ADD1EBE533839D67AD3A3A82F68156* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/AnimateHandOnInput.cs:13>
 		return;
 	}
 }
@@ -5521,6 +5576,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnimateHandOnInput_Update_mC03CF4BE38043
 	float V_0 = 0.0f;
 	float V_1 = 0.0f;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/AnimateHandOnInput.cs:18>
 		InputActionProperty_tE5B1633784A72FC044A0BB5C0BE140DD7BD84FAD* L_0 = (InputActionProperty_tE5B1633784A72FC044A0BB5C0BE140DD7BD84FAD*)(&__this->___triggerValue);
 		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1;
 		L_1 = InputActionProperty_get_action_mABF2197D9CC6586E5DFB0481CF9C1B2586F41A47(L_0, NULL);
@@ -5528,6 +5584,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnimateHandOnInput_Update_mC03CF4BE38043
 		float L_2;
 		L_2 = InputAction_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m37FC749080A83C05777D1F779F38B8A27BAFA97B(L_1, InputAction_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m37FC749080A83C05777D1F779F38B8A27BAFA97B_RuntimeMethod_var);
 		V_0 = L_2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/AnimateHandOnInput.cs:19>
 		InputActionProperty_tE5B1633784A72FC044A0BB5C0BE140DD7BD84FAD* L_3 = (InputActionProperty_tE5B1633784A72FC044A0BB5C0BE140DD7BD84FAD*)(&__this->___gripValue);
 		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_4;
 		L_4 = InputActionProperty_get_action_mABF2197D9CC6586E5DFB0481CF9C1B2586F41A47(L_3, NULL);
@@ -5535,14 +5592,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnimateHandOnInput_Update_mC03CF4BE38043
 		float L_5;
 		L_5 = InputAction_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m37FC749080A83C05777D1F779F38B8A27BAFA97B(L_4, InputAction_ReadValue_TisSingle_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C_m37FC749080A83C05777D1F779F38B8A27BAFA97B_RuntimeMethod_var);
 		V_1 = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/AnimateHandOnInput.cs:21>
 		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_6 = __this->___handAnimator;
 		float L_7 = V_0;
 		NullCheck(L_6);
 		Animator_SetFloat_m10C78733FAFC7AFEDBDACC48B7C66D3A35A0A7FE(L_6, _stringLiteralB85E78C75EF1A6F636689BD88A9D6C2A3B2B0A1B, L_7, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/AnimateHandOnInput.cs:22>
 		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_8 = __this->___handAnimator;
 		float L_9 = V_1;
 		NullCheck(L_8);
 		Animator_SetFloat_m10C78733FAFC7AFEDBDACC48B7C66D3A35A0A7FE(L_8, _stringLiteralB4FE860573CD6E03F0D1A4378C1F330A3820D8C9, L_9, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/AnimateHandOnInput.cs:23>
 		return;
 	}
 }
@@ -5584,6 +5644,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToolCollisionDetector_OnCollisionEnter_m
 	ToolHitEvent_t98FD4DF31C89F8A42356E31EC48132053495C1E2* G_B8_0 = NULL;
 	ToolHitEvent_t98FD4DF31C89F8A42356E31EC48132053495C1E2* G_B7_0 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:30>
 		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_0 = ___0_collision;
 		NullCheck(L_0);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
@@ -5592,6 +5653,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToolCollisionDetector_OnCollisionEnter_m
 		String_t* L_2;
 		L_2 = GameObject_get_tag_mEDD27BF795072834D656B286CBE51B2C99747805(L_1, NULL);
 		V_0 = L_2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:31>
 		String_t* L_3 = V_0;
 		bool L_4;
 		L_4 = ToolCollisionDetector_IsValidMaterial_m4FECFA83266910A71236B1B080D281D18A98756B(__this, L_3, NULL);
@@ -5601,11 +5663,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToolCollisionDetector_OnCollisionEnter_m
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:31>
 		return;
 	}
 
 IL_0016:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:34>
 		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_5 = ___0_collision;
 		NullCheck(L_5);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6;
@@ -5614,6 +5678,7 @@ IL_0016:
 		int32_t L_7;
 		L_7 = Object_GetInstanceID_m554FF4073C9465F3835574CC084E68AAEEC6CC6A(L_6, NULL);
 		V_1 = L_7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:35>
 		int32_t L_8 = V_1;
 		bool L_9;
 		L_9 = ToolCollisionDetector_IsOnCooldown_mC66D02B0A9F84E7C9C2A5AE6AF8416B66A653613(__this, L_8, NULL);
@@ -5623,11 +5688,13 @@ IL_0016:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:35>
 		return;
 	}
 
 IL_002c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:38>
 		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_10 = ___0_collision;
 		NullCheck(L_10);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11;
@@ -5636,6 +5703,7 @@ IL_002c:
 		float L_12;
 		L_12 = Vector3_get_magnitude_mF0D6017E90B345F1F52D1CC564C640F1A847AF2D_inline((&V_4), NULL);
 		V_2 = L_12;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:41>
 		float L_13 = V_2;
 		float L_14 = __this->___minVelocityThreshold;
 		if ((!(((float)L_13) < ((float)L_14))))
@@ -5644,22 +5712,26 @@ IL_002c:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:41>
 		return;
 	}
 
 IL_0046:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:44>
 		Dictionary_2_t17BB14695909F39BA5B9F9F51F527D09419C12FC* L_15 = __this->___lastHitTimes;
 		int32_t L_16 = V_1;
 		float L_17;
 		L_17 = Time_get_time_m3A271BB1B20041144AC5B7863B71AB1F0150374B(NULL);
 		NullCheck(L_15);
 		Dictionary_2_set_Item_m774E00248EDD25178469B38F388B0E4EFC7A4AD2(L_15, L_16, L_17, Dictionary_2_set_Item_m774E00248EDD25178469B38F388B0E4EFC7A4AD2_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:47>
 		int32_t* L_18 = (int32_t*)(&__this->___toolType);
 		Il2CppFakeBox<int32_t> L_19(ToolType_tDD2C8DA2E9E341A86D0B6BB80722574A28416D95_il2cpp_TypeInfo_var, L_18);
 		String_t* L_20;
 		L_20 = Enum_ToString_m946B0B83C4470457D0FF555D862022C72BB55741((Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2*)(&L_19), NULL);
 		V_3 = L_20;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:48>
 		ToolHitEvent_t98FD4DF31C89F8A42356E31EC48132053495C1E2* L_21 = __this->___onValidHit;
 		ToolHitEvent_t98FD4DF31C89F8A42356E31EC48132053495C1E2* L_22 = L_21;
 		if (L_22)
@@ -5684,6 +5756,7 @@ IL_0075:
 
 IL_007d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:50>
 		String_t* L_26 = V_3;
 		String_t* L_27 = V_0;
 		float L_28 = V_2;
@@ -5693,6 +5766,7 @@ IL_007d:
 		L_31 = String_Format_mA0534D6E2AE4D67A6BD8D45B3321323930EB930C(_stringLiteral5FBC7A4956568950EBA50D5293F7F59D80621B58, L_26, L_27, L_30, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_31, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:51>
 		return;
 	}
 }
@@ -5709,6 +5783,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ToolCollisionDetector_IsValidMaterial_m4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:55>
 		String_t* L_0 = ___0_tag;
 		bool L_1;
 		L_1 = String_op_Equality_m030E1B219352228970A076136E455C4E568C02C1(L_0, _stringLiteralEB21F4926C9FE3AE15CCCDAB43A3B3B4EB5F3CF5, NULL);
@@ -5758,6 +5833,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ToolCollisionDetector_IsOnCooldown_mC66D
 	}
 	float V_0 = 0.0f;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:60>
 		Dictionary_2_t17BB14695909F39BA5B9F9F51F527D09419C12FC* L_0 = __this->___lastHitTimes;
 		int32_t L_1 = ___0_id;
 		NullCheck(L_0);
@@ -5769,6 +5845,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ToolCollisionDetector_IsOnCooldown_mC66D
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:62>
 		float L_3;
 		L_3 = Time_get_time_m3A271BB1B20041144AC5B7863B71AB1F0150374B(NULL);
 		float L_4 = V_0;
@@ -5778,6 +5855,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ToolCollisionDetector_IsOnCooldown_mC66D
 
 IL_0020:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:64>
 		return (bool)0;
 	}
 }
@@ -5792,8 +5870,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ToolCollisionDetector__ctor_m9BBB48BBDF4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:17>
 		__this->___hitCooldown = (0.200000003f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:18>
 		__this->___minVelocityThreshold = (0.100000001f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/Scripts/ToolCollisionDetector.cs:25>
 		Dictionary_2_t17BB14695909F39BA5B9F9F51F527D09419C12FC* L_0 = (Dictionary_2_t17BB14695909F39BA5B9F9F51F527D09419C12FC*)il2cpp_codegen_object_new(Dictionary_2_t17BB14695909F39BA5B9F9F51F527D09419C12FC_il2cpp_TypeInfo_var);
 		Dictionary_2__ctor_m3B9BDFABC3A31681FBD8FFAD9CDFC3EFE531259E(L_0, Dictionary_2__ctor_m3B9BDFABC3A31681FBD8FFAD9CDFC3EFE531259E_RuntimeMethod_var);
 		__this->___lastHitTimes = L_0;
@@ -5852,6 +5933,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_OnEnable_m025CE203564D82A
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:16>
 		TMP_InputField_t3488E0EE8C3DF56C6A328EC95D1BEEA2DF4A7D5F* L_0 = __this->___ChatInputField;
 		NullCheck(L_0);
 		SubmitEvent_tF7E2843B6A79D94B8EEEA259707F77BD1773B500* L_1;
@@ -5860,6 +5942,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_OnEnable_m025CE203564D82A
 		UnityAction_1__ctor_mE6251CCFD943EB114960F556A546E2777B18AC71(L_2, __this, (intptr_t)((void*)ChatController_AddToChatOutput_m9AB8FA8A32EA23F2E55795D8301ED0BF6A59F722_RuntimeMethod_var), NULL);
 		NullCheck(L_1);
 		UnityEvent_1_AddListener_mEC384A8CFC5D4D41B62B08248A738CF61B82172F(L_1, L_2, UnityEvent_1_AddListener_mEC384A8CFC5D4D41B62B08248A738CF61B82172F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:17>
 		return;
 	}
 }
@@ -5875,6 +5958,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_OnDisable_mD49D03719CAEBB
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:21>
 		TMP_InputField_t3488E0EE8C3DF56C6A328EC95D1BEEA2DF4A7D5F* L_0 = __this->___ChatInputField;
 		NullCheck(L_0);
 		SubmitEvent_tF7E2843B6A79D94B8EEEA259707F77BD1773B500* L_1;
@@ -5883,6 +5967,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_OnDisable_mD49D03719CAEBB
 		UnityAction_1__ctor_mE6251CCFD943EB114960F556A546E2777B18AC71(L_2, __this, (intptr_t)((void*)ChatController_AddToChatOutput_m9AB8FA8A32EA23F2E55795D8301ED0BF6A59F722_RuntimeMethod_var), NULL);
 		NullCheck(L_1);
 		UnityEvent_1_RemoveListener_m580353A1B030A82D1205B9BA94CF3484866C027F(L_1, L_2, UnityEvent_1_RemoveListener_m580353A1B030A82D1205B9BA94CF3484866C027F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:22>
 		return;
 	}
 }
@@ -5907,14 +5992,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_AddToChatOutput_m9AB8FA8A
 	String_t* V_1 = NULL;
 	int32_t V_2 = 0;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:28>
 		TMP_InputField_t3488E0EE8C3DF56C6A328EC95D1BEEA2DF4A7D5F* L_0 = __this->___ChatInputField;
 		String_t* L_1 = ((String_t_StaticFields*)il2cpp_codegen_static_fields_for(il2cpp_defaults.string_class))->___Empty;
 		NullCheck(L_0);
 		TMP_InputField_set_text_m684E9CDA2D9E82D1C497B5E03DBE79C00584FF62(L_0, L_1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:30>
 		il2cpp_codegen_runtime_class_init_inline(DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D_il2cpp_TypeInfo_var);
 		DateTime_t66193957C73913903DDAD89FEDC46139BCA5802D L_2;
 		L_2 = DateTime_get_Now_m636CB9651A9099D20BA1CF813A0C69637317325C(NULL);
 		V_0 = L_2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:32>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_3 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)8);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_4 = L_3;
 		NullCheck(L_4);
@@ -5959,6 +6047,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_AddToChatOutput_m9AB8FA8A
 		String_t* L_19;
 		L_19 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_17, NULL);
 		V_1 = L_19;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:34>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_20 = __this->___ChatDisplayOutput;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_21;
@@ -5969,6 +6058,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_AddToChatOutput_m9AB8FA8A
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:38>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_22 = __this->___ChatDisplayOutput;
 		NullCheck(L_22);
 		String_t* L_23;
@@ -5982,6 +6072,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_AddToChatOutput_m9AB8FA8A
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:39>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_26 = __this->___ChatDisplayOutput;
 		String_t* L_27 = V_1;
 		NullCheck(L_26);
@@ -5991,6 +6082,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ChatController_AddToChatOutput_m9AB8FA8A
 
 IL_00be:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:41>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_28 = __this->___ChatDisplayOutput;
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_29 = L_28;
 		NullCheck(L_29);
@@ -6005,12 +6097,15 @@ IL_00be:
 
 IL_00da:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:45>
 		TMP_InputField_t3488E0EE8C3DF56C6A328EC95D1BEEA2DF4A7D5F* L_33 = __this->___ChatInputField;
 		NullCheck(L_33);
 		TMP_InputField_ActivateInputField_m9471012A606F201DF838539F5400D072A827914F(L_33, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:48>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_34 = __this->___ChatScrollbar;
 		NullCheck(L_34);
 		Scrollbar_set_value_m8F7815DB02D4A69B33B091FC5F674609F070D804(L_34, (0.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs:49>
 		return;
 	}
 }
@@ -6047,6 +6142,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropdownSample_OnButtonClick_mF83641F913
 	String_t* G_B3_0 = NULL;
 	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* G_B3_1 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs:17>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_0 = __this->___text;
 		TMP_Dropdown_t73B37BFDA0D005451C7B750938AFB1748E5EA504* L_1 = __this->___dropdownWithPlaceholder;
 		NullCheck(L_1);
@@ -6091,6 +6187,7 @@ IL_0050:
 	{
 		NullCheck(G_B3_1);
 		VirtualActionInvoker1< String_t* >::Invoke(66, G_B3_1, G_B3_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs:18>
 		return;
 	}
 }
@@ -6120,16 +6217,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnvMapAnimator_Awake_m1D86ECDDD4A7A6DF98
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:16>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_textMeshPro = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_textMeshPro), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:17>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = __this->___m_textMeshPro;
 		NullCheck(L_1);
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_2;
 		L_2 = VirtualFuncInvoker0< Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* >::Invoke(67, L_1);
 		__this->___m_material = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_material), (void*)L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:18>
 		return;
 	}
 }
@@ -6221,12 +6321,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CStartU3Ed__4_MoveNext_mF689BF83350416
 IL_001a:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:23>
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6* L_4 = (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6*)(&__this->___U3CmatrixU3E5__2);
 		il2cpp_codegen_initobj(L_4, sizeof(Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6));
 	}
 
 IL_002d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:28>
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6* L_5 = (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6*)(&__this->___U3CmatrixU3E5__2);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
 		L_6 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
@@ -6253,12 +6355,14 @@ IL_002d:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_20;
 		L_20 = Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline(NULL);
 		Matrix4x4_SetTRS_m8002A569FE81574DABE86044C8FF6F7C44DA21AA_inline(L_5, L_6, L_19, L_20, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:30>
 		EnvMapAnimator_tFBDB01D5863979E446E8FF4A3A9C1EA6933D38DB* L_21 = V_1;
 		NullCheck(L_21);
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_22 = L_21->___m_material;
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_23 = __this->___U3CmatrixU3E5__2;
 		NullCheck(L_22);
 		Material_SetMatrix_m1F4E20583C898A1C1DBA256868E1F98C539F13FB(L_22, _stringLiteral9A7E77DB84E1908153085B0037B2757EFD9E6B67, L_23, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:32>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -6268,6 +6372,7 @@ IL_002d:
 IL_00a0:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs:25>
 		goto IL_002d;
 	}
 }
@@ -6311,7 +6416,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____44BF6A034AAE4DFEA2EA33CC4FA73CD9DAE7323B29B1CD78F6C0E8FC38EB2199_FieldInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____D0D3F8666C75E01E4E4F4B29B0B49E44236CCD63100B5E297733EFF0A6F776A1_FieldInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____F0B7BAF0B4B029E9E8506572D2276160187721E70BCD0933852CDCF0C5B9DB1B_FieldInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -6319,9 +6424,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC
 	memset((&V_0), 0, sizeof(V_0));
 	{
 		il2cpp_codegen_initobj((&V_0), sizeof(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E));
-		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)2675));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)2685));
 		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_1 = L_0;
-		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_2 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____44BF6A034AAE4DFEA2EA33CC4FA73CD9DAE7323B29B1CD78F6C0E8FC38EB2199_FieldInfo_var) };
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_2 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____D0D3F8666C75E01E4E4F4B29B0B49E44236CCD63100B5E297733EFF0A6F776A1_FieldInfo_var) };
 		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_1, L_2, NULL);
 		(&V_0)->___FilePathsData = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___FilePathsData), (void*)L_1);
@@ -6428,6 +6533,7 @@ IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_ma
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppChar TMP_DigitValidator_Validate_m786CF8A4D85EB9E1BE8785A58007F8796991BDB9 (TMP_DigitValidator_t1C162B062ED9C2BB89E448EAA6D43CC4B82D4B14* __this, String_t** ___0_text, int32_t* ___1_pos, Il2CppChar ___2_ch, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs:17>
 		Il2CppChar L_0 = ___2_ch;
 		if ((((int32_t)L_0) < ((int32_t)((int32_t)48))))
 		{
@@ -6442,6 +6548,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppChar TMP_DigitValidator_Validate_m786CF
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs:19>
 		String_t** L_2 = ___0_text;
 		String_t** L_3 = ___0_text;
 		String_t* L_4 = *((String_t**)L_3);
@@ -6452,16 +6559,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppChar TMP_DigitValidator_Validate_m786CF
 		L_6 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(L_4, L_5, NULL);
 		*((String_t**)L_2) = (String_t*)L_6;
 		Il2CppCodeGenWriteBarrier((void**)(String_t**)L_2, (void*)(String_t*)L_6);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs:20>
 		int32_t* L_7 = ___1_pos;
 		int32_t* L_8 = ___1_pos;
 		int32_t L_9 = *((int32_t*)L_8);
 		*((int32_t*)L_7) = (int32_t)((int32_t)il2cpp_codegen_add(L_9, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs:21>
 		Il2CppChar L_10 = ___2_ch;
 		return L_10;
 	}
 
 IL_0022:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs:24>
 		return 0;
 	}
 }
@@ -6498,8 +6608,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppChar TMP_PhoneNumberValidator_Validate_
 	int32_t V_0 = 0;
 	int32_t V_1 = 0;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:17>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralDECFB8F380101725B06EAE2D3F983211A277171C, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:20>
 		Il2CppChar L_0 = ___2_ch;
 		if ((((int32_t)L_0) >= ((int32_t)((int32_t)48))))
 		{
@@ -6514,17 +6626,20 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppChar TMP_PhoneNumberValidator_Validate_
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:20>
 		return 0;
 	}
 
 IL_0016:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:22>
 		String_t** L_2 = ___0_text;
 		String_t* L_3 = *((String_t**)L_2);
 		NullCheck(L_3);
 		int32_t L_4;
 		L_4 = String_get_Length_m42625D67623FA5CC7A44D47425CE86FB946542D2_inline(L_3, NULL);
 		V_0 = L_4;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:25>
 		V_1 = 0;
 		goto IL_0205;
 	}
@@ -6598,6 +6713,7 @@ IL_0025:
 
 IL_0068:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:30>
 		int32_t L_6 = V_1;
 		int32_t L_7 = V_0;
 		if ((!(((uint32_t)L_6) == ((uint32_t)L_7))))
@@ -6606,6 +6722,7 @@ IL_0068:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:31>
 		String_t** L_8 = ___0_text;
 		il2cpp_codegen_runtime_class_init_inline(il2cpp_defaults.char_class);
 		String_t* L_9;
@@ -6618,13 +6735,16 @@ IL_0068:
 
 IL_007f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:32>
 		int32_t* L_11 = ___1_pos;
 		*((int32_t*)L_11) = (int32_t)2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:33>
 		goto IL_0201;
 	}
 
 IL_0087:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:35>
 		int32_t L_12 = V_1;
 		int32_t L_13 = V_0;
 		if ((!(((uint32_t)L_12) == ((uint32_t)L_13))))
@@ -6633,6 +6753,7 @@ IL_0087:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:36>
 		String_t** L_14 = ___0_text;
 		String_t** L_15 = ___0_text;
 		String_t* L_16 = *((String_t**)L_15);
@@ -6647,13 +6768,16 @@ IL_0087:
 
 IL_009b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:37>
 		int32_t* L_19 = ___1_pos;
 		*((int32_t*)L_19) = (int32_t)2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:38>
 		goto IL_0201;
 	}
 
 IL_00a3:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:40>
 		int32_t L_20 = V_1;
 		int32_t L_21 = V_0;
 		if ((!(((uint32_t)L_20) == ((uint32_t)L_21))))
@@ -6662,6 +6786,7 @@ IL_00a3:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:41>
 		String_t** L_22 = ___0_text;
 		String_t** L_23 = ___0_text;
 		String_t* L_24 = *((String_t**)L_23);
@@ -6676,13 +6801,16 @@ IL_00a3:
 
 IL_00b7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:42>
 		int32_t* L_27 = ___1_pos;
 		*((int32_t*)L_27) = (int32_t)3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:43>
 		goto IL_0201;
 	}
 
 IL_00bf:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:45>
 		int32_t L_28 = V_1;
 		int32_t L_29 = V_0;
 		if ((!(((uint32_t)L_28) == ((uint32_t)L_29))))
@@ -6691,6 +6819,7 @@ IL_00bf:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:46>
 		String_t** L_30 = ___0_text;
 		String_t** L_31 = ___0_text;
 		String_t* L_32 = *((String_t**)L_31);
@@ -6705,13 +6834,16 @@ IL_00bf:
 
 IL_00d8:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:47>
 		int32_t* L_35 = ___1_pos;
 		*((int32_t*)L_35) = (int32_t)6;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:48>
 		goto IL_0201;
 	}
 
 IL_00e0:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:50>
 		int32_t L_36 = V_1;
 		int32_t L_37 = V_0;
 		if ((!(((uint32_t)L_36) == ((uint32_t)L_37))))
@@ -6720,6 +6852,7 @@ IL_00e0:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:51>
 		String_t** L_38 = ___0_text;
 		String_t** L_39 = ___0_text;
 		String_t* L_40 = *((String_t**)L_39);
@@ -6734,13 +6867,16 @@ IL_00e0:
 
 IL_00f9:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:52>
 		int32_t* L_43 = ___1_pos;
 		*((int32_t*)L_43) = (int32_t)7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:53>
 		goto IL_0201;
 	}
 
 IL_0101:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:55>
 		int32_t L_44 = V_1;
 		int32_t L_45 = V_0;
 		if ((!(((uint32_t)L_44) == ((uint32_t)L_45))))
@@ -6749,6 +6885,7 @@ IL_0101:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:56>
 		String_t** L_46 = ___0_text;
 		String_t** L_47 = ___0_text;
 		String_t* L_48 = *((String_t**)L_47);
@@ -6763,13 +6900,16 @@ IL_0101:
 
 IL_011a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:57>
 		int32_t* L_51 = ___1_pos;
 		*((int32_t*)L_51) = (int32_t)7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:58>
 		goto IL_0201;
 	}
 
 IL_0122:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:60>
 		int32_t L_52 = V_1;
 		int32_t L_53 = V_0;
 		if ((!(((uint32_t)L_52) == ((uint32_t)L_53))))
@@ -6778,6 +6918,7 @@ IL_0122:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:61>
 		String_t** L_54 = ___0_text;
 		String_t** L_55 = ___0_text;
 		String_t* L_56 = *((String_t**)L_55);
@@ -6792,13 +6933,16 @@ IL_0122:
 
 IL_0136:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:62>
 		int32_t* L_59 = ___1_pos;
 		*((int32_t*)L_59) = (int32_t)7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:63>
 		goto IL_0201;
 	}
 
 IL_013e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:65>
 		int32_t L_60 = V_1;
 		int32_t L_61 = V_0;
 		if ((!(((uint32_t)L_60) == ((uint32_t)L_61))))
@@ -6807,6 +6951,7 @@ IL_013e:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:66>
 		String_t** L_62 = ___0_text;
 		String_t** L_63 = ___0_text;
 		String_t* L_64 = *((String_t**)L_63);
@@ -6821,13 +6966,16 @@ IL_013e:
 
 IL_0152:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:67>
 		int32_t* L_67 = ___1_pos;
 		*((int32_t*)L_67) = (int32_t)8;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:68>
 		goto IL_0201;
 	}
 
 IL_015a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:70>
 		int32_t L_68 = V_1;
 		int32_t L_69 = V_0;
 		if ((!(((uint32_t)L_68) == ((uint32_t)L_69))))
@@ -6836,6 +6984,7 @@ IL_015a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:71>
 		String_t** L_70 = ___0_text;
 		String_t** L_71 = ___0_text;
 		String_t* L_72 = *((String_t**)L_71);
@@ -6850,13 +6999,16 @@ IL_015a:
 
 IL_0173:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:72>
 		int32_t* L_75 = ___1_pos;
 		*((int32_t*)L_75) = (int32_t)((int32_t)10);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:73>
 		goto IL_0201;
 	}
 
 IL_017c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:75>
 		int32_t L_76 = V_1;
 		int32_t L_77 = V_0;
 		if ((!(((uint32_t)L_76) == ((uint32_t)L_77))))
@@ -6865,6 +7017,7 @@ IL_017c:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:76>
 		String_t** L_78 = ___0_text;
 		String_t** L_79 = ___0_text;
 		String_t* L_80 = *((String_t**)L_79);
@@ -6879,13 +7032,16 @@ IL_017c:
 
 IL_0195:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:77>
 		int32_t* L_83 = ___1_pos;
 		*((int32_t*)L_83) = (int32_t)((int32_t)11);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:78>
 		goto IL_0201;
 	}
 
 IL_019b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:80>
 		int32_t L_84 = V_1;
 		int32_t L_85 = V_0;
 		if ((!(((uint32_t)L_84) == ((uint32_t)L_85))))
@@ -6894,6 +7050,7 @@ IL_019b:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:81>
 		String_t** L_86 = ___0_text;
 		String_t** L_87 = ___0_text;
 		String_t* L_88 = *((String_t**)L_87);
@@ -6908,13 +7065,16 @@ IL_019b:
 
 IL_01af:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:82>
 		int32_t* L_91 = ___1_pos;
 		*((int32_t*)L_91) = (int32_t)((int32_t)11);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:83>
 		goto IL_0201;
 	}
 
 IL_01b5:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:85>
 		int32_t L_92 = V_1;
 		int32_t L_93 = V_0;
 		if ((!(((uint32_t)L_92) == ((uint32_t)L_93))))
@@ -6923,6 +7083,7 @@ IL_01b5:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:86>
 		String_t** L_94 = ___0_text;
 		String_t** L_95 = ___0_text;
 		String_t* L_96 = *((String_t**)L_95);
@@ -6937,13 +7098,16 @@ IL_01b5:
 
 IL_01c9:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:87>
 		int32_t* L_99 = ___1_pos;
 		*((int32_t*)L_99) = (int32_t)((int32_t)12);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:88>
 		goto IL_0201;
 	}
 
 IL_01cf:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:90>
 		int32_t L_100 = V_1;
 		int32_t L_101 = V_0;
 		if ((!(((uint32_t)L_100) == ((uint32_t)L_101))))
@@ -6952,6 +7116,7 @@ IL_01cf:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:91>
 		String_t** L_102 = ___0_text;
 		String_t** L_103 = ___0_text;
 		String_t* L_104 = *((String_t**)L_103);
@@ -6966,13 +7131,16 @@ IL_01cf:
 
 IL_01e3:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:92>
 		int32_t* L_107 = ___1_pos;
 		*((int32_t*)L_107) = (int32_t)((int32_t)13);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:93>
 		goto IL_0201;
 	}
 
 IL_01e9:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:95>
 		int32_t L_108 = V_1;
 		int32_t L_109 = V_0;
 		if ((!(((uint32_t)L_108) == ((uint32_t)L_109))))
@@ -6981,6 +7149,7 @@ IL_01e9:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:96>
 		String_t** L_110 = ___0_text;
 		String_t** L_111 = ___0_text;
 		String_t* L_112 = *((String_t**)L_111);
@@ -6995,18 +7164,21 @@ IL_01e9:
 
 IL_01fd:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:97>
 		int32_t* L_115 = ___1_pos;
 		*((int32_t*)L_115) = (int32_t)((int32_t)14);
 	}
 
 IL_0201:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:25>
 		int32_t L_116 = V_1;
 		V_1 = ((int32_t)il2cpp_codegen_add(L_116, 1));
 	}
 
 IL_0205:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:25>
 		int32_t L_117 = V_1;
 		int32_t L_118 = V_0;
 		if ((((int32_t)L_117) < ((int32_t)((int32_t)il2cpp_codegen_add(L_118, 1)))))
@@ -7015,6 +7187,7 @@ IL_0205:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs:102>
 		Il2CppChar L_119 = ___2_ch;
 		return L_119;
 	}
@@ -7039,6 +7212,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_PhoneNumberValidator__ctor_m70833F26
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* TMP_TextEventHandler_get_onCharacterSelection_mA62049738125E3C48405E6DFF09E2D42300BE8C3 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:33>
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_0 = __this->___m_OnCharacterSelection;
 		return L_0;
 	}
@@ -7047,9 +7221,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR CharacterSelectionEvent_t5D7AF67F47A37175CF86
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onCharacterSelection_m6B85C54F4E751BF080324D94FB8DA6286CD5A43C (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* ___0_value, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:34>
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_0 = ___0_value;
 		__this->___m_OnCharacterSelection = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnCharacterSelection), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:34>
 		return;
 	}
 }
@@ -7057,6 +7233,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onCharacterSele
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* TMP_TextEventHandler_get_onSpriteSelection_m95CDEB7394FFF38F310717EEEFDCD481D96A5E82 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:45>
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_0 = __this->___m_OnSpriteSelection;
 		return L_0;
 	}
@@ -7065,9 +7242,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SpriteSelectionEvent_t770551D2973013622C464E8
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onSpriteSelection_mFFBD9D70A791A3F2065C1063F258465EDA8AC2C5 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* ___0_value, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:46>
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_0 = ___0_value;
 		__this->___m_OnSpriteSelection = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnSpriteSelection), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:46>
 		return;
 	}
 }
@@ -7075,6 +7254,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onSpriteSelecti
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* TMP_TextEventHandler_get_onWordSelection_mF22771B4213EEB3AEFCDA390A4FF28FED5D9184C (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:57>
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_0 = __this->___m_OnWordSelection;
 		return L_0;
 	}
@@ -7083,9 +7263,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR WordSelectionEvent_t340E6006406B5E90F7190C562
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onWordSelection_mA7EB31AF14EAADD968857DDAC994F7728B7B02E3 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* ___0_value, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:58>
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_0 = ___0_value;
 		__this->___m_OnWordSelection = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnWordSelection), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:58>
 		return;
 	}
 }
@@ -7093,6 +7275,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onWordSelection
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* TMP_TextEventHandler_get_onLineSelection_mDDF07E7000993FCD6EAF2FBD2D2226EB66273908 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:69>
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_0 = __this->___m_OnLineSelection;
 		return L_0;
 	}
@@ -7101,9 +7284,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LineSelectionEvent_t526120C6113E0638913B951E3
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onLineSelection_m098580AA8098939290113692072E18F9A293B427 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* ___0_value, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:70>
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_0 = ___0_value;
 		__this->___m_OnLineSelection = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnLineSelection), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:70>
 		return;
 	}
 }
@@ -7111,6 +7296,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onLineSelection
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* TMP_TextEventHandler_get_onLinkSelection_m87FB9EABE7F917B2F910A18A3B5F1AE3020D976D (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:81>
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_0 = __this->___m_OnLinkSelection;
 		return L_0;
 	}
@@ -7119,9 +7305,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LinkSelectionEvent_t5CE74F742D231580ED2C810EC
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_set_onLinkSelection_m6741C71F7E218C744CD7AA18B7456382E4B703FF (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* ___0_value, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:82>
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_0 = ___0_value;
 		__this->___m_OnLinkSelection = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnLinkSelection), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:82>
 		return;
 	}
 }
@@ -7138,6 +7326,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:102>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -7145,6 +7334,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 		L_1 = GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3(L_0, GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3_RuntimeMethod_var);
 		__this->___m_TextComponent = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:105>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_2 = __this->___m_TextComponent;
 		NullCheck(L_2);
 		Type_t* L_3;
@@ -7161,6 +7351,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:107>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_7;
 		L_7 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_7);
@@ -7168,6 +7359,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 		L_8 = GameObject_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m0A41CB7A7F9A10FCC98D1C7B5799D57C2724D991(L_7, GameObject_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m0A41CB7A7F9A10FCC98D1C7B5799D57C2724D991_RuntimeMethod_var);
 		__this->___m_Canvas = L_8;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Canvas), (void*)L_8);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:108>
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_9 = __this->___m_Canvas;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_10;
@@ -7178,6 +7370,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:110>
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_11 = __this->___m_Canvas;
 		NullCheck(L_11);
 		int32_t L_12;
@@ -7188,6 +7381,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:111>
 		__this->___m_Camera = (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184*)NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Camera), (void*)(Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184*)NULL);
 		return;
@@ -7195,6 +7389,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_Awake_mE2D7EB8218B2
 
 IL_0061:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:113>
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_13 = __this->___m_Canvas;
 		NullCheck(L_13);
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_14;
@@ -7206,6 +7401,7 @@ IL_0061:
 
 IL_0073:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:118>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_15;
 		L_15 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		__this->___m_Camera = L_15;
@@ -7214,6 +7410,7 @@ IL_0073:
 
 IL_007e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:120>
 		return;
 	}
 }
@@ -7242,6 +7439,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 	TMP_LinkInfo_t9DC08E8BF8C5E8094AFF8C9FB3C251AF88B92DA6 V_10;
 	memset((&V_10), 0, sizeof(V_10));
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:125>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0 = __this->___m_TextComponent;
 		NullCheck(L_0);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_1;
@@ -7258,6 +7456,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:137>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_5 = __this->___m_TextComponent;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
 		L_6 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -7266,6 +7465,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 		int32_t L_8;
 		L_8 = TMP_TextUtilities_FindIntersectingCharacter_m89C20D1FB440DECC3C06670B457A707B6DB36453(L_5, L_6, L_7, (bool)1, NULL);
 		V_0 = L_8;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:138>
 		int32_t L_9 = V_0;
 		if ((((int32_t)L_9) == ((int32_t)(-1))))
 		{
@@ -7281,8 +7481,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:140>
 		int32_t L_12 = V_0;
 		__this->___m_lastCharIndex = L_12;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:142>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_13 = __this->___m_TextComponent;
 		NullCheck(L_13);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_14;
@@ -7293,6 +7495,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 		NullCheck(L_15);
 		int32_t L_17 = ((L_15)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_16)))->___elementType;
 		V_4 = L_17;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:145>
 		int32_t L_18 = V_4;
 		if (L_18)
 		{
@@ -7300,6 +7503,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:146>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_19 = __this->___m_TextComponent;
 		NullCheck(L_19);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_20;
@@ -7316,6 +7520,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_LateUpdate_mBF0056A
 
 IL_0091:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:147>
 		int32_t L_25 = V_4;
 		if ((!(((uint32_t)L_25) == ((uint32_t)1))))
 		{
@@ -7323,6 +7528,7 @@ IL_0091:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:148>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_26 = __this->___m_TextComponent;
 		NullCheck(L_26);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_27;
@@ -7338,6 +7544,7 @@ IL_0091:
 
 IL_00b8:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:155>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_32 = __this->___m_TextComponent;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_33;
 		L_33 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -7346,6 +7553,7 @@ IL_00b8:
 		int32_t L_35;
 		L_35 = TMP_TextUtilities_FindIntersectingWord_m93E6DBCA2781A67271E7D0F8906CA0488CA08EB2(L_32, L_33, L_34, NULL);
 		V_1 = L_35;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:156>
 		int32_t L_36 = V_1;
 		if ((((int32_t)L_36) == ((int32_t)(-1))))
 		{
@@ -7361,8 +7569,10 @@ IL_00b8:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:158>
 		int32_t L_39 = V_1;
 		__this->___m_lastWordIndex = L_39;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:161>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_40 = __this->___m_TextComponent;
 		NullCheck(L_40);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_41;
@@ -7374,6 +7584,7 @@ IL_00b8:
 		int32_t L_44 = L_43;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_45 = (L_42)->GetAt(static_cast<il2cpp_array_size_t>(L_44));
 		V_5 = L_45;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:164>
 		String_t* L_46;
 		L_46 = TMP_WordInfo_GetWord_m7F72AB87E8AB0FA75616FD5409A8F5C031294D2C((&V_5), NULL);
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_47 = V_5;
@@ -7385,6 +7596,7 @@ IL_00b8:
 
 IL_0116:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:171>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_51 = __this->___m_TextComponent;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_52;
 		L_52 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -7393,6 +7605,7 @@ IL_0116:
 		int32_t L_54;
 		L_54 = TMP_TextUtilities_FindIntersectingLine_mDC468F4E9D28F89D313DEC468155185CB4E803E8(L_51, L_52, L_53, NULL);
 		V_2 = L_54;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:172>
 		int32_t L_55 = V_2;
 		if ((((int32_t)L_55) == ((int32_t)(-1))))
 		{
@@ -7408,8 +7621,10 @@ IL_0116:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:174>
 		int32_t L_58 = V_2;
 		__this->___m_lastLineIndex = L_58;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:177>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_59 = __this->___m_TextComponent;
 		NullCheck(L_59);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_60;
@@ -7421,16 +7636,19 @@ IL_0116:
 		int32_t L_63 = L_62;
 		TMP_LineInfo_tB75C1965B58DB7B3A046C8CA55AD6AB92B6B17B3 L_64 = (L_61)->GetAt(static_cast<il2cpp_array_size_t>(L_63));
 		V_6 = L_64;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:180>
 		TMP_LineInfo_tB75C1965B58DB7B3A046C8CA55AD6AB92B6B17B3 L_65 = V_6;
 		int32_t L_66 = L_65.___characterCount;
 		CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* L_67 = (CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB*)(CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB*)SZArrayNew(CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB_il2cpp_TypeInfo_var, (uint32_t)L_66);
 		V_7 = L_67;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:181>
 		V_9 = 0;
 		goto IL_01a1;
 	}
 
 IL_0172:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:183>
 		CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* L_68 = V_7;
 		int32_t L_69 = V_9;
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_70 = __this->___m_TextComponent;
@@ -7446,12 +7664,14 @@ IL_0172:
 		Il2CppChar L_76 = ((L_72)->GetAddressAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_73, L_75)))))->___character;
 		NullCheck(L_68);
 		(L_68)->SetAt(static_cast<il2cpp_array_size_t>(L_69), (Il2CppChar)L_76);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:181>
 		int32_t L_77 = V_9;
 		V_9 = ((int32_t)il2cpp_codegen_add(L_77, 1));
 	}
 
 IL_01a1:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:181>
 		int32_t L_78 = V_9;
 		TMP_LineInfo_tB75C1965B58DB7B3A046C8CA55AD6AB92B6B17B3 L_79 = V_6;
 		int32_t L_80 = L_79.___characterCount;
@@ -7477,10 +7697,12 @@ IL_01a1:
 
 IL_01c2:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:186>
 		CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB* L_85 = V_7;
 		String_t* L_86;
 		L_86 = String_CreateString_mFBC28D2E3EB87D497F7E702E4FFAD65F635E44DF(NULL, L_85, NULL);
 		V_8 = L_86;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:187>
 		String_t* L_87 = V_8;
 		TMP_LineInfo_tB75C1965B58DB7B3A046C8CA55AD6AB92B6B17B3 L_88 = V_6;
 		int32_t L_89 = L_88.___firstCharacterIndex;
@@ -7491,6 +7713,7 @@ IL_01c2:
 
 IL_01e1:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:194>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_92 = __this->___m_TextComponent;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_93;
 		L_93 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -7499,6 +7722,7 @@ IL_01e1:
 		int32_t L_95;
 		L_95 = TMP_TextUtilities_FindIntersectingLink_mC752442B8650D5146505B5C18C7D92B681D276E9(L_92, L_93, L_94, NULL);
 		V_3 = L_95;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:197>
 		int32_t L_96 = V_3;
 		if ((((int32_t)L_96) == ((int32_t)(-1))))
 		{
@@ -7514,8 +7738,10 @@ IL_01e1:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:199>
 		int32_t L_99 = V_3;
 		__this->___m_selectedLink = L_99;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:202>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_100 = __this->___m_TextComponent;
 		NullCheck(L_100);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_101;
@@ -7527,6 +7753,7 @@ IL_01e1:
 		int32_t L_104 = L_103;
 		TMP_LinkInfo_t9DC08E8BF8C5E8094AFF8C9FB3C251AF88B92DA6 L_105 = (L_102)->GetAt(static_cast<il2cpp_array_size_t>(L_104));
 		V_10 = L_105;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:205>
 		String_t* L_106;
 		L_106 = TMP_LinkInfo_GetLinkID_mCC9D9E783D606660A4D15E0E746E1E27AD9C2425((&V_10), NULL);
 		String_t* L_107;
@@ -7538,14 +7765,19 @@ IL_01e1:
 
 IL_023a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:212>
 		__this->___m_selectedLink = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:213>
 		__this->___m_lastCharIndex = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:214>
 		__this->___m_lastWordIndex = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:215>
 		__this->___m_lastLineIndex = (-1);
 	}
 
 IL_0256:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:217>
 		return;
 	}
 }
@@ -7553,6 +7785,7 @@ IL_0256:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_OnPointerEnter_mF5B4CCF0C9F2EFE24B6D4C7B31C620C91ABBC07A (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:223>
 		return;
 	}
 }
@@ -7560,6 +7793,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_OnPointerEnter_mF5B
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_OnPointerExit_mC0561024D04FED2D026BEB3EC183550092823AE6 (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:229>
 		return;
 	}
 }
@@ -7573,6 +7807,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnCharacterSele
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:234>
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_0;
 		L_0 = TMP_TextEventHandler_get_onCharacterSelection_mA62049738125E3C48405E6DFF09E2D42300BE8C3_inline(__this, NULL);
 		if (!L_0)
@@ -7581,6 +7816,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnCharacterSele
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:235>
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_1;
 		L_1 = TMP_TextEventHandler_get_onCharacterSelection_mA62049738125E3C48405E6DFF09E2D42300BE8C3_inline(__this, NULL);
 		Il2CppChar L_2 = ___0_character;
@@ -7591,6 +7827,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnCharacterSele
 
 IL_0015:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:236>
 		return;
 	}
 }
@@ -7604,6 +7841,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnSpriteSelecti
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:240>
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_0;
 		L_0 = TMP_TextEventHandler_get_onSpriteSelection_m95CDEB7394FFF38F310717EEEFDCD481D96A5E82_inline(__this, NULL);
 		if (!L_0)
@@ -7612,6 +7850,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnSpriteSelecti
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:241>
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_1;
 		L_1 = TMP_TextEventHandler_get_onSpriteSelection_m95CDEB7394FFF38F310717EEEFDCD481D96A5E82_inline(__this, NULL);
 		Il2CppChar L_2 = ___0_character;
@@ -7622,6 +7861,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnSpriteSelecti
 
 IL_0015:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:242>
 		return;
 	}
 }
@@ -7635,6 +7875,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnWordSelection
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:246>
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_0;
 		L_0 = TMP_TextEventHandler_get_onWordSelection_mF22771B4213EEB3AEFCDA390A4FF28FED5D9184C_inline(__this, NULL);
 		if (!L_0)
@@ -7643,6 +7884,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnWordSelection
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:247>
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_1;
 		L_1 = TMP_TextEventHandler_get_onWordSelection_mF22771B4213EEB3AEFCDA390A4FF28FED5D9184C_inline(__this, NULL);
 		String_t* L_2 = ___0_word;
@@ -7654,6 +7896,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnWordSelection
 
 IL_0016:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:248>
 		return;
 	}
 }
@@ -7667,6 +7910,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnLineSelection
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:252>
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_0;
 		L_0 = TMP_TextEventHandler_get_onLineSelection_mDDF07E7000993FCD6EAF2FBD2D2226EB66273908_inline(__this, NULL);
 		if (!L_0)
@@ -7675,6 +7919,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnLineSelection
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:253>
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_1;
 		L_1 = TMP_TextEventHandler_get_onLineSelection_mDDF07E7000993FCD6EAF2FBD2D2226EB66273908_inline(__this, NULL);
 		String_t* L_2 = ___0_line;
@@ -7686,6 +7931,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnLineSelection
 
 IL_0016:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:254>
 		return;
 	}
 }
@@ -7699,6 +7945,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnLinkSelection
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:258>
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_0;
 		L_0 = TMP_TextEventHandler_get_onLinkSelection_m87FB9EABE7F917B2F910A18A3B5F1AE3020D976D_inline(__this, NULL);
 		if (!L_0)
@@ -7707,6 +7954,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnLinkSelection
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:259>
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_1;
 		L_1 = TMP_TextEventHandler_get_onLinkSelection_m87FB9EABE7F917B2F910A18A3B5F1AE3020D976D_inline(__this, NULL);
 		String_t* L_2 = ___0_linkID;
@@ -7718,6 +7966,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler_SendOnLinkSelection
 
 IL_0016:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:260>
 		return;
 	}
 }
@@ -7735,29 +7984,38 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventHandler__ctor_mADE4C28CAE14
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:37>
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_0 = (CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392*)il2cpp_codegen_object_new(CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392_il2cpp_TypeInfo_var);
 		CharacterSelectionEvent__ctor_m054FE9253D3C4478F57DE900A15AC9A61EC3C11E(L_0, NULL);
 		__this->___m_OnCharacterSelection = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnCharacterSelection), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:49>
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_1 = (SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95*)il2cpp_codegen_object_new(SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95_il2cpp_TypeInfo_var);
 		SpriteSelectionEvent__ctor_m89C1D1F720F140491B28D9B32B0C7202EE8C4963(L_1, NULL);
 		__this->___m_OnSpriteSelection = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnSpriteSelection), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:61>
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_2 = (WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E*)il2cpp_codegen_object_new(WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E_il2cpp_TypeInfo_var);
 		WordSelectionEvent__ctor_m3F52F327A9627042EDB065C1080CEB764F1154F2(L_2, NULL);
 		__this->___m_OnWordSelection = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnWordSelection), (void*)L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:73>
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_3 = (LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880*)il2cpp_codegen_object_new(LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880_il2cpp_TypeInfo_var);
 		LineSelectionEvent__ctor_m419828B3E32BC3F6F5AAC88D7B90CF50A74C80B2(L_3, NULL);
 		__this->___m_OnLineSelection = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnLineSelection), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:85>
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_4 = (LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D*)il2cpp_codegen_object_new(LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D_il2cpp_TypeInfo_var);
 		LinkSelectionEvent__ctor_m4083D6FF46F61AAF956F77FFE849B5166E2579BC(L_4, NULL);
 		__this->___m_OnLinkSelection = L_4;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_OnLinkSelection), (void*)L_4);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:94>
 		__this->___m_selectedLink = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:95>
 		__this->___m_lastCharIndex = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:96>
 		__this->___m_lastWordIndex = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:97>
 		__this->___m_lastLineIndex = (-1);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -7989,6 +8247,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CStartU3Ed__10_MoveNext_m5F93878ED8166
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:36>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_3 = V_1;
 		NullCheck(L_3);
 		int32_t L_4 = L_3->___BenchmarkType;
@@ -7998,6 +8257,7 @@ IL_0022:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:38>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_5 = V_1;
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_6 = V_1;
 		NullCheck(L_6);
@@ -8009,11 +8269,13 @@ IL_0022:
 		NullCheck(L_5);
 		L_5->___m_textMeshPro = L_8;
 		Il2CppCodeGenWriteBarrier((void**)(&L_5->___m_textMeshPro), (void*)L_8);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:39>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_9 = V_1;
 		NullCheck(L_9);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_10 = L_9->___m_textMeshPro;
 		NullCheck(L_10);
 		VirtualActionInvoker1< bool >::Invoke(76, L_10, (bool)1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:43>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_11 = V_1;
 		NullCheck(L_11);
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_12 = L_11->___TMProFont;
@@ -8026,6 +8288,7 @@ IL_0022:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:44>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_14 = V_1;
 		NullCheck(L_14);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_15 = L_14->___m_textMeshPro;
@@ -8038,26 +8301,31 @@ IL_0022:
 
 IL_0070:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:49>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_18 = V_1;
 		NullCheck(L_18);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_19 = L_18->___m_textMeshPro;
 		NullCheck(L_19);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_19, (48.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:50>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_20 = V_1;
 		NullCheck(L_20);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_21 = L_20->___m_textMeshPro;
 		NullCheck(L_21);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_21, ((int32_t)514), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:52>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_22 = V_1;
 		NullCheck(L_22);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_23 = L_22->___m_textMeshPro;
 		NullCheck(L_23);
 		TMP_Text_set_extraPadding_m26595B78EDE43EFBCCBF7D5E23932ADCB983EF32(L_23, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:57>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_24 = V_1;
 		NullCheck(L_24);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_25 = L_24->___m_textMeshPro;
 		NullCheck(L_25);
 		TMP_Text_set_textWrappingMode_mBD3A313CC85C9BB85F924D589A33A500E21DCA3D(L_25, 0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:62>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_26 = V_1;
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_27 = V_1;
 		NullCheck(L_27);
@@ -8071,6 +8339,7 @@ IL_0070:
 		NullCheck(L_26);
 		L_26->___m_material01 = L_30;
 		Il2CppCodeGenWriteBarrier((void**)(&L_26->___m_material01), (void*)L_30);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:63>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_31 = V_1;
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_32;
 		L_32 = Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E(_stringLiteralF359E6DDFFFF3D8B034D057E57DBD8ABA4ED7FFC, Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E_RuntimeMethod_var);
@@ -8082,6 +8351,7 @@ IL_0070:
 
 IL_00d3:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:67>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_33 = V_1;
 		NullCheck(L_33);
 		int32_t L_34 = L_33->___BenchmarkType;
@@ -8091,6 +8361,7 @@ IL_00d3:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:69>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_35 = V_1;
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_36 = V_1;
 		NullCheck(L_36);
@@ -8102,6 +8373,7 @@ IL_00d3:
 		NullCheck(L_35);
 		L_35->___m_textMesh = L_38;
 		Il2CppCodeGenWriteBarrier((void**)(&L_35->___m_textMesh), (void*)L_38);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:71>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_39 = V_1;
 		NullCheck(L_39);
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_40 = L_39->___TextMeshFont;
@@ -8114,6 +8386,7 @@ IL_00d3:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:73>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_42 = V_1;
 		NullCheck(L_42);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_43 = L_42->___m_textMesh;
@@ -8122,6 +8395,7 @@ IL_00d3:
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_45 = L_44->___TextMeshFont;
 		NullCheck(L_43);
 		TextMesh_set_font_m7E407CAEDBB382B95B70069D8FAB8A9E74EAAA74(L_43, L_45, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:74>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_46 = V_1;
 		NullCheck(L_46);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_47 = L_46->___m_textMesh;
@@ -8144,6 +8418,7 @@ IL_00d3:
 
 IL_0131:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:78>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_53 = V_1;
 		NullCheck(L_53);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_54 = L_53->___m_textMesh;
@@ -8155,6 +8430,7 @@ IL_0131:
 		L_57 = Resources_Load_m6CD8FBBCCFFF22179FA0E7B1806B888103008D33(_stringLiteral9D329ACFC4F7EECCB821A7FEF99A0F23E1C721B7, L_56, NULL);
 		NullCheck(L_54);
 		TextMesh_set_font_m7E407CAEDBB382B95B70069D8FAB8A9E74EAAA74(L_54, ((Font_tC95270EA3198038970422D78B74A7F2E218A96B6*)IsInstSealed((RuntimeObject*)L_57, Font_tC95270EA3198038970422D78B74A7F2E218A96B6_il2cpp_TypeInfo_var)), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:79>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_58 = V_1;
 		NullCheck(L_58);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_59 = L_58->___m_textMesh;
@@ -8176,11 +8452,13 @@ IL_0131:
 
 IL_0175:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:82>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_65 = V_1;
 		NullCheck(L_65);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_66 = L_65->___m_textMesh;
 		NullCheck(L_66);
 		TextMesh_set_fontSize_mAB9F7FFC0E4DB759B786F6A9357B18C86015498B(L_66, ((int32_t)48), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:83>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_67 = V_1;
 		NullCheck(L_67);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_68 = L_67->___m_textMesh;
@@ -8190,12 +8468,14 @@ IL_0175:
 
 IL_018e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:90>
 		__this->___U3CiU3E5__2 = 0;
 		goto IL_0280;
 	}
 
 IL_019a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:92>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_69 = V_1;
 		NullCheck(L_69);
 		int32_t L_70 = L_69->___BenchmarkType;
@@ -8205,12 +8485,14 @@ IL_019a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:94>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_71 = V_1;
 		NullCheck(L_71);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_72 = L_71->___m_textMeshPro;
 		int32_t L_73 = __this->___U3CiU3E5__2;
 		NullCheck(L_72);
 		TMP_Text_SetText_mC6973FFC60DB6A96B0C4253CD2FD9D0789ECC533(L_72, _stringLiteralC307A6AA53A901DED3039EE47F98C72B9160E490, ((float)((int32_t)(L_73%((int32_t)1000)))), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:95>
 		int32_t L_74 = __this->___U3CiU3E5__2;
 		if ((!(((uint32_t)((int32_t)(L_74%((int32_t)1000)))) == ((uint32_t)((int32_t)999)))))
 		{
@@ -8218,6 +8500,7 @@ IL_019a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:96>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_75 = V_1;
 		NullCheck(L_75);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_76 = L_75->___m_textMeshPro;
@@ -8283,6 +8566,7 @@ IL_0220:
 
 IL_0227:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:101>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_95 = V_1;
 		NullCheck(L_95);
 		int32_t L_96 = L_95->___BenchmarkType;
@@ -8292,6 +8576,7 @@ IL_0227:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:102>
 		Benchmark01_t5B476C61575B5B6B64FA318EE0B32114E702DD5D* L_97 = V_1;
 		NullCheck(L_97);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_98 = L_97->___m_textMesh;
@@ -8307,6 +8592,7 @@ IL_0227:
 
 IL_0259:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:104>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -8316,6 +8602,7 @@ IL_0259:
 IL_0269:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:90>
 		int32_t L_102 = __this->___U3CiU3E5__2;
 		V_3 = L_102;
 		int32_t L_103 = V_3;
@@ -8324,6 +8611,7 @@ IL_0269:
 
 IL_0280:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:90>
 		int32_t L_104 = __this->___U3CiU3E5__2;
 		if ((((int32_t)L_104) <= ((int32_t)((int32_t)1000000))))
 		{
@@ -8331,6 +8619,7 @@ IL_0280:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:108>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 2;
@@ -8340,6 +8629,7 @@ IL_0280:
 IL_02a0:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs:109>
 		return (bool)0;
 	}
 }
@@ -8480,6 +8770,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CStartU3Ed__10_MoveNext_mDCA96D0D1226C
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:41>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_3 = V_1;
 		NullCheck(L_3);
 		int32_t L_4 = L_3->___BenchmarkType;
@@ -8489,6 +8780,7 @@ IL_0022:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:43>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_5 = V_1;
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_6 = V_1;
 		NullCheck(L_6);
@@ -8500,6 +8792,7 @@ IL_0022:
 		NullCheck(L_5);
 		L_5->___m_textMeshPro = L_8;
 		Il2CppCodeGenWriteBarrier((void**)(&L_5->___m_textMeshPro), (void*)L_8);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:49>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_9 = V_1;
 		NullCheck(L_9);
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_10 = L_9->___TMProFont;
@@ -8512,6 +8805,7 @@ IL_0022:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:50>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_12 = V_1;
 		NullCheck(L_12);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_13 = L_12->___m_textMeshPro;
@@ -8524,21 +8818,25 @@ IL_0022:
 
 IL_0064:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:55>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_16 = V_1;
 		NullCheck(L_16);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_17 = L_16->___m_textMeshPro;
 		NullCheck(L_17);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_17, (48.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:56>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_18 = V_1;
 		NullCheck(L_18);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_19 = L_18->___m_textMeshPro;
 		NullCheck(L_19);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_19, ((int32_t)514), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:58>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_20 = V_1;
 		NullCheck(L_20);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_21 = L_20->___m_textMeshPro;
 		NullCheck(L_21);
 		TMP_Text_set_extraPadding_m26595B78EDE43EFBCCBF7D5E23932ADCB983EF32(L_21, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:68>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_22 = V_1;
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_23 = V_1;
 		NullCheck(L_23);
@@ -8552,6 +8850,7 @@ IL_0064:
 		NullCheck(L_22);
 		L_22->___m_material01 = L_26;
 		Il2CppCodeGenWriteBarrier((void**)(&L_22->___m_material01), (void*)L_26);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:69>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_27 = V_1;
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_28;
 		L_28 = Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E(_stringLiteral000A577FA6F1044FCB37680E918D59D0DA3E7DDA, Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E_RuntimeMethod_var);
@@ -8563,6 +8862,7 @@ IL_0064:
 
 IL_00b8:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:73>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_29 = V_1;
 		NullCheck(L_29);
 		int32_t L_30 = L_29->___BenchmarkType;
@@ -8572,6 +8872,7 @@ IL_00b8:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:75>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_31 = V_1;
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_32 = V_1;
 		NullCheck(L_32);
@@ -8583,6 +8884,7 @@ IL_00b8:
 		NullCheck(L_31);
 		L_31->___m_textMesh = L_34;
 		Il2CppCodeGenWriteBarrier((void**)(&L_31->___m_textMesh), (void*)L_34);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:77>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_35 = V_1;
 		NullCheck(L_35);
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_36 = L_35->___TextMeshFont;
@@ -8595,6 +8897,7 @@ IL_00b8:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:79>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_38 = V_1;
 		NullCheck(L_38);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_39 = L_38->___m_textMesh;
@@ -8607,11 +8910,13 @@ IL_00b8:
 
 IL_00f1:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:88>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_42 = V_1;
 		NullCheck(L_42);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_43 = L_42->___m_textMesh;
 		NullCheck(L_43);
 		Text_set_fontSize_m426338B0A2CDA58609028FFD471EF5F2C9F364D4(L_43, ((int32_t)48), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:89>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_44 = V_1;
 		NullCheck(L_44);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_45 = L_44->___m_textMesh;
@@ -8621,12 +8926,14 @@ IL_00f1:
 
 IL_010a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:96>
 		__this->___U3CiU3E5__2 = 0;
 		goto IL_0208;
 	}
 
 IL_0116:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:98>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_46 = V_1;
 		NullCheck(L_46);
 		int32_t L_47 = L_46->___BenchmarkType;
@@ -8636,6 +8943,7 @@ IL_0116:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:100>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_48 = V_1;
 		NullCheck(L_48);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_49 = L_48->___m_textMeshPro;
@@ -8647,6 +8955,7 @@ IL_0116:
 		L_52 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteral75A94EE44309525CF46FB9C022ED6E9EFAC8B506, L_51, NULL);
 		NullCheck(L_49);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_49, L_52);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:101>
 		int32_t L_53 = __this->___U3CiU3E5__2;
 		if ((!(((uint32_t)((int32_t)(L_53%((int32_t)1000)))) == ((uint32_t)((int32_t)999)))))
 		{
@@ -8654,6 +8963,7 @@ IL_0116:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:102>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_54 = V_1;
 		NullCheck(L_54);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_55 = L_54->___m_textMeshPro;
@@ -8719,6 +9029,7 @@ IL_01a8:
 
 IL_01af:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:107>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_74 = V_1;
 		NullCheck(L_74);
 		int32_t L_75 = L_74->___BenchmarkType;
@@ -8728,6 +9039,7 @@ IL_01af:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:108>
 		Benchmark01_UGUI_t7DF9DF96E75AF6072B851B638B90BD76FEE0EFD7* L_76 = V_1;
 		NullCheck(L_76);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_77 = L_76->___m_textMesh;
@@ -8743,6 +9055,7 @@ IL_01af:
 
 IL_01e1:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:110>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -8752,6 +9065,7 @@ IL_01e1:
 IL_01f1:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:96>
 		int32_t L_81 = __this->___U3CiU3E5__2;
 		V_2 = L_81;
 		int32_t L_82 = V_2;
@@ -8760,6 +9074,7 @@ IL_01f1:
 
 IL_0208:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:96>
 		int32_t L_83 = __this->___U3CiU3E5__2;
 		if ((((int32_t)L_83) <= ((int32_t)((int32_t)1000000))))
 		{
@@ -8767,6 +9082,7 @@ IL_0208:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:114>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 2;
@@ -8776,6 +9092,7 @@ IL_0208:
 IL_0228:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs:115>
 		return (bool)0;
 	}
 }
@@ -8837,12 +9154,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark02_Start_mB56F21A9861A3DAF9F4E7
 	TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* V_3 = NULL;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_4 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:21>
 		V_0 = 0;
 		goto IL_02b2;
 	}
 
 IL_0007:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:25>
 		int32_t L_0 = __this->___SpawnType;
 		if (L_0)
 		{
@@ -8850,9 +9169,11 @@ IL_0007:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:28>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_1, NULL);
 		V_1 = L_1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:29>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = V_1;
 		NullCheck(L_2);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3;
@@ -8866,13 +9187,16 @@ IL_0007:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_6), L_4, (0.25f), L_5, NULL);
 		NullCheck(L_3);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_3, L_6, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:31>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_7 = V_1;
 		NullCheck(L_7);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_8;
 		L_8 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_7, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:33>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_9 = L_8;
 		NullCheck(L_9);
 		VirtualActionInvoker1< bool >::Invoke(76, L_9, (bool)1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:34>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_10 = L_9;
 		NullCheck(L_10);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_11;
@@ -8882,18 +9206,22 @@ IL_0007:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_12), (0.5f), (0.0f), NULL);
 		NullCheck(L_11);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_11, L_12, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:36>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_13 = L_10;
 		NullCheck(L_13);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_13, ((int32_t)1026), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:37>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_14 = L_13;
 		NullCheck(L_14);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_14, (96.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:38>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_15 = L_14;
 		NullCheck(L_15);
 		List_1_t3A076A19AF26E22A128C32B5C19804DDD2877607* L_16;
 		L_16 = TMP_Text_get_fontFeatures_mB68611B8CC517E049004F25EB9966F1CC3830499_inline(L_15, NULL);
 		NullCheck(L_16);
 		List_1_Clear_mF99932B21C9883F8D329D36A63CB886718B9C18E_inline(L_16, List_1_Clear_mF99932B21C9883F8D329D36A63CB886718B9C18E_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:40>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_17 = L_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_18;
 		memset((&L_18), 0, sizeof(L_18));
@@ -8902,21 +9230,26 @@ IL_0007:
 		L_19 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_18, NULL);
 		NullCheck(L_17);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_17, L_19);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:41>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_20 = L_17;
 		NullCheck(L_20);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_20, _stringLiteral15196F05B117690F3E12E56AA0C43803EA0D2A46);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:42>
 		bool L_21 = __this->___IsTextObjectScaleStatic;
 		NullCheck(L_20);
 		TMP_Text_set_isTextObjectScaleStatic_m8436FC38400ABE08F513770AF9C8CC6743DBE092(L_20, L_21, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:45>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_22 = V_1;
 		NullCheck(L_22);
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_23;
 		L_23 = GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1(L_22, GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1_RuntimeMethod_var);
 		__this->___floatingText_Script = L_23;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___floatingText_Script), (void*)L_23);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:46>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_24 = __this->___floatingText_Script;
 		NullCheck(L_24);
 		L_24->___SpawnType = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:47>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_25 = __this->___floatingText_Script;
 		bool L_26 = __this->___IsTextObjectScaleStatic;
 		NullCheck(L_25);
@@ -8926,6 +9259,7 @@ IL_0007:
 
 IL_00f7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:49>
 		int32_t L_27 = __this->___SpawnType;
 		if ((!(((uint32_t)L_27) == ((uint32_t)1))))
 		{
@@ -8933,9 +9267,11 @@ IL_00f7:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:52>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_28 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_28, NULL);
 		V_2 = L_28;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:53>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_29 = V_2;
 		NullCheck(L_29);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_30;
@@ -8949,16 +9285,19 @@ IL_00f7:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_33), L_31, (0.25f), L_32, NULL);
 		NullCheck(L_30);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_30, L_33, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:55>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_34 = V_2;
 		NullCheck(L_34);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_35;
 		L_35 = GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2(L_34, GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2_RuntimeMethod_var);
 		V_3 = L_35;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:56>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_36 = V_3;
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_37;
 		L_37 = Resources_Load_TisFont_tC95270EA3198038970422D78B74A7F2E218A96B6_m2B532BE5E14BE59B8F59F82BF8193EEEE249DC6D(_stringLiteral9D329ACFC4F7EECCB821A7FEF99A0F23E1C721B7, Resources_Load_TisFont_tC95270EA3198038970422D78B74A7F2E218A96B6_m2B532BE5E14BE59B8F59F82BF8193EEEE249DC6D_RuntimeMethod_var);
 		NullCheck(L_36);
 		TextMesh_set_font_m7E407CAEDBB382B95B70069D8FAB8A9E74EAAA74(L_36, L_37, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:57>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_38 = V_3;
 		NullCheck(L_38);
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_39;
@@ -8972,12 +9311,15 @@ IL_00f7:
 		L_42 = Font_get_material_m61ABDEC14C6D659DDC5A4F080023699116C17364(L_41, NULL);
 		NullCheck(L_39);
 		Renderer_set_sharedMaterial_m5E842F9A06CFB7B77656EB319881CB4B3E8E4288(L_39, L_42, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:59>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_43 = V_3;
 		NullCheck(L_43);
 		TextMesh_set_anchor_m3FCB7C4B1FF66CE189B56076C0306AFE984FCD32(L_43, 7, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:60>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_44 = V_3;
 		NullCheck(L_44);
 		TextMesh_set_fontSize_mAB9F7FFC0E4DB759B786F6A9357B18C86015498B(L_44, ((int32_t)96), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:62>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_45 = V_3;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_46;
 		memset((&L_46), 0, sizeof(L_46));
@@ -8986,15 +9328,18 @@ IL_00f7:
 		L_47 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_46, NULL);
 		NullCheck(L_45);
 		TextMesh_set_color_mF08F30C3CD797C16289225B567724B9F07DC641E(L_45, L_47, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:63>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_48 = V_3;
 		NullCheck(L_48);
 		TextMesh_set_text_mDF79D39638ED82797D0B0B3BB9E6B10712F8EA9E(L_48, _stringLiteral15196F05B117690F3E12E56AA0C43803EA0D2A46, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:66>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_49 = V_2;
 		NullCheck(L_49);
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_50;
 		L_50 = GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1(L_49, GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1_RuntimeMethod_var);
 		__this->___floatingText_Script = L_50;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___floatingText_Script), (void*)L_50);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:67>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_51 = __this->___floatingText_Script;
 		NullCheck(L_51);
 		L_51->___SpawnType = 1;
@@ -9003,6 +9348,7 @@ IL_00f7:
 
 IL_01c0:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:69>
 		int32_t L_52 = __this->___SpawnType;
 		if ((!(((uint32_t)L_52) == ((uint32_t)2))))
 		{
@@ -9010,17 +9356,21 @@ IL_01c0:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:72>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_53 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_53, NULL);
 		V_4 = L_53;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:73>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_54 = V_4;
 		NullCheck(L_54);
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_55;
 		L_55 = GameObject_AddComponent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m13C85FD585C0679530F8B35D0B39D965702FD0F5(L_54, GameObject_AddComponent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m13C85FD585C0679530F8B35D0B39D965702FD0F5_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:74>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_56;
 		L_56 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		NullCheck(L_55);
 		Canvas_set_worldCamera_m007F7DABDB5A3A6BFB043E3500DA82A4D936EDD4(L_55, L_56, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:76>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_57 = V_4;
 		NullCheck(L_57);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_58;
@@ -9030,6 +9380,7 @@ IL_01c0:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_59), (0.100000001f), (0.100000001f), (0.100000001f), NULL);
 		NullCheck(L_58);
 		Transform_set_localScale_mBA79E811BAF6C47B80FF76414C12B47B3CD03633(L_58, L_59, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:77>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_60 = V_4;
 		NullCheck(L_60);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_61;
@@ -9043,11 +9394,13 @@ IL_01c0:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_64), L_62, (5.0f), L_63, NULL);
 		NullCheck(L_61);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_61, L_64, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:79>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_65 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_65, NULL);
 		NullCheck(L_65);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_66;
 		L_66 = GameObject_AddComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m15E50057DA76710B136ADF4E7CA55A463D9DA3EB(L_65, GameObject_AddComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m15E50057DA76710B136ADF4E7CA55A463D9DA3EB_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:80>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_67 = L_66;
 		NullCheck(L_67);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_68;
@@ -9058,6 +9411,7 @@ IL_01c0:
 		L_70 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_69, NULL);
 		NullCheck(L_68);
 		Transform_SetParent_m9BDD7B7476714B2D7919B10BDC22CE75C0A0A195(L_68, L_70, (bool)0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:82>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_71 = L_67;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_72;
 		memset((&L_72), 0, sizeof(L_72));
@@ -9066,20 +9420,25 @@ IL_01c0:
 		L_73 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_72, NULL);
 		NullCheck(L_71);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_71, L_73);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:83>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_74 = L_71;
 		NullCheck(L_74);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_74, ((int32_t)1026), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:84>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_75 = L_74;
 		NullCheck(L_75);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_75, (96.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:85>
 		NullCheck(L_75);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_75, _stringLiteral15196F05B117690F3E12E56AA0C43803EA0D2A46);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:88>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_76 = V_4;
 		NullCheck(L_76);
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_77;
 		L_77 = GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1(L_76, GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1_RuntimeMethod_var);
 		__this->___floatingText_Script = L_77;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___floatingText_Script), (void*)L_77);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:89>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_78 = __this->___floatingText_Script;
 		NullCheck(L_78);
 		L_78->___SpawnType = 0;
@@ -9087,12 +9446,14 @@ IL_01c0:
 
 IL_02ae:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:21>
 		int32_t L_79 = V_0;
 		V_0 = ((int32_t)il2cpp_codegen_add(L_79, 1));
 	}
 
 IL_02b2:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:21>
 		int32_t L_80 = V_0;
 		int32_t L_81 = __this->___NumberOfNPC;
 		if ((((int32_t)L_80) < ((int32_t)L_81)))
@@ -9101,6 +9462,7 @@ IL_02b2:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:95>
 		return;
 	}
 }
@@ -9108,6 +9470,7 @@ IL_02b2:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark02__ctor_mE5DCB1CF4C1FDBA742B51B11427B9DE209630BF1 (Benchmark02_t4F19F4C449CC8F7FAAED31A6C1D03F4192B3C7E8* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs:12>
 		__this->___NumberOfNPC = ((int32_t)12);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -9125,6 +9488,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark02__ctor_mE5DCB1CF4C1FDBA742B51
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark03_Awake_mDEE8E96AE811C5A84CB2C04440CD4662E2F918D3 (Benchmark03_t20465BC4BB859B19BA37877E83DC8946576C359D* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:22>
 		return;
 	}
 }
@@ -9149,7 +9513,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark03_Start_mCCFD9402E218265F6D34A
 	int32_t V_2 = 0;
 	TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* V_3 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:27>
 		V_0 = (TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160*)NULL;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:30>
 		int32_t L_0 = __this->___Benchmark;
 		V_1 = L_0;
 		int32_t L_1 = V_1;
@@ -9179,21 +9545,25 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark03_Start_mCCFD9402E218265F6D34A
 
 IL_0024:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:33>
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_2 = __this->___SourceFont;
 		il2cpp_codegen_runtime_class_init_inline(TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_il2cpp_TypeInfo_var);
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_3;
 		L_3 = TMP_FontAsset_CreateFontAsset_mC0DE04380E79B7A0A33E5F84DBD7B8595A27C639(L_2, ((int32_t)90), ((int32_t)9), ((int32_t)4165), ((int32_t)256), ((int32_t)256), 1, (bool)1, NULL);
 		V_0 = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:34>
 		goto IL_00db;
 	}
 
 IL_004a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:36>
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_4 = __this->___SourceFont;
 		il2cpp_codegen_runtime_class_init_inline(TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_il2cpp_TypeInfo_var);
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_5;
 		L_5 = TMP_FontAsset_CreateFontAsset_mC0DE04380E79B7A0A33E5F84DBD7B8595A27C639(L_4, ((int32_t)90), ((int32_t)9), ((int32_t)4165), ((int32_t)256), ((int32_t)256), 1, (bool)1, NULL);
 		V_0 = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:37>
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_6 = V_0;
 		NullCheck(L_6);
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_7;
@@ -9202,16 +9572,19 @@ IL_004a:
 		L_8 = Shader_Find_m183AA54F78320212DDEC811592F98456898A41C5(_stringLiteralBCB0D16199887E37F909DAF76D05B31B82328C6A, NULL);
 		NullCheck(L_7);
 		Material_set_shader_mBD3A0D9AB14DE2F7CD5F2775E9AD58E15424C171(L_7, L_8, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:38>
 		goto IL_00db;
 	}
 
 IL_0082:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:40>
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_9 = __this->___SourceFont;
 		il2cpp_codegen_runtime_class_init_inline(TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_il2cpp_TypeInfo_var);
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_10;
 		L_10 = TMP_FontAsset_CreateFontAsset_mC0DE04380E79B7A0A33E5F84DBD7B8595A27C639(L_9, ((int32_t)90), ((int32_t)9), ((int32_t)4165), ((int32_t)256), ((int32_t)256), 1, (bool)1, NULL);
 		V_0 = L_10;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:41>
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_11 = V_0;
 		NullCheck(L_11);
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_12;
@@ -9220,11 +9593,13 @@ IL_0082:
 		L_13 = Shader_Find_m183AA54F78320212DDEC811592F98456898A41C5(_stringLiteralB90AEB71EEF73D732FF86A926D89C87006CD9ADF, NULL);
 		NullCheck(L_12);
 		Material_set_shader_mBD3A0D9AB14DE2F7CD5F2775E9AD58E15424C171(L_12, L_13, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:42>
 		goto IL_00db;
 	}
 
 IL_00ba:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:44>
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_14 = __this->___SourceFont;
 		il2cpp_codegen_runtime_class_init_inline(TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_il2cpp_TypeInfo_var);
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_15;
@@ -9234,12 +9609,14 @@ IL_00ba:
 
 IL_00db:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:48>
 		V_2 = 0;
 		goto IL_0212;
 	}
 
 IL_00e2:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:50>
 		int32_t L_16 = __this->___Benchmark;
 		V_1 = L_16;
 		int32_t L_17 = V_1;
@@ -9261,8 +9638,10 @@ IL_00e2:
 
 IL_00f9:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:57>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_19 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_19, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:58>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_20 = L_19;
 		NullCheck(L_20);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_21;
@@ -9272,23 +9651,29 @@ IL_00f9:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_22), (0.0f), (1.20000005f), (0.0f), NULL);
 		NullCheck(L_21);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_21, L_22, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:60>
 		NullCheck(L_20);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_23;
 		L_23 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_20, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
 		V_3 = L_23;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:61>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_24 = V_3;
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_25 = V_0;
 		NullCheck(L_24);
 		TMP_Text_set_font_mC55E4A8C1C09595031384B35F2C2FB2FC3479E83(L_24, L_25, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:62>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_26 = V_3;
 		NullCheck(L_26);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_26, (128.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:63>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_27 = V_3;
 		NullCheck(L_27);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_27, _stringLiteralBA1039E8CDAE53E44AC3E6185B0871F3D031A476);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:64>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_28 = V_3;
 		NullCheck(L_28);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_28, ((int32_t)514), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:65>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_29 = V_3;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_30;
 		memset((&L_30), 0, sizeof(L_30));
@@ -9297,6 +9682,7 @@ IL_00f9:
 		L_31 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_30, NULL);
 		NullCheck(L_29);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_29, L_31);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:67>
 		int32_t L_32 = __this->___Benchmark;
 		if ((!(((uint32_t)L_32) == ((uint32_t)3))))
 		{
@@ -9304,16 +9690,20 @@ IL_00f9:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:68>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_33 = V_3;
 		NullCheck(L_33);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_33, (132.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:71>
 		goto IL_020e;
 	}
 
 IL_0187:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:74>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_34 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_34, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:75>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_35 = L_34;
 		NullCheck(L_35);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_36;
@@ -9323,9 +9713,11 @@ IL_0187:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_37), (0.0f), (1.20000005f), (0.0f), NULL);
 		NullCheck(L_36);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_36, L_37, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:77>
 		NullCheck(L_35);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_38;
 		L_38 = GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2(L_35, GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:78>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_39 = L_38;
 		NullCheck(L_39);
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_40;
@@ -9336,16 +9728,20 @@ IL_0187:
 		L_42 = Font_get_material_m61ABDEC14C6D659DDC5A4F080023699116C17364(L_41, NULL);
 		NullCheck(L_40);
 		Renderer_set_sharedMaterial_m5E842F9A06CFB7B77656EB319881CB4B3E8E4288(L_40, L_42, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:79>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_43 = L_39;
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_44 = __this->___SourceFont;
 		NullCheck(L_43);
 		TextMesh_set_font_m7E407CAEDBB382B95B70069D8FAB8A9E74EAAA74(L_43, L_44, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:80>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_45 = L_43;
 		NullCheck(L_45);
 		TextMesh_set_anchor_m3FCB7C4B1FF66CE189B56076C0306AFE984FCD32(L_45, 4, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:81>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_46 = L_45;
 		NullCheck(L_46);
 		TextMesh_set_fontSize_mAB9F7FFC0E4DB759B786F6A9357B18C86015498B(L_46, ((int32_t)130), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:83>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_47 = L_46;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_48;
 		memset((&L_48), 0, sizeof(L_48));
@@ -9354,18 +9750,21 @@ IL_0187:
 		L_49 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_48, NULL);
 		NullCheck(L_47);
 		TextMesh_set_color_mF08F30C3CD797C16289225B567724B9F07DC641E(L_47, L_49, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:84>
 		NullCheck(L_47);
 		TextMesh_set_text_mDF79D39638ED82797D0B0B3BB9E6B10712F8EA9E(L_47, _stringLiteralBA1039E8CDAE53E44AC3E6185B0871F3D031A476, NULL);
 	}
 
 IL_020e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:48>
 		int32_t L_50 = V_2;
 		V_2 = ((int32_t)il2cpp_codegen_add(L_50, 1));
 	}
 
 IL_0212:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:48>
 		int32_t L_51 = V_2;
 		int32_t L_52 = __this->___NumberOfSamples;
 		if ((((int32_t)L_51) < ((int32_t)L_52)))
@@ -9374,6 +9773,7 @@ IL_0212:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:89>
 		return;
 	}
 }
@@ -9381,6 +9781,7 @@ IL_0212:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark03__ctor_m8A29BB2CC6375B2D3D57B5A90D18F2435352E5F6 (Benchmark03_t20465BC4BB859B19BA37877E83DC8946576C359D* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs:13>
 		__this->___NumberOfSamples = ((int32_t)100);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -9422,11 +9823,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark04_Start_mD2F5056019DD08B3DB897
 	int32_t V_4 = 0;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_5 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:24>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
 		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		__this->___m_Transform = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Transform), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:26>
 		V_0 = (0.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:27>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_1;
 		L_1 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		int32_t L_2;
@@ -9437,11 +9841,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark04_Start_mD2F5056019DD08B3DB897
 		Camera_set_orthographicSize_m76DD021032ACB3DDBD052B75EC66DCE3A7295A5C(L_1, L_3, NULL);
 		float L_4 = V_3;
 		V_1 = L_4;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:28>
 		int32_t L_5;
 		L_5 = Screen_get_width_mF608FF3252213E7EFA1F0D2F744C28110E9E5AC9(NULL);
 		int32_t L_6;
 		L_6 = Screen_get_height_m01A3102DE71EE1FBEA51D09D6B0261CF864FE8F9(NULL);
 		V_2 = ((float)(((float)L_5)/((float)L_6)));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:30>
 		int32_t L_7 = __this->___MinPointSize;
 		V_4 = L_7;
 		goto IL_0139;
@@ -9449,6 +9855,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark04_Start_mD2F5056019DD08B3DB897
 
 IL_0043:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:32>
 		int32_t L_8 = __this->___SpawnType;
 		if (L_8)
 		{
@@ -9456,6 +9863,7 @@ IL_0043:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:35>
 		String_t* L_9;
 		L_9 = Int32_ToString_m030E01C24E294D6762FB0B6F37CB541581F55CA5((&V_4), NULL);
 		String_t* L_10;
@@ -9463,6 +9871,7 @@ IL_0043:
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_11 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_11, L_10, NULL);
 		V_5 = L_11;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:37>
 		float L_12 = V_0;
 		float L_13 = V_1;
 		if ((!(((float)L_12) > ((float)((float)il2cpp_codegen_multiply(L_13, (2.0f)))))))
@@ -9471,11 +9880,13 @@ IL_0043:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:37>
 		return;
 	}
 
 IL_0076:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:39>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_14 = V_5;
 		NullCheck(L_14);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_15;
@@ -9495,10 +9906,12 @@ IL_0076:
 		L_23 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_17, L_22, NULL);
 		NullCheck(L_15);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_15, L_23, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:41>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_24 = V_5;
 		NullCheck(L_24);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_25;
 		L_25 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_24, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:46>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_26 = L_25;
 		NullCheck(L_26);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_27;
@@ -9508,19 +9921,24 @@ IL_0076:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_28), (0.0f), (0.5f), NULL);
 		NullCheck(L_27);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_27, L_28, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:48>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_29 = L_26;
 		NullCheck(L_29);
 		TMP_Text_set_textWrappingMode_mBD3A313CC85C9BB85F924D589A33A500E21DCA3D(L_29, 0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:49>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_30 = L_29;
 		NullCheck(L_30);
 		TMP_Text_set_extraPadding_m26595B78EDE43EFBCCBF7D5E23932ADCB983EF32(L_30, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:50>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_31 = L_30;
 		NullCheck(L_31);
 		TMP_Text_set_isOrthographic_mF58B9C6B492D4FD1BA0AB339E4B91F0A1F644C18(L_31, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:51>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_32 = L_31;
 		int32_t L_33 = V_4;
 		NullCheck(L_32);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_32, ((float)L_33), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:53>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_34 = L_32;
 		String_t* L_35;
 		L_35 = Int32_ToString_m030E01C24E294D6762FB0B6F37CB541581F55CA5((&V_4), NULL);
@@ -9528,6 +9946,7 @@ IL_0076:
 		L_36 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(L_35, _stringLiteralCED30D471F9ECB011896E4C24680A6982ECBCAFE, NULL);
 		NullCheck(L_34);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_34, L_36);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:54>
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_37;
 		memset((&L_37), 0, sizeof(L_37));
 		Color32__ctor_mC9C6B443F0C7CA3F8B174158B2AF6F05E18EAC4E_inline((&L_37), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), NULL);
@@ -9535,6 +9954,7 @@ IL_0076:
 		L_38 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_37, NULL);
 		NullCheck(L_34);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_34, L_38);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:56>
 		float L_39 = V_0;
 		int32_t L_40 = V_4;
 		V_0 = ((float)il2cpp_codegen_add(L_39, ((float)L_40)));
@@ -9542,6 +9962,7 @@ IL_0076:
 
 IL_012e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:30>
 		int32_t L_41 = V_4;
 		int32_t L_42 = __this->___Steps;
 		V_4 = ((int32_t)il2cpp_codegen_add(L_41, L_42));
@@ -9549,6 +9970,7 @@ IL_012e:
 
 IL_0139:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:30>
 		int32_t L_43 = V_4;
 		int32_t L_44 = __this->___MaxPointSize;
 		if ((((int32_t)L_43) <= ((int32_t)L_44)))
@@ -9557,6 +9979,7 @@ IL_0139:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:82>
 		return;
 	}
 }
@@ -9564,8 +9987,11 @@ IL_0139:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Benchmark04__ctor_m282E4E495D8D1921A87481729549B68BEDAD2D27 (Benchmark04_t10F8FE01330047EC5B83FE59EE23381CD2BE2F01* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:13>
 		__this->___MinPointSize = ((int32_t)12);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:14>
 		__this->___MaxPointSize = ((int32_t)64);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs:15>
 		__this->___Steps = 4;
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -9589,6 +10015,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Awake_m2D75756734457ADE
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:55>
 		int32_t L_0;
 		L_0 = QualitySettings_get_vSyncCount_m0293E74C6CEF18FA03FB12C85802361FA83DC293(NULL);
 		if ((((int32_t)L_0) <= ((int32_t)0)))
@@ -9597,6 +10024,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Awake_m2D75756734457ADE
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:56>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		Application_set_targetFrameRate_mB90EEA60DAE55CD71C38D4B7DFDBE2B34EA6B46F(((int32_t)60), NULL);
 		goto IL_0017;
@@ -9604,12 +10032,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Awake_m2D75756734457ADE
 
 IL_0011:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:58>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		Application_set_targetFrameRate_mB90EEA60DAE55CD71C38D4B7DFDBE2B34EA6B46F((-1), NULL);
 	}
 
 IL_0017:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:60>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		int32_t L_1;
 		L_1 = Application_get_platform_m59EF7D6155D18891B24767F83F388160B1FF2138(NULL);
@@ -9630,17 +10060,21 @@ IL_0017:
 
 IL_0028:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:61>
 		Input_set_simulateMouseWithTouches_m1D86DBF4BDCAA4AF3F15EE2BD51FB4C215D2AC6E((bool)0, NULL);
 	}
 
 IL_002e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:63>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3;
 		L_3 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		__this->___cameraTransform = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___cameraTransform), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:64>
 		bool L_4 = __this->___MovementSmoothing;
 		__this->___previousSmoothing = L_4;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:65>
 		return;
 	}
 }
@@ -9656,6 +10090,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Start_m749E20374F32FF19
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:71>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = __this->___CameraTarget;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -9666,6 +10101,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Start_m749E20374F32FF19
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:74>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_2, _stringLiteralEF516EC7240CA160FD729299C926B5EDB246658A, NULL);
 		NullCheck(L_2);
@@ -9673,6 +10109,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Start_m749E20374F32FF19
 		L_3 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_2, NULL);
 		__this->___dummyTarget = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___dummyTarget), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:75>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4 = __this->___dummyTarget;
 		__this->___CameraTarget = L_4;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___CameraTarget), (void*)L_4);
@@ -9680,6 +10117,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_Start_m749E20374F32FF19
 
 IL_002f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:77>
 		return;
 	}
 }
@@ -9693,7 +10131,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_LateUpdate_m07E7F5C7D91
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:82>
 		CameraController_GetPlayerInput_m31AE86C54785402EB078A40F37D83FEA9216388F(__this, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:86>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = __this->___CameraTarget;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -9704,6 +10144,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_LateUpdate_m07E7F5C7D91
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:88>
 		int32_t L_2 = __this->___CameraMode;
 		if ((!(((uint32_t)L_2) == ((uint32_t)1))))
 		{
@@ -9711,6 +10152,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_LateUpdate_m07E7F5C7D91
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:90>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3 = __this->___CameraTarget;
 		NullCheck(L_3);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4;
@@ -9733,6 +10175,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_LateUpdate_m07E7F5C7D91
 
 IL_0069:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:92>
 		int32_t L_12 = __this->___CameraMode;
 		if (L_12)
 		{
@@ -9740,6 +10183,7 @@ IL_0069:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:94>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_13 = __this->___CameraTarget;
 		NullCheck(L_13);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14;
@@ -9765,6 +10209,7 @@ IL_0069:
 
 IL_00c3:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:101>
 		bool L_24 = __this->___MovementSmoothing;
 		if (!L_24)
 		{
@@ -9772,6 +10217,7 @@ IL_00c3:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:104>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_25 = __this->___cameraTransform;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_26 = __this->___cameraTransform;
 		NullCheck(L_26);
@@ -9791,6 +10237,7 @@ IL_00c3:
 
 IL_0100:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:110>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_33 = __this->___cameraTransform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_34 = __this->___desiredPosition;
 		NullCheck(L_33);
@@ -9799,6 +10246,7 @@ IL_0100:
 
 IL_0111:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:113>
 		bool L_35 = __this->___RotationSmoothing;
 		if (!L_35)
 		{
@@ -9806,6 +10254,7 @@ IL_0111:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:114>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_36 = __this->___cameraTransform;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_37 = __this->___cameraTransform;
 		NullCheck(L_37);
@@ -9835,6 +10284,7 @@ IL_0111:
 
 IL_0161:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:117>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_48 = __this->___cameraTransform;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_49 = __this->___CameraTarget;
 		NullCheck(L_48);
@@ -9843,6 +10293,7 @@ IL_0161:
 
 IL_0172:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:122>
 		return;
 	}
 }
@@ -9879,15 +10330,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_GetPlayerInput_m31AE86C
 	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 V_9;
 	memset((&V_9), 0, sizeof(V_9));
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:128>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0;
 		L_0 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
 		__this->___moveVector = L_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:131>
 		float L_1;
 		L_1 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteralFC6687DC37346CD2569888E29764F727FAF530E0, NULL);
 		__this->___mouseWheel = L_1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:133>
 		int32_t L_2;
 		L_2 = Input_get_touchCount_m057388BFC67A0F4CA53764B1022867ED81D01E39(NULL);
 		V_0 = ((float)L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:135>
 		bool L_3;
 		L_3 = Input_GetKey_mE5681EF775F3CEBA7EAD7C63984F7B34C8E8D434(((int32_t)304), NULL);
 		if (L_3)
@@ -9913,8 +10368,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController_GetPlayerInput_m31AE86C
 
 IL_0045:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:137>
 		float L_6 = __this->___mouseWheel;
 		__this->___mouseWheel = ((float)il2cpp_codegen_multiply(L_6, (10.0f)));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:139>
 		bool L_7;
 		L_7 = Input_GetKeyDown_mB237DEA6244132670D38990BAB77D813FBB028D2(((int32_t)105), NULL);
 		if (!L_7)
@@ -9923,11 +10380,13 @@ IL_0045:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:140>
 		__this->___CameraMode = 1;
 	}
 
 IL_0067:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:142>
 		bool L_8;
 		L_8 = Input_GetKeyDown_mB237DEA6244132670D38990BAB77D813FBB028D2(((int32_t)102), NULL);
 		if (!L_8)
@@ -9936,11 +10395,13 @@ IL_0067:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:143>
 		__this->___CameraMode = 0;
 	}
 
 IL_0077:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:145>
 		bool L_9;
 		L_9 = Input_GetKeyDown_mB237DEA6244132670D38990BAB77D813FBB028D2(((int32_t)115), NULL);
 		if (!L_9)
@@ -9949,12 +10410,14 @@ IL_0077:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:146>
 		bool L_10 = __this->___MovementSmoothing;
 		__this->___MovementSmoothing = (bool)((((int32_t)L_10) == ((int32_t)0))? 1 : 0);
 	}
 
 IL_008f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:150>
 		bool L_11;
 		L_11 = Input_GetMouseButton_m4995DD4A2D4F916565C1B1B5AAF7DF17C126B3EA(1, NULL);
 		if (!L_11)
@@ -9963,12 +10426,15 @@ IL_008f:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:152>
 		float L_12;
 		L_12 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteral16DD21BE77B115D392226EB71A2D3A9FDC29E3F0, NULL);
 		__this->___mouseY = L_12;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:153>
 		float L_13;
 		L_13 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteral88BEE283254D7094E258B3A88730F4CC4F1E4AC7, NULL);
 		__this->___mouseX = L_13;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:155>
 		float L_14 = __this->___mouseY;
 		if ((((float)L_14) > ((float)(0.00999999978f))))
 		{
@@ -9985,10 +10451,12 @@ IL_008f:
 
 IL_00d4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:157>
 		float L_16 = __this->___ElevationAngle;
 		float L_17 = __this->___mouseY;
 		float L_18 = __this->___MoveSensitivity;
 		__this->___ElevationAngle = ((float)il2cpp_codegen_subtract(L_16, ((float)il2cpp_codegen_multiply(L_17, L_18))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:159>
 		float L_19 = __this->___ElevationAngle;
 		float L_20 = __this->___MinElevationAngle;
 		float L_21 = __this->___MaxElevationAngle;
@@ -9999,6 +10467,7 @@ IL_00d4:
 
 IL_010b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:162>
 		float L_23 = __this->___mouseX;
 		if ((((float)L_23) > ((float)(0.00999999978f))))
 		{
@@ -10015,10 +10484,12 @@ IL_010b:
 
 IL_0125:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:164>
 		float L_25 = __this->___OrbitalAngle;
 		float L_26 = __this->___mouseX;
 		float L_27 = __this->___MoveSensitivity;
 		__this->___OrbitalAngle = ((float)il2cpp_codegen_add(L_25, ((float)il2cpp_codegen_multiply(L_26, L_27))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:165>
 		float L_28 = __this->___OrbitalAngle;
 		if ((!(((float)L_28) > ((float)(360.0f)))))
 		{
@@ -10026,12 +10497,14 @@ IL_0125:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:166>
 		float L_29 = __this->___OrbitalAngle;
 		__this->___OrbitalAngle = ((float)il2cpp_codegen_subtract(L_29, (360.0f)));
 	}
 
 IL_015e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:167>
 		float L_30 = __this->___OrbitalAngle;
 		if ((!(((float)L_30) < ((float)(0.0f)))))
 		{
@@ -10039,12 +10512,14 @@ IL_015e:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:168>
 		float L_31 = __this->___OrbitalAngle;
 		__this->___OrbitalAngle = ((float)il2cpp_codegen_add(L_31, (360.0f)));
 	}
 
 IL_017d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:173>
 		float L_32 = V_0;
 		if ((!(((float)L_32) == ((float)(1.0f)))))
 		{
@@ -10063,12 +10538,14 @@ IL_017d:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:175>
 		Touch_t03E51455ED508492B3F278903A0114FA0E87B417 L_35;
 		L_35 = Input_GetTouch_m75D99FE801A94279874FA8DC6B6ADAD35F5123B1(0, NULL);
 		V_1 = L_35;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_36;
 		L_36 = Touch_get_deltaPosition_m2D51F960B74C94821ED0F6A09E44C80FD796D299_inline((&V_1), NULL);
 		V_2 = L_36;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:178>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_37 = V_2;
 		float L_38 = L_37.___y;
 		if ((((float)L_38) > ((float)(0.00999999978f))))
@@ -10087,10 +10564,12 @@ IL_017d:
 
 IL_01c5:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:180>
 		float L_41 = __this->___ElevationAngle;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_42 = V_2;
 		float L_43 = L_42.___y;
 		__this->___ElevationAngle = ((float)il2cpp_codegen_subtract(L_41, ((float)il2cpp_codegen_multiply(L_43, (0.100000001f)))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:182>
 		float L_44 = __this->___ElevationAngle;
 		float L_45 = __this->___MinElevationAngle;
 		float L_46 = __this->___MaxElevationAngle;
@@ -10101,6 +10580,7 @@ IL_01c5:
 
 IL_01fb:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:187>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_48 = V_2;
 		float L_49 = L_48.___x;
 		if ((((float)L_49) > ((float)(0.00999999978f))))
@@ -10119,10 +10599,12 @@ IL_01fb:
 
 IL_0215:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:189>
 		float L_52 = __this->___OrbitalAngle;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_53 = V_2;
 		float L_54 = L_53.___x;
 		__this->___OrbitalAngle = ((float)il2cpp_codegen_add(L_52, ((float)il2cpp_codegen_multiply(L_54, (0.100000001f)))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:190>
 		float L_55 = __this->___OrbitalAngle;
 		if ((!(((float)L_55) > ((float)(360.0f)))))
 		{
@@ -10130,12 +10612,14 @@ IL_0215:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:191>
 		float L_56 = __this->___OrbitalAngle;
 		__this->___OrbitalAngle = ((float)il2cpp_codegen_subtract(L_56, (360.0f)));
 	}
 
 IL_024d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:192>
 		float L_57 = __this->___OrbitalAngle;
 		if ((!(((float)L_57) < ((float)(0.0f)))))
 		{
@@ -10143,12 +10627,14 @@ IL_024d:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:193>
 		float L_58 = __this->___OrbitalAngle;
 		__this->___OrbitalAngle = ((float)il2cpp_codegen_add(L_58, (360.0f)));
 	}
 
 IL_026c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:199>
 		bool L_59;
 		L_59 = Input_GetMouseButton_m4995DD4A2D4F916565C1B1B5AAF7DF17C126B3EA(0, NULL);
 		if (!L_59)
@@ -10157,6 +10643,7 @@ IL_026c:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:201>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_60;
 		L_60 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_61;
@@ -10164,6 +10651,7 @@ IL_026c:
 		NullCheck(L_60);
 		Ray_t2B1742D7958DC05BDC3EFC7461D3593E1430DC00 L_62;
 		L_62 = Camera_ScreenPointToRay_m2887B9A49880B7AB670C57D66B67D6A6689FE315(L_60, L_61, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:204>
 		il2cpp_codegen_runtime_class_init_inline(Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
 		bool L_63;
 		L_63 = Physics_Raycast_m34AC1210E893A9EF969BD2C7104B10BE5B580025(L_62, (&V_3), (300.0f), ((int32_t)23552), NULL);
@@ -10173,6 +10661,7 @@ IL_026c:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:206>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_64;
 		L_64 = RaycastHit_get_transform_m89DB7FCFC50E0213A37CBE089400064B8FA19155((&V_3), NULL);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_65 = __this->___CameraTarget;
@@ -10185,23 +10674,28 @@ IL_026c:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:209>
 		__this->___OrbitalAngle = (0.0f);
 		goto IL_02db;
 	}
 
 IL_02b7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:213>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_67;
 		L_67 = RaycastHit_get_transform_m89DB7FCFC50E0213A37CBE089400064B8FA19155((&V_3), NULL);
 		__this->___CameraTarget = L_67;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___CameraTarget), (void*)L_67);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:214>
 		__this->___OrbitalAngle = (0.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:215>
 		bool L_68 = __this->___previousSmoothing;
 		__this->___MovementSmoothing = L_68;
 	}
 
 IL_02db:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:222>
 		bool L_69;
 		L_69 = Input_GetMouseButton_m4995DD4A2D4F916565C1B1B5AAF7DF17C126B3EA(2, NULL);
 		if (!L_69)
@@ -10210,6 +10704,7 @@ IL_02db:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:224>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_70 = __this->___dummyTarget;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_71;
@@ -10220,6 +10715,7 @@ IL_02db:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:227>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_72 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_72, _stringLiteralEF516EC7240CA160FD729299C926B5EDB246658A, NULL);
 		NullCheck(L_72);
@@ -10227,6 +10723,7 @@ IL_02db:
 		L_73 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_72, NULL);
 		__this->___dummyTarget = L_73;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___dummyTarget), (void*)L_73);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:228>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_74 = __this->___dummyTarget;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_75 = __this->___CameraTarget;
 		NullCheck(L_75);
@@ -10234,6 +10731,7 @@ IL_02db:
 		L_76 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_75, NULL);
 		NullCheck(L_74);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_74, L_76, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:229>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_77 = __this->___dummyTarget;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_78 = __this->___CameraTarget;
 		NullCheck(L_78);
@@ -10241,17 +10739,21 @@ IL_02db:
 		L_79 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_78, NULL);
 		NullCheck(L_77);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_77, L_79, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:230>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_80 = __this->___dummyTarget;
 		__this->___CameraTarget = L_80;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___CameraTarget), (void*)L_80);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:231>
 		bool L_81 = __this->___MovementSmoothing;
 		__this->___previousSmoothing = L_81;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:232>
 		__this->___MovementSmoothing = (bool)0;
 		goto IL_03b4;
 	}
 
 IL_0356:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:234>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_82 = __this->___dummyTarget;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_83 = __this->___CameraTarget;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -10263,6 +10765,7 @@ IL_0356:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:237>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_85 = __this->___dummyTarget;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_86 = __this->___CameraTarget;
 		NullCheck(L_86);
@@ -10270,6 +10773,7 @@ IL_0356:
 		L_87 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_86, NULL);
 		NullCheck(L_85);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_85, L_87, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:238>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_88 = __this->___dummyTarget;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_89 = __this->___CameraTarget;
 		NullCheck(L_89);
@@ -10277,22 +10781,28 @@ IL_0356:
 		L_90 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_89, NULL);
 		NullCheck(L_88);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_88, L_90, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:239>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_91 = __this->___dummyTarget;
 		__this->___CameraTarget = L_91;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___CameraTarget), (void*)L_91);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:240>
 		bool L_92 = __this->___MovementSmoothing;
 		__this->___previousSmoothing = L_92;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:241>
 		__this->___MovementSmoothing = (bool)0;
 	}
 
 IL_03b4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:245>
 		float L_93;
 		L_93 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteral16DD21BE77B115D392226EB71A2D3A9FDC29E3F0, NULL);
 		__this->___mouseY = L_93;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:246>
 		float L_94;
 		L_94 = Input_GetAxis_m10372E6C5FF591668D2DC5F58C58D213CC598A62(_stringLiteral88BEE283254D7094E258B3A88730F4CC4F1E4AC7, NULL);
 		__this->___mouseX = L_94;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:248>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_95 = __this->___cameraTransform;
 		float L_96 = __this->___mouseX;
 		float L_97 = __this->___mouseY;
@@ -10300,6 +10810,7 @@ IL_03b4:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_98;
 		L_98 = Transform_TransformDirection_m9C397BCD37FEFEDDE923D38FDCBC9DDC517AE5C3(L_95, L_96, L_97, (0.0f), NULL);
 		__this->___moveVector = L_98;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:250>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_99 = __this->___dummyTarget;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_100 = __this->___moveVector;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_101;
@@ -10310,6 +10821,7 @@ IL_03b4:
 
 IL_040d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:257>
 		float L_102 = V_0;
 		if ((!(((float)L_102) == ((float)(2.0f)))))
 		{
@@ -10317,18 +10829,22 @@ IL_040d:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:259>
 		Touch_t03E51455ED508492B3F278903A0114FA0E87B417 L_103;
 		L_103 = Input_GetTouch_m75D99FE801A94279874FA8DC6B6ADAD35F5123B1(0, NULL);
 		V_4 = L_103;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:260>
 		Touch_t03E51455ED508492B3F278903A0114FA0E87B417 L_104;
 		L_104 = Input_GetTouch_m75D99FE801A94279874FA8DC6B6ADAD35F5123B1(1, NULL);
 		V_5 = L_104;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:262>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_105;
 		L_105 = Touch_get_position_m41B9EB0F3F3E1BE98CEB388253A9E31979CB964A_inline((&V_4), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_106;
 		L_106 = Touch_get_deltaPosition_m2D51F960B74C94821ED0F6A09E44C80FD796D299_inline((&V_4), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_107;
 		L_107 = Vector2_op_Subtraction_m44475FCDAD2DA2F98D78A6625EC2DCDFE8803837_inline(L_105, L_106, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:263>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_108;
 		L_108 = Touch_get_position_m41B9EB0F3F3E1BE98CEB388253A9E31979CB964A_inline((&V_5), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_109;
@@ -10336,12 +10852,14 @@ IL_040d:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_110;
 		L_110 = Vector2_op_Subtraction_m44475FCDAD2DA2F98D78A6625EC2DCDFE8803837_inline(L_108, L_109, NULL);
 		V_6 = L_110;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:265>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_111 = V_6;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_112;
 		L_112 = Vector2_op_Subtraction_m44475FCDAD2DA2F98D78A6625EC2DCDFE8803837_inline(L_107, L_111, NULL);
 		V_9 = L_112;
 		float L_113;
 		L_113 = Vector2_get_magnitude_m5C59B4056420AEFDB291AD0914A3F675330A75CE_inline((&V_9), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:266>
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_114;
 		L_114 = Touch_get_position_m41B9EB0F3F3E1BE98CEB388253A9E31979CB964A_inline((&V_4), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_115;
@@ -10352,8 +10870,10 @@ IL_040d:
 		float L_117;
 		L_117 = Vector2_get_magnitude_m5C59B4056420AEFDB291AD0914A3F675330A75CE_inline((&V_9), NULL);
 		V_7 = L_117;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:268>
 		float L_118 = V_7;
 		V_8 = ((float)il2cpp_codegen_subtract(L_113, L_118));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:270>
 		float L_119 = V_8;
 		if ((((float)L_119) > ((float)(0.00999999978f))))
 		{
@@ -10370,9 +10890,11 @@ IL_040d:
 
 IL_0495:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:272>
 		float L_121 = __this->___FollowDistance;
 		float L_122 = V_8;
 		__this->___FollowDistance = ((float)il2cpp_codegen_add(L_121, ((float)il2cpp_codegen_multiply(L_122, (0.25f)))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:274>
 		float L_123 = __this->___FollowDistance;
 		float L_124 = __this->___MinFollowDistance;
 		float L_125 = __this->___MaxFollowDistance;
@@ -10383,6 +10905,7 @@ IL_0495:
 
 IL_04c7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:281>
 		float L_127 = __this->___mouseWheel;
 		if ((((float)L_127) < ((float)(-0.00999999978f))))
 		{
@@ -10399,9 +10922,11 @@ IL_04c7:
 
 IL_04e1:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:284>
 		float L_129 = __this->___FollowDistance;
 		float L_130 = __this->___mouseWheel;
 		__this->___FollowDistance = ((float)il2cpp_codegen_subtract(L_129, ((float)il2cpp_codegen_multiply(L_130, (5.0f)))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:286>
 		float L_131 = __this->___FollowDistance;
 		float L_132 = __this->___MinFollowDistance;
 		float L_133 = __this->___MaxFollowDistance;
@@ -10412,6 +10937,7 @@ IL_04e1:
 
 IL_0517:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:290>
 		return;
 	}
 }
@@ -10419,15 +10945,25 @@ IL_0517:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraController__ctor_mE37608FBFBF61F76A1E0EEACF79B040321476878 (CameraController_t7E0AA7DC0B482A31CC3D60F6032912FE8B581DA8* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:17>
 		__this->___FollowDistance = (30.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:18>
 		__this->___MaxFollowDistance = (100.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:19>
 		__this->___MinFollowDistance = (2.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:21>
 		__this->___ElevationAngle = (30.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:22>
 		__this->___MaxElevationAngle = (85.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:29>
 		__this->___MovementSmoothing = (bool)1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:33>
 		__this->___MovementSmoothingValue = (25.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:34>
 		__this->___RotationSmoothingValue = (5.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:36>
 		__this->___MoveSensitivity = (2.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs:38>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0;
 		L_0 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
 		__this->___currentVelocity = L_0;
@@ -10470,10 +11006,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObjectSpin_Awake_mC05FEB5A72FED289171C58
 	memset((&G_B3_0), 0, sizeof(G_B3_0));
 	ObjectSpin_tE4A801A6C63FE0773DE2FD043571CB80CC9F194B* G_B3_1 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:28>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
 		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		__this->___m_transform = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_transform), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:29>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_1 = __this->___m_transform;
 		NullCheck(L_1);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_2;
@@ -10482,14 +11020,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObjectSpin_Awake_mC05FEB5A72FED289171C58
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3;
 		L_3 = Quaternion_get_eulerAngles_m2DB5158B5C3A71FD60FC8A6EE43D3AAA1CFED122_inline((&V_1), NULL);
 		__this->___m_initial_Rotation = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:30>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4 = __this->___m_transform;
 		NullCheck(L_4);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5;
 		L_5 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_4, NULL);
 		__this->___m_initial_Position = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:32>
 		Light_t1E68479B7782AF2050FAA02A5DC612FD034F18F3* L_6;
 		L_6 = Component_GetComponent_TisLight_t1E68479B7782AF2050FAA02A5DC612FD034F18F3_mF4816FA12B6F220CA55D47D669D7E50DC118B9E9(__this, Component_GetComponent_TisLight_t1E68479B7782AF2050FAA02A5DC612FD034F18F3_mF4816FA12B6F220CA55D47D669D7E50DC118B9E9_RuntimeMethod_var);
 		V_0 = L_6;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:33>
 		Light_t1E68479B7782AF2050FAA02A5DC612FD034F18F3* L_7 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_8;
@@ -10525,6 +11066,7 @@ IL_0054:
 		L_12 = Color32_op_Implicit_m79AF5E0BDE9CE041CAC4D89CBFA66E71C6DD1B70_inline(G_B3_0, NULL);
 		NullCheck(G_B3_1);
 		G_B3_1->___m_lightColor = L_12;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:34>
 		return;
 	}
 }
@@ -10536,6 +11078,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObjectSpin_Update_m7FB0886C3E6D76C0020E4
 	float V_2 = 0.0f;
 	int32_t V_3 = 0;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:40>
 		int32_t L_0 = __this->___Motion;
 		V_3 = L_0;
 		int32_t L_1 = V_3;
@@ -10561,22 +11104,26 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObjectSpin_Update_m7FB0886C3E6D76C0020E4
 
 IL_001a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:43>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2 = __this->___m_transform;
 		float L_3 = __this->___SpinSpeed;
 		float L_4;
 		L_4 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		NullCheck(L_2);
 		Transform_Rotate_m7EA47AD57F43D478CCB0523D179950EE49CDA3E2(L_2, (0.0f), ((float)il2cpp_codegen_multiply(L_3, L_4)), (0.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:44>
 		return;
 	}
 
 IL_003c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:46>
 		float L_5 = __this->___m_time;
 		float L_6 = __this->___SpinSpeed;
 		float L_7;
 		L_7 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___m_time = ((float)il2cpp_codegen_add(L_5, ((float)il2cpp_codegen_multiply(L_6, L_7))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:47>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8 = __this->___m_transform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_9 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___m_initial_Rotation);
 		float L_10 = L_9->___x;
@@ -10592,22 +11139,26 @@ IL_003c:
 		L_18 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline(L_10, ((float)il2cpp_codegen_add(((float)il2cpp_codegen_multiply(L_12, ((float)L_13))), L_15)), L_17, NULL);
 		NullCheck(L_8);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_8, L_18, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:48>
 		return;
 	}
 
 IL_009b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:50>
 		float L_19 = __this->___m_time;
 		float L_20 = __this->___TranslationSpeed;
 		float L_21;
 		L_21 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___m_time = ((float)il2cpp_codegen_add(L_19, ((float)il2cpp_codegen_multiply(L_20, L_21))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:52>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_22 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___TranslationDistance);
 		float L_23 = L_22->___x;
 		float L_24 = __this->___m_time;
 		float L_25;
 		L_25 = cosf(L_24);
 		V_0 = ((float)il2cpp_codegen_multiply(L_23, L_25));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:53>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_26 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___TranslationDistance);
 		float L_27 = L_26->___y;
 		float L_28 = __this->___m_time;
@@ -10617,12 +11168,14 @@ IL_009b:
 		float L_31;
 		L_31 = cosf(((float)il2cpp_codegen_multiply(L_30, (1.0f))));
 		V_1 = ((float)il2cpp_codegen_multiply(((float)il2cpp_codegen_multiply(L_27, L_29)), L_31));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:54>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_32 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___TranslationDistance);
 		float L_33 = L_32->___z;
 		float L_34 = __this->___m_time;
 		float L_35;
 		L_35 = sinf(L_34);
 		V_2 = ((float)il2cpp_codegen_multiply(L_33, L_35));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:56>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_36 = __this->___m_transform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_37 = __this->___m_initial_Position;
 		float L_38 = V_0;
@@ -10635,11 +11188,13 @@ IL_009b:
 		L_42 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_37, L_41, NULL);
 		NullCheck(L_36);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_36, L_42, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:62>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_43 = __this->___m_transform;
 		NullCheck(L_43);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_44;
 		L_44 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_43, NULL);
 		__this->___m_prevPOS = L_44;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:65>
 		return;
 	}
 }
@@ -10647,12 +11202,16 @@ IL_009b:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObjectSpin__ctor_mA786C14AE887FF4012A35FAB3DF59ECF6A77835A (ObjectSpin_tE4A801A6C63FE0773DE2FD043571CB80CC9F194B* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:14>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0;
 		memset((&L_0), 0, sizeof(L_0));
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_0), (5.0f), (0.0f), (0.0f), NULL);
 		__this->___TranslationDistance = L_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:15>
 		__this->___TranslationSpeed = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:16>
 		__this->___SpinSpeed = (5.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs:17>
 		__this->___RotationRange = ((int32_t)15);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -10684,16 +11243,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ShaderPropAnimator_Awake_m3D158D58F1840C
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:21>
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_0;
 		L_0 = Component_GetComponent_TisRenderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF_mC91ACC92AD57CA6CA00991DAF1DB3830BCE07AF8(__this, Component_GetComponent_TisRenderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF_mC91ACC92AD57CA6CA00991DAF1DB3830BCE07AF8_RuntimeMethod_var);
 		__this->___m_Renderer = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Renderer), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:24>
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_1 = __this->___m_Renderer;
 		NullCheck(L_1);
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_2;
 		L_2 = Renderer_get_material_m5BA2A00816C4CC66580D4B2E409CF10718C15656(L_1, NULL);
 		__this->___m_Material = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Material), (void*)L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:25>
 		return;
 	}
 }
@@ -10701,10 +11263,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ShaderPropAnimator_Awake_m3D158D58F1840C
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ShaderPropAnimator_Start_mEF0B5D3EE00206199ABB80CE893AA85DF3FE5C88 (ShaderPropAnimator_t768B23A41FC3CFB5B3C2501C2411B4DEBA296906* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:29>
 		RuntimeObject* L_0;
 		L_0 = ShaderPropAnimator_AnimateProperties_m9F466F9C9554AA7488F4607E7FAC9A5C61F46D56(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:30>
 		return;
 	}
 }
@@ -10798,6 +11362,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CAnimatePropertiesU3Ed__6_MoveNext_mB9
 IL_0017:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:36>
 		ShaderPropAnimator_t768B23A41FC3CFB5B3C2501C2411B4DEBA296906* L_4 = V_1;
 		float L_5;
 		L_5 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((0.0f), (1.0f), NULL);
@@ -10807,6 +11372,7 @@ IL_0017:
 
 IL_0033:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:43>
 		ShaderPropAnimator_t768B23A41FC3CFB5B3C2501C2411B4DEBA296906* L_6 = V_1;
 		NullCheck(L_6);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_7 = L_6->___GlowCurve;
@@ -10817,6 +11383,7 @@ IL_0033:
 		float L_10;
 		L_10 = AnimationCurve_Evaluate_m50B857043DE251A186032ADBCBB4CEF817F4EE3C(L_7, L_9, NULL);
 		V_2 = L_10;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:44>
 		ShaderPropAnimator_t768B23A41FC3CFB5B3C2501C2411B4DEBA296906* L_11 = V_1;
 		NullCheck(L_11);
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_12 = L_11->___m_Material;
@@ -10825,6 +11392,7 @@ IL_0033:
 		float L_14 = V_2;
 		NullCheck(L_12);
 		Material_SetFloat_m3ECFD92072347A8620254F014865984FA68211A8(L_12, L_13, L_14, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:46>
 		ShaderPropAnimator_t768B23A41FC3CFB5B3C2501C2411B4DEBA296906* L_15 = V_1;
 		ShaderPropAnimator_t768B23A41FC3CFB5B3C2501C2411B4DEBA296906* L_16 = V_1;
 		NullCheck(L_16);
@@ -10835,6 +11403,7 @@ IL_0033:
 		L_19 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((0.200000003f), (0.300000012f), NULL);
 		NullCheck(L_15);
 		L_15->___m_frame = ((float)il2cpp_codegen_add(L_17, ((float)il2cpp_codegen_multiply(L_18, L_19))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:47>
 		WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663* L_20 = (WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663*)il2cpp_codegen_object_new(WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663_il2cpp_TypeInfo_var);
 		WaitForEndOfFrame__ctor_m4AF7E576C01E6B04443BB898B1AE5D645F7D45AB(L_20, NULL);
 		__this->___U3CU3E2__current = L_20;
@@ -10846,6 +11415,7 @@ IL_0033:
 IL_008c:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs:38>
 		goto IL_0033;
 	}
 }
@@ -10892,6 +11462,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SimpleScript_Start_mC4159EF79F863FBD86AE
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:21>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -10899,18 +11470,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SimpleScript_Start_mC4159EF79F863FBD86AE
 		L_1 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_0, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
 		__this->___m_textMeshPro = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_textMeshPro), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:23>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_2 = __this->___m_textMeshPro;
 		NullCheck(L_2);
 		VirtualActionInvoker1< bool >::Invoke(76, L_2, (bool)1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:34>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_3 = __this->___m_textMeshPro;
 		NullCheck(L_3);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_3, (48.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:36>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_4 = __this->___m_textMeshPro;
 		NullCheck(L_4);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_4, ((int32_t)514), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:45>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_5 = __this->___m_textMeshPro;
 		NullCheck(L_5);
 		TMP_Text_set_textWrappingMode_mBD3A313CC85C9BB85F924D589A33A500E21DCA3D(L_5, 0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:48>
 		return;
 	}
 }
@@ -10924,14 +11500,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SimpleScript_Update_mBD8A31D53D01FEBB9B4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:53>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_0 = __this->___m_textMeshPro;
 		float L_1 = __this->___m_frame;
 		NullCheck(L_0);
 		TMP_Text_SetText_mC6973FFC60DB6A96B0C4253CD2FD9D0789ECC533(L_0, _stringLiteral71B680ABF9213B3E8FB888056C235C79CFE83314, (fmodf(L_1, (1000.0f))), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:54>
 		float L_2 = __this->___m_frame;
 		float L_3;
 		L_3 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		__this->___m_frame = ((float)il2cpp_codegen_add(L_2, ((float)il2cpp_codegen_multiply((1.0f), L_3))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs:55>
 		return;
 	}
 }
@@ -10961,6 +11540,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SkewTextExample_Awake_m2D48E0903620C2D87
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:21>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -10968,6 +11548,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SkewTextExample_Awake_m2D48E0903620C2D87
 		L_1 = GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3(L_0, GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3_RuntimeMethod_var);
 		__this->___m_TextComponent = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:22>
 		return;
 	}
 }
@@ -10975,10 +11556,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SkewTextExample_Awake_m2D48E0903620C2D87
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SkewTextExample_Start_m7577B96B07C4EB0666BF6F028074176258009690 (SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:27>
 		RuntimeObject* L_0;
 		L_0 = SkewTextExample_WarpText_m462DE1568957770D72704E93D2461D8371C0D362(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:28>
 		return;
 	}
 }
@@ -10992,8 +11575,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD9991
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:33>
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_0 = (AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354*)il2cpp_codegen_object_new(AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354_il2cpp_TypeInfo_var);
 		AnimationCurve__ctor_m0D976567166F92383307DC8EB8D7082CD34E226F(L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:35>
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_1 = L_0;
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_2 = ___0_curve;
 		NullCheck(L_2);
@@ -11001,6 +11586,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD9991
 		L_3 = AnimationCurve_get_keys_m34452C69464AB459C04BFFEA4F541F06B419AC4E(L_2, NULL);
 		NullCheck(L_1);
 		AnimationCurve_set_keys_mBE1284B44CDBB1D8381177A3D581A6E71467F95C(L_1, L_3, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:37>
 		return L_1;
 	}
 }
@@ -11034,6 +11620,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SkewTextExample__ctor_m711325FB390A6DFA9
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:13>
 		KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3* L_0 = (KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3*)(KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3*)SZArrayNew(KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3_il2cpp_TypeInfo_var, (uint32_t)5);
 		KeyframeU5BU5D_t63250A46914A6A07B2A6689850D47D7D19D80BA3* L_1 = L_0;
 		Keyframe_tB9C67DCBFE10C0AE9C52CB5C66E944255C9254F0 L_2;
@@ -11069,7 +11656,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SkewTextExample__ctor_m711325FB390A6DFA9
 		AnimationCurve__ctor_mEABC98C03805713354D61E50D9340766BD5B717E(L_11, L_9, NULL);
 		__this->___VertexCurve = L_11;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___VertexCurve), (void*)L_11);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:16>
 		__this->___CurveScale = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:17>
 		__this->___ShearAmount = (1.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -11162,35 +11751,42 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CWarpTextU3Ed__7_MoveNext_m50CEEC92FE0
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:48>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_3 = V_1;
 		NullCheck(L_3);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_4 = L_3->___VertexCurve;
 		NullCheck(L_4);
 		AnimationCurve_set_preWrapMode_mA618E67F536483FA5F3507A2D97C045E089D1B2D(L_4, 1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:49>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_5 = V_1;
 		NullCheck(L_5);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_6 = L_5->___VertexCurve;
 		NullCheck(L_6);
 		AnimationCurve_set_postWrapMode_m39A4758ABD5D2AEE475940829352792FE7E9CBA9(L_6, 1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:56>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_7 = V_1;
 		NullCheck(L_7);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_8 = L_7->___m_TextComponent;
 		NullCheck(L_8);
 		TMP_Text_set_havePropertiesChanged_mA38D7BC9E260BF29450738B827F2220A05662B31(L_8, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:57>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_9 = V_1;
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_10 = V_1;
 		NullCheck(L_10);
 		float L_11 = L_10->___CurveScale;
 		NullCheck(L_9);
 		L_9->___CurveScale = ((float)il2cpp_codegen_multiply(L_11, (10.0f)));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:58>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_12 = V_1;
 		NullCheck(L_12);
 		float L_13 = L_12->___CurveScale;
 		__this->___U3Cold_CurveScaleU3E5__2 = L_13;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:59>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_14 = V_1;
 		NullCheck(L_14);
 		float L_15 = L_14->___ShearAmount;
 		__this->___U3Cold_ShearValueU3E5__3 = L_15;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:60>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_16 = V_1;
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_17 = V_1;
 		NullCheck(L_17);
@@ -11204,6 +11800,7 @@ IL_0022:
 
 IL_0089:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:64>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_20 = V_1;
 		NullCheck(L_20);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_21 = L_20->___m_TextComponent;
@@ -11258,6 +11855,7 @@ IL_0089:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:66>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -11267,15 +11865,18 @@ IL_0089:
 IL_00f0:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:67>
 		goto IL_0089;
 	}
 
 IL_00f9:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:70>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_36 = V_1;
 		NullCheck(L_36);
 		float L_37 = L_36->___CurveScale;
 		__this->___U3Cold_CurveScaleU3E5__2 = L_37;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:71>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_38 = V_1;
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_39 = V_1;
 		NullCheck(L_39);
@@ -11285,15 +11886,18 @@ IL_00f9:
 		L_41 = SkewTextExample_CopyAnimationCurve_mD2C2C4CA7AFBAAC9F4B04CB2896DB9B32B015ACB(L_38, L_40, NULL);
 		__this->___U3Cold_curveU3E5__4 = L_41;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3Cold_curveU3E5__4), (void*)L_41);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:72>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_42 = V_1;
 		NullCheck(L_42);
 		float L_43 = L_42->___ShearAmount;
 		__this->___U3Cold_ShearValueU3E5__3 = L_43;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:74>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_44 = V_1;
 		NullCheck(L_44);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_45 = L_44->___m_TextComponent;
 		NullCheck(L_45);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_45, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:76>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_46 = V_1;
 		NullCheck(L_46);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_47 = L_46->___m_TextComponent;
@@ -11301,10 +11905,12 @@ IL_00f9:
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_48;
 		L_48 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_47, NULL);
 		V_4 = L_48;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:77>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_49 = V_4;
 		NullCheck(L_49);
 		int32_t L_50 = L_49->___characterCount;
 		V_5 = L_50;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:80>
 		int32_t L_51 = V_5;
 		if (!L_51)
 		{
@@ -11312,6 +11918,7 @@ IL_00f9:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:85>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_52 = V_1;
 		NullCheck(L_52);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_53 = L_52->___m_TextComponent;
@@ -11323,6 +11930,7 @@ IL_00f9:
 		L_55 = Bounds_get_min_m465AC9BBE1DE5D8E8AD95AC19B9899068FEEBB13_inline((&V_8), NULL);
 		float L_56 = L_55.___x;
 		V_6 = L_56;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:86>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_57 = V_1;
 		NullCheck(L_57);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_58 = L_57->___m_TextComponent;
@@ -11334,12 +11942,14 @@ IL_00f9:
 		L_60 = Bounds_get_max_m6446F2AB97C1E57CA89467B9DE52D4EB61F1CB09_inline((&V_8), NULL);
 		float L_61 = L_60.___x;
 		V_7 = L_61;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:90>
 		V_9 = 0;
 		goto IL_0572;
 	}
 
 IL_018b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:92>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_62 = V_4;
 		NullCheck(L_62);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_63 = L_62->___characterInfo;
@@ -11352,6 +11962,7 @@ IL_018b:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:95>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_66 = V_4;
 		NullCheck(L_66);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_67 = L_66->___characterInfo;
@@ -11359,6 +11970,7 @@ IL_018b:
 		NullCheck(L_67);
 		int32_t L_69 = ((L_67)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_68)))->___vertexIndex;
 		V_10 = L_69;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:98>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_70 = V_4;
 		NullCheck(L_70);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_71 = L_70->___characterInfo;
@@ -11366,6 +11978,7 @@ IL_018b:
 		NullCheck(L_71);
 		int32_t L_73 = ((L_71)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_72)))->___materialReferenceIndex;
 		V_11 = L_73;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:100>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_74 = V_4;
 		NullCheck(L_74);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_75 = L_74->___meshInfo;
@@ -11373,6 +11986,7 @@ IL_018b:
 		NullCheck(L_75);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_77 = ((L_75)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_76)))->___vertices;
 		V_2 = L_77;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:103>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_78 = V_2;
 		int32_t L_79 = V_10;
 		NullCheck(L_78);
@@ -11393,6 +12007,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_89;
 		L_89 = Vector2_op_Implicit_m6D9CABB2C791A192867D7A4559D132BE86DD3EB7_inline(L_88, NULL);
 		V_12 = L_89;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:107>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_90 = V_2;
 		int32_t L_91 = V_10;
 		NullCheck(L_90);
@@ -11404,6 +12019,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_96;
 		L_96 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_93, L_95, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_92 = L_96;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:108>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_97 = V_2;
 		int32_t L_98 = V_10;
 		NullCheck(L_97);
@@ -11415,6 +12031,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_103;
 		L_103 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_100, L_102, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_99 = L_103;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:109>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_104 = V_2;
 		int32_t L_105 = V_10;
 		NullCheck(L_104);
@@ -11426,6 +12043,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_110;
 		L_110 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_107, L_109, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_106 = L_110;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:110>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_111 = V_2;
 		int32_t L_112 = V_10;
 		NullCheck(L_111);
@@ -11437,10 +12055,12 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_117;
 		L_117 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_114, L_116, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_113 = L_117;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:113>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_118 = V_1;
 		NullCheck(L_118);
 		float L_119 = L_118->___ShearAmount;
 		V_13 = ((float)il2cpp_codegen_multiply(L_119, (0.00999999978f)));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:114>
 		float L_120 = V_13;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_121 = V_4;
 		NullCheck(L_121);
@@ -11456,6 +12076,7 @@ IL_018b:
 		NullCheck(L_127);
 		float L_129 = ((L_127)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_128)))->___baseLine;
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&V_14), ((float)il2cpp_codegen_multiply(L_120, ((float)il2cpp_codegen_subtract(L_125, L_129)))), (0.0f), (0.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:115>
 		float L_130 = V_13;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_131 = V_4;
 		NullCheck(L_131);
@@ -11471,6 +12092,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_138 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&((L_136)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_137)))->___bottomRight);
 		float L_139 = L_138->___y;
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&V_15), ((float)il2cpp_codegen_multiply(L_130, ((float)il2cpp_codegen_subtract(L_134, L_139)))), (0.0f), (0.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:117>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_140 = V_2;
 		int32_t L_141 = V_10;
 		NullCheck(L_140);
@@ -11482,6 +12104,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_146;
 		L_146 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_143, L_145, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_142 = L_146;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:118>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_147 = V_2;
 		int32_t L_148 = V_10;
 		NullCheck(L_147);
@@ -11491,6 +12114,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_152;
 		L_152 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_150, L_151, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_149 = L_152;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:119>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_153 = V_2;
 		int32_t L_154 = V_10;
 		NullCheck(L_153);
@@ -11500,6 +12124,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_158;
 		L_158 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_156, L_157, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_155 = L_158;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:120>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_159 = V_2;
 		int32_t L_160 = V_10;
 		NullCheck(L_159);
@@ -11511,14 +12136,17 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_165;
 		L_165 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_162, L_164, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_161 = L_165;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:124>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_166 = V_12;
 		float L_167 = L_166.___x;
 		float L_168 = V_6;
 		float L_169 = V_7;
 		float L_170 = V_6;
 		V_16 = ((float)(((float)il2cpp_codegen_subtract(L_167, L_168))/((float)il2cpp_codegen_subtract(L_169, L_170))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:125>
 		float L_171 = V_16;
 		V_17 = ((float)il2cpp_codegen_add(L_171, (9.99999975E-05f)));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:126>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_172 = V_1;
 		NullCheck(L_172);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_173 = L_172->___VertexCurve;
@@ -11530,6 +12158,7 @@ IL_018b:
 		NullCheck(L_176);
 		float L_177 = L_176->___CurveScale;
 		V_18 = ((float)il2cpp_codegen_multiply(L_175, L_177));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:127>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_178 = V_1;
 		NullCheck(L_178);
 		AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* L_179 = L_178->___VertexCurve;
@@ -11541,9 +12170,11 @@ IL_018b:
 		NullCheck(L_182);
 		float L_183 = L_182->___CurveScale;
 		V_19 = ((float)il2cpp_codegen_multiply(L_181, L_183));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:129>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_184;
 		memset((&L_184), 0, sizeof(L_184));
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_184), (1.0f), (0.0f), (0.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:131>
 		float L_185 = V_17;
 		float L_186 = V_7;
 		float L_187 = V_6;
@@ -11561,6 +12192,7 @@ IL_018b:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_195;
 		L_195 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_190, L_194, NULL);
 		V_20 = L_195;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:133>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_196 = L_184;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_197;
 		L_197 = Vector3_get_normalized_m736BBF65D5CDA7A18414370D15B4DFCC1E466F07_inline((&V_20), NULL);
@@ -11569,9 +12201,11 @@ IL_018b:
 		float L_199;
 		L_199 = acosf(L_198);
 		V_21 = ((float)il2cpp_codegen_multiply(L_199, (57.2957802f)));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:134>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_200 = V_20;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_201;
 		L_201 = Vector3_Cross_mF93A280558BCE756D13B6CC5DCD7DE8A43148987_inline(L_196, L_200, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:135>
 		float L_202 = L_201.___z;
 		if ((((float)L_202) > ((float)(0.0f))))
 		{
@@ -11593,6 +12227,7 @@ IL_0465:
 IL_0467:
 	{
 		V_22 = G_B15_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:137>
 		float L_205 = V_18;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_206;
 		memset((&L_206), 0, sizeof(L_206));
@@ -11605,6 +12240,7 @@ IL_0467:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_210;
 		L_210 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3_inline(L_206, L_208, L_209, NULL);
 		V_3 = L_210;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:139>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_211 = V_2;
 		int32_t L_212 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_213 = V_2;
@@ -11616,6 +12252,7 @@ IL_0467:
 		L_217 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_3), L_216, NULL);
 		NullCheck(L_211);
 		(L_211)->SetAt(static_cast<il2cpp_array_size_t>(L_212), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_217);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:140>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_218 = V_2;
 		int32_t L_219 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_220 = V_2;
@@ -11627,6 +12264,7 @@ IL_0467:
 		L_224 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_3), L_223, NULL);
 		NullCheck(L_218);
 		(L_218)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_219, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_224);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:141>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_225 = V_2;
 		int32_t L_226 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_227 = V_2;
@@ -11638,6 +12276,7 @@ IL_0467:
 		L_231 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_3), L_230, NULL);
 		NullCheck(L_225);
 		(L_225)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_226, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_231);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:142>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_232 = V_2;
 		int32_t L_233 = V_10;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_234 = V_2;
@@ -11649,6 +12288,7 @@ IL_0467:
 		L_238 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_3), L_237, NULL);
 		NullCheck(L_232);
 		(L_232)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_233, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_238);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:144>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_239 = V_2;
 		int32_t L_240 = V_10;
 		NullCheck(L_239);
@@ -11658,6 +12298,7 @@ IL_0467:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_244;
 		L_244 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_242, L_243, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_241 = L_244;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:145>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_245 = V_2;
 		int32_t L_246 = V_10;
 		NullCheck(L_245);
@@ -11667,6 +12308,7 @@ IL_0467:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_250;
 		L_250 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_248, L_249, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_247 = L_250;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:146>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_251 = V_2;
 		int32_t L_252 = V_10;
 		NullCheck(L_251);
@@ -11676,6 +12318,7 @@ IL_0467:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_256;
 		L_256 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_254, L_255, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_253 = L_256;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:147>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_257 = V_2;
 		int32_t L_258 = V_10;
 		NullCheck(L_257);
@@ -11689,12 +12332,14 @@ IL_0467:
 
 IL_056c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:90>
 		int32_t L_263 = V_9;
 		V_9 = ((int32_t)il2cpp_codegen_add(L_263, 1));
 	}
 
 IL_0572:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:90>
 		int32_t L_264 = V_9;
 		int32_t L_265 = V_5;
 		if ((((int32_t)L_264) < ((int32_t)L_265)))
@@ -11703,11 +12348,13 @@ IL_0572:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:152>
 		SkewTextExample_t23E1D8362105119C600703D984514C02617441D1* L_266 = V_1;
 		NullCheck(L_266);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_267 = L_266->___m_TextComponent;
 		NullCheck(L_267);
 		VirtualActionInvoker0::Invoke(109, L_267);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:154>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 2;
@@ -11717,6 +12364,7 @@ IL_0572:
 IL_0596:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs:62>
 		goto IL_0089;
 	}
 }
@@ -11781,6 +12429,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_ExampleScript_01_Awake_m6E620605AE9C
 	TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* G_B5_0 = NULL;
 	TMP_ExampleScript_01_t12A14830C25DE1BA02443B22907A196BE4B44305* G_B5_1 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:29>
 		int32_t L_0 = __this->___ObjectType;
 		if (L_0)
 		{
@@ -11788,6 +12437,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_ExampleScript_01_Awake_m6E620605AE9C
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:30>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_1;
 		L_1 = Component_GetComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_m991A1A2A2EFE70B64BBECFF1B44EE5C04FF8994E(__this, Component_GetComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_m991A1A2A2EFE70B64BBECFF1B44EE5C04FF8994E_RuntimeMethod_var);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_2 = L_1;
@@ -11820,6 +12470,7 @@ IL_001e:
 
 IL_0025:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:32>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_5;
 		L_5 = Component_GetComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m23F8F2F9DD5A54329CEB47D53B4CAA8BC4A562AA(__this, Component_GetComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m23F8F2F9DD5A54329CEB47D53B4CAA8BC4A562AA_RuntimeMethod_var);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_6 = L_5;
@@ -11851,27 +12502,33 @@ IL_003b:
 
 IL_0040:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:35>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_9 = __this->___m_text;
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_10;
 		L_10 = Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3(_stringLiteralCEB055F85C5660DEABF3989A924C2D2EDB0C8C84, Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3_RuntimeMethod_var);
 		NullCheck(L_9);
 		TMP_Text_set_font_mC55E4A8C1C09595031384B35F2C2FB2FC3479E83(L_9, L_10, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:38>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_11 = __this->___m_text;
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_12;
 		L_12 = Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E(_stringLiteralA294DAD207C32424675CE40B7B7673FBE9C295B3, Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E_RuntimeMethod_var);
 		NullCheck(L_11);
 		VirtualActionInvoker1< Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* >::Invoke(68, L_11, L_12);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:41>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_13 = __this->___m_text;
 		NullCheck(L_13);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_13, (120.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:44>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_14 = __this->___m_text;
 		NullCheck(L_14);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_14, _stringLiteral0570B799853B77BFC04E0AB8BD83CD1E5089060A);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:47>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_15 = __this->___m_text;
 		NullCheck(L_15);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_16;
 		L_16 = TMP_Text_GetPreferredValues_m1F06F3D203FD8F13D0335F697E839E5DAA61DD14(L_15, (std::numeric_limits<float>::infinity()), (std::numeric_limits<float>::infinity()), NULL);
 		V_0 = L_16;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:50>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_17 = __this->___m_text;
 		NullCheck(L_17);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_18;
@@ -11885,6 +12542,7 @@ IL_0040:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_23), L_20, L_22, NULL);
 		NullCheck(L_18);
 		RectTransform_set_sizeDelta_mC9A980EA6036E6725EF24CEDF3EE80A9B2B50EE5(L_18, L_23, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:51>
 		return;
 	}
 }
@@ -11898,6 +12556,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_ExampleScript_01_Update_m3D4A9AB0472
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:56>
 		bool L_0 = __this->___isStatic;
 		if (L_0)
 		{
@@ -11905,16 +12564,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_ExampleScript_01_Update_m3D4A9AB0472
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:58>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = __this->___m_text;
 		int32_t L_2 = __this->___count;
 		NullCheck(L_1);
 		TMP_Text_SetText_mC6973FFC60DB6A96B0C4253CD2FD9D0789ECC533(L_1, _stringLiteral71BD498E5FC7E3B8709294B88AB8FAB2CFF77CAE, ((float)((int32_t)(L_2%((int32_t)1000)))), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:59>
 		int32_t L_3 = __this->___count;
 		__this->___count = ((int32_t)il2cpp_codegen_add(L_3, 1));
 	}
 
 IL_0033:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs:61>
 		return;
 	}
 }
@@ -11960,6 +12622,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Awake_m99156EF53E58
 	}
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_0 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:29>
 		bool L_0;
 		L_0 = Behaviour_get_enabled_mAAC9F15E9EBF552217A5AE2681589CC0BFA300C1(__this, NULL);
 		if (L_0)
@@ -11968,42 +12631,51 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Awake_m99156EF53E58
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:30>
 		return;
 	}
 
 IL_0009:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:32>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_1;
 		L_1 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		__this->___m_camera = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_camera), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:33>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		Application_set_targetFrameRate_mB90EEA60DAE55CD71C38D4B7DFDBE2B34EA6B46F(((int32_t)9999), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:35>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_2, _stringLiteralA6107EE62A5874EF8D2DEAC7D3C0A9F07B89E096, NULL);
 		V_0 = L_2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:37>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = V_0;
 		NullCheck(L_3);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_4;
 		L_4 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_3, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
 		__this->___m_TextMeshPro = L_4;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextMeshPro), (void*)L_4);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:38>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_5 = __this->___m_TextMeshPro;
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_6;
 		L_6 = Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3(_stringLiteralAB3448E21FA53C63C06270903A13B17D02935BE0, Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3_RuntimeMethod_var);
 		NullCheck(L_5);
 		TMP_Text_set_font_mC55E4A8C1C09595031384B35F2C2FB2FC3479E83(L_5, L_6, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:39>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_7 = __this->___m_TextMeshPro;
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_8;
 		L_8 = Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E(_stringLiteral9ECD13393A1BC799BB4763A4E4CD5B53E220C53A, Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E_RuntimeMethod_var);
 		NullCheck(L_7);
 		VirtualActionInvoker1< Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* >::Invoke(68, L_7, L_8);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:42>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_9 = V_0;
 		NullCheck(L_9);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_10;
 		L_10 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_9, NULL);
 		__this->___m_frameCounter_transform = L_10;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_frameCounter_transform), (void*)L_10);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:43>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_11 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_12 = __this->___m_camera;
 		NullCheck(L_12);
@@ -12011,21 +12683,27 @@ IL_0009:
 		L_13 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_12, NULL);
 		NullCheck(L_11);
 		Transform_SetParent_m6677538B60246D958DD91F931C50F969CCBB5250(L_11, L_13, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:44>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_14 = __this->___m_frameCounter_transform;
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_15;
 		L_15 = Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline(NULL);
 		NullCheck(L_14);
 		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_14, L_15, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:46>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_16 = __this->___m_TextMeshPro;
 		NullCheck(L_16);
 		TMP_Text_set_textWrappingMode_mBD3A313CC85C9BB85F924D589A33A500E21DCA3D(L_16, 0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:47>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_17 = __this->___m_TextMeshPro;
 		NullCheck(L_17);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_17, (24.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:58>
 		int32_t L_18 = __this->___AnchorPosition;
 		TMP_FrameRateCounter_Set_FrameCounter_Position_m1CC40A8236B2161050D19C4B2EBFF34B96645723(__this, L_18, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:59>
 		int32_t L_19 = __this->___AnchorPosition;
 		__this->___last_AnchorPosition = L_19;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:62>
 		return;
 	}
 }
@@ -12033,10 +12711,13 @@ IL_0009:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Start_m9B5D0A86D174DA019F3EB5C6E9BD54634B2F909A (TMP_FrameRateCounter_t65C436069EE403C827CBE41C38F5B5C9D2FC946B* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:66>
 		float L_0;
 		L_0 = Time_get_realtimeSinceStartup_m73B3CB73175D79A44333D59BB70F9EDE55EC9510(NULL);
 		__this->___m_LastInterval = L_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:67>
 		__this->___m_Frames = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:68>
 		return;
 	}
 }
@@ -12056,6 +12737,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Update_m5251EE9AC9D
 	float V_1 = 0.0f;
 	float V_2 = 0.0f;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:72>
 		int32_t L_0 = __this->___AnchorPosition;
 		int32_t L_1 = __this->___last_AnchorPosition;
 		if ((((int32_t)L_0) == ((int32_t)L_1)))
@@ -12064,19 +12746,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Update_m5251EE9AC9D
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:73>
 		int32_t L_2 = __this->___AnchorPosition;
 		TMP_FrameRateCounter_Set_FrameCounter_Position_m1CC40A8236B2161050D19C4B2EBFF34B96645723(__this, L_2, NULL);
 	}
 
 IL_001a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:75>
 		int32_t L_3 = __this->___AnchorPosition;
 		__this->___last_AnchorPosition = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:77>
 		int32_t L_4 = __this->___m_Frames;
 		__this->___m_Frames = ((int32_t)il2cpp_codegen_add(L_4, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:78>
 		float L_5;
 		L_5 = Time_get_realtimeSinceStartup_m73B3CB73175D79A44333D59BB70F9EDE55EC9510(NULL);
 		V_0 = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:80>
 		float L_6 = V_0;
 		float L_7 = __this->___m_LastInterval;
 		float L_8 = __this->___UpdateInterval;
@@ -12086,14 +12773,17 @@ IL_001a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:83>
 		int32_t L_9 = __this->___m_Frames;
 		float L_10 = V_0;
 		float L_11 = __this->___m_LastInterval;
 		V_1 = ((float)(((float)L_9)/((float)il2cpp_codegen_subtract(L_10, L_11))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:84>
 		float L_12 = V_1;
 		float L_13;
 		L_13 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(L_12, (9.99999975E-06f), NULL);
 		V_2 = ((float)((1000.0f)/L_13));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:86>
 		float L_14 = V_1;
 		if ((!(((float)L_14) < ((float)(30.0f)))))
 		{
@@ -12101,6 +12791,7 @@ IL_001a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:87>
 		__this->___htmlColorTag = _stringLiteralA87D266F5AAE1AF5998468D25833A8C6AD50D4FD;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___htmlColorTag), (void*)_stringLiteralA87D266F5AAE1AF5998468D25833A8C6AD50D4FD);
 		goto IL_00a5;
@@ -12108,6 +12799,7 @@ IL_001a:
 
 IL_0085:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:88>
 		float L_15 = V_1;
 		if ((!(((float)L_15) < ((float)(10.0f)))))
 		{
@@ -12115,6 +12807,7 @@ IL_0085:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:89>
 		__this->___htmlColorTag = _stringLiteral8ACAA4E0B28437F5FD1A41CE6591A16813F05377;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___htmlColorTag), (void*)_stringLiteral8ACAA4E0B28437F5FD1A41CE6591A16813F05377);
 		goto IL_00a5;
@@ -12122,12 +12815,14 @@ IL_0085:
 
 IL_009a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:91>
 		__this->___htmlColorTag = _stringLiteral7F85A2723BB62FEF95DD6F8C5F0FF606EA62246A;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___htmlColorTag), (void*)_stringLiteral7F85A2723BB62FEF95DD6F8C5F0FF606EA62246A);
 	}
 
 IL_00a5:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:96>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_16 = __this->___m_TextMeshPro;
 		String_t* L_17 = __this->___htmlColorTag;
 		String_t* L_18;
@@ -12136,13 +12831,16 @@ IL_00a5:
 		float L_20 = V_2;
 		NullCheck(L_16);
 		TMP_Text_SetText_m033947AEEEBDA12707E4B0535B4CCD7EB28B5F31(L_16, L_18, L_19, L_20, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:98>
 		__this->___m_Frames = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:99>
 		float L_21 = V_0;
 		__this->___m_LastInterval = L_21;
 	}
 
 IL_00d0:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:101>
 		return;
 	}
 }
@@ -12150,6 +12848,7 @@ IL_00d0:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Set_FrameCounter_Position_m1CC40A8236B2161050D19C4B2EBFF34B96645723 (TMP_FrameRateCounter_t65C436069EE403C827CBE41C38F5B5C9D2FC946B* __this, int32_t ___0_anchor_position, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:107>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_0 = __this->___m_TextMeshPro;
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_1;
 		memset((&L_1), 0, sizeof(L_1));
@@ -12183,9 +12882,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter_Set_FrameCounter_Po
 
 IL_003b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:112>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_3 = __this->___m_TextMeshPro;
 		NullCheck(L_3);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_3, ((int32_t)257), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:113>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_4 = __this->___m_TextMeshPro;
 		NullCheck(L_4);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_5;
@@ -12195,6 +12896,7 @@ IL_003b:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_6), (0.0f), (1.0f), NULL);
 		NullCheck(L_5);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_5, L_6, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:114>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_8 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
@@ -12205,14 +12907,17 @@ IL_003b:
 		L_10 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_8, L_9, NULL);
 		NullCheck(L_7);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_7, L_10, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:115>
 		return;
 	}
 
 IL_0095:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:117>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_11 = __this->___m_TextMeshPro;
 		NullCheck(L_11);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_11, ((int32_t)1025), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:118>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_12 = __this->___m_TextMeshPro;
 		NullCheck(L_12);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_13;
@@ -12222,6 +12927,7 @@ IL_0095:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_14), (0.0f), (0.0f), NULL);
 		NullCheck(L_13);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_13, L_14, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:119>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_15 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_16 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_17;
@@ -12232,14 +12938,17 @@ IL_0095:
 		L_18 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_16, L_17, NULL);
 		NullCheck(L_15);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_15, L_18, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:120>
 		return;
 	}
 
 IL_00ef:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:122>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_19 = __this->___m_TextMeshPro;
 		NullCheck(L_19);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_19, ((int32_t)260), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:123>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_20 = __this->___m_TextMeshPro;
 		NullCheck(L_20);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_21;
@@ -12249,6 +12958,7 @@ IL_00ef:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_22), (1.0f), (1.0f), NULL);
 		NullCheck(L_21);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_21, L_22, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:124>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_23 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_24 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_25;
@@ -12259,14 +12969,17 @@ IL_00ef:
 		L_26 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_24, L_25, NULL);
 		NullCheck(L_23);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_23, L_26, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:125>
 		return;
 	}
 
 IL_0149:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:127>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_27 = __this->___m_TextMeshPro;
 		NullCheck(L_27);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_27, ((int32_t)1028), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:128>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_28 = __this->___m_TextMeshPro;
 		NullCheck(L_28);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_29;
@@ -12276,6 +12989,7 @@ IL_0149:
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_30), (1.0f), (0.0f), NULL);
 		NullCheck(L_29);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_29, L_30, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:129>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_31 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_32 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_33;
@@ -12286,6 +13000,7 @@ IL_0149:
 		L_34 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_32, L_33, NULL);
 		NullCheck(L_31);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_31, L_34, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:132>
 		return;
 	}
 }
@@ -12293,7 +13008,9 @@ IL_0149:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_FrameRateCounter__ctor_mD8804AE37CED37A01DF943624D3C2C48FBC9AE43 (TMP_FrameRateCounter_t65C436069EE403C827CBE41C38F5B5C9D2FC946B* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:10>
 		__this->___UpdateInterval = (5.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs:16>
 		__this->___AnchorPosition = 2;
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -12337,6 +13054,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:15>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_0 = __this->___TextEventHandler;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -12347,12 +13065,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:18>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_2 = __this->___TextEventHandler;
 		NullCheck(L_2);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_3;
 		L_3 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(L_2, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_TextComponent = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:20>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_4 = __this->___TextEventHandler;
 		NullCheck(L_4);
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_5;
@@ -12361,6 +13081,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 		UnityAction_2__ctor_m9F49CFF4FADF7EF080CEA8DCAD9FA2EB8D63F35D(L_6, __this, (intptr_t)((void*)TMP_TextEventCheck_OnCharacterSelection_mB421E2CFB617397137CF1AE9CC2F49E46EB3F0AE_RuntimeMethod_var), NULL);
 		NullCheck(L_5);
 		UnityEvent_2_AddListener_mE2FC084F4ADB9D24D904D6A39A83763969F91E27(L_5, L_6, UnityEvent_2_AddListener_mE2FC084F4ADB9D24D904D6A39A83763969F91E27_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:21>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_7 = __this->___TextEventHandler;
 		NullCheck(L_7);
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_8;
@@ -12369,6 +13090,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 		UnityAction_2__ctor_m9F49CFF4FADF7EF080CEA8DCAD9FA2EB8D63F35D(L_9, __this, (intptr_t)((void*)TMP_TextEventCheck_OnSpriteSelection_mD88D899DE3321CC15502BB1174709BE290AB6215_RuntimeMethod_var), NULL);
 		NullCheck(L_8);
 		UnityEvent_2_AddListener_mE2FC084F4ADB9D24D904D6A39A83763969F91E27(L_8, L_9, UnityEvent_2_AddListener_mE2FC084F4ADB9D24D904D6A39A83763969F91E27_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:22>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_10 = __this->___TextEventHandler;
 		NullCheck(L_10);
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_11;
@@ -12377,6 +13099,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 		UnityAction_3__ctor_m16AB9F4E444421420CA4A34EA0A6F60B15E20B9D(L_12, __this, (intptr_t)((void*)TMP_TextEventCheck_OnWordSelection_m180B102DAED1F3313F2F4BB6CF588FF96C8CAB79_RuntimeMethod_var), NULL);
 		NullCheck(L_11);
 		UnityEvent_3_AddListener_mE456028DE63E2FF37E53F2618AA321B5551B881A(L_11, L_12, UnityEvent_3_AddListener_mE456028DE63E2FF37E53F2618AA321B5551B881A_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:23>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_13 = __this->___TextEventHandler;
 		NullCheck(L_13);
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_14;
@@ -12385,6 +13108,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 		UnityAction_3__ctor_m16AB9F4E444421420CA4A34EA0A6F60B15E20B9D(L_15, __this, (intptr_t)((void*)TMP_TextEventCheck_OnLineSelection_mE0538FFAFE04A286F937907D0E4664338DCF1559_RuntimeMethod_var), NULL);
 		NullCheck(L_14);
 		UnityEvent_3_AddListener_mE456028DE63E2FF37E53F2618AA321B5551B881A(L_14, L_15, UnityEvent_3_AddListener_mE456028DE63E2FF37E53F2618AA321B5551B881A_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:24>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_16 = __this->___TextEventHandler;
 		NullCheck(L_16);
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_17;
@@ -12397,6 +13121,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnEnable_mABF0C00DDBB
 
 IL_00ae:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:26>
 		return;
 	}
 }
@@ -12421,6 +13146,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:31>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_0 = __this->___TextEventHandler;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -12431,6 +13157,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:33>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_2 = __this->___TextEventHandler;
 		NullCheck(L_2);
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_3;
@@ -12439,6 +13166,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 		UnityAction_2__ctor_m9F49CFF4FADF7EF080CEA8DCAD9FA2EB8D63F35D(L_4, __this, (intptr_t)((void*)TMP_TextEventCheck_OnCharacterSelection_mB421E2CFB617397137CF1AE9CC2F49E46EB3F0AE_RuntimeMethod_var), NULL);
 		NullCheck(L_3);
 		UnityEvent_2_RemoveListener_m57B7F9B719A15831F63EA67147A848E324F3760B(L_3, L_4, UnityEvent_2_RemoveListener_m57B7F9B719A15831F63EA67147A848E324F3760B_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:34>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_5 = __this->___TextEventHandler;
 		NullCheck(L_5);
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_6;
@@ -12447,6 +13175,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 		UnityAction_2__ctor_m9F49CFF4FADF7EF080CEA8DCAD9FA2EB8D63F35D(L_7, __this, (intptr_t)((void*)TMP_TextEventCheck_OnSpriteSelection_mD88D899DE3321CC15502BB1174709BE290AB6215_RuntimeMethod_var), NULL);
 		NullCheck(L_6);
 		UnityEvent_2_RemoveListener_m57B7F9B719A15831F63EA67147A848E324F3760B(L_6, L_7, UnityEvent_2_RemoveListener_m57B7F9B719A15831F63EA67147A848E324F3760B_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:35>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_8 = __this->___TextEventHandler;
 		NullCheck(L_8);
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_9;
@@ -12455,6 +13184,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 		UnityAction_3__ctor_m16AB9F4E444421420CA4A34EA0A6F60B15E20B9D(L_10, __this, (intptr_t)((void*)TMP_TextEventCheck_OnWordSelection_m180B102DAED1F3313F2F4BB6CF588FF96C8CAB79_RuntimeMethod_var), NULL);
 		NullCheck(L_9);
 		UnityEvent_3_RemoveListener_m9741C57D75E2CE8CCD912E252CBACCE5FC950523(L_9, L_10, UnityEvent_3_RemoveListener_m9741C57D75E2CE8CCD912E252CBACCE5FC950523_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:36>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_11 = __this->___TextEventHandler;
 		NullCheck(L_11);
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_12;
@@ -12463,6 +13193,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 		UnityAction_3__ctor_m16AB9F4E444421420CA4A34EA0A6F60B15E20B9D(L_13, __this, (intptr_t)((void*)TMP_TextEventCheck_OnLineSelection_mE0538FFAFE04A286F937907D0E4664338DCF1559_RuntimeMethod_var), NULL);
 		NullCheck(L_12);
 		UnityEvent_3_RemoveListener_m9741C57D75E2CE8CCD912E252CBACCE5FC950523(L_12, L_13, UnityEvent_3_RemoveListener_m9741C57D75E2CE8CCD912E252CBACCE5FC950523_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:37>
 		TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* L_14 = __this->___TextEventHandler;
 		NullCheck(L_14);
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_15;
@@ -12475,6 +13206,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnDisable_m4AE76C19CB
 
 IL_009d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:39>
 		return;
 	}
 }
@@ -12492,6 +13224,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnCharacterSelection_
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:44>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_0 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)5);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_1 = L_0;
 		NullCheck(L_1);
@@ -12517,6 +13250,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnCharacterSelection_
 		L_8 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_7, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_8, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:45>
 		return;
 	}
 }
@@ -12534,6 +13268,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnSpriteSelection_mD8
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:49>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_0 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)5);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_1 = L_0;
 		NullCheck(L_1);
@@ -12559,6 +13294,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnSpriteSelection_mD8
 		L_8 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_7, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_8, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:50>
 		return;
 	}
 }
@@ -12577,6 +13313,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnWordSelection_m180B
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:54>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_0 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)7);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_1 = L_0;
 		NullCheck(L_1);
@@ -12608,6 +13345,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnWordSelection_m180B
 		L_11 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_10, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_11, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:55>
 		return;
 	}
 }
@@ -12626,6 +13364,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnLineSelection_mE053
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:59>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_0 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)7);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_1 = L_0;
 		NullCheck(L_1);
@@ -12657,6 +13396,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnLineSelection_mE053
 		L_11 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_10, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_11, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:60>
 		return;
 	}
 }
@@ -12676,6 +13416,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnLinkSelection_m72BF
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:64>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0 = __this->___m_TextComponent;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -12686,6 +13427,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnLinkSelection_m72BF
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:66>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_2 = __this->___m_TextComponent;
 		NullCheck(L_2);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_3;
@@ -12698,6 +13440,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextEventCheck_OnLinkSelection_m72BF
 
 IL_0025:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:69>
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_6 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)7);
 		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_7 = L_6;
 		NullCheck(L_7);
@@ -12728,6 +13471,7 @@ IL_0025:
 		L_17 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_16, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_17, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs:70>
 		return;
 	}
 }
@@ -12773,6 +13517,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_Awake_m662ED2E3CDB7AE
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:22>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -12780,13 +13525,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_Awake_m662ED2E3CDB7AE
 		L_1 = GameObject_GetComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_m788ADD6C98FD3A1039F72A865AB7D335AEA6116F(L_0, GameObject_GetComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_m788ADD6C98FD3A1039F72A865AB7D335AEA6116F_RuntimeMethod_var);
 		__this->___m_TextMeshPro = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextMeshPro), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:23>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_2;
 		L_2 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		__this->___m_Camera = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Camera), (void*)L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:26>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_3 = __this->___m_TextMeshPro;
 		NullCheck(L_3);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_3, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:27>
 		return;
 	}
 }
@@ -12825,7 +13573,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_LateUpdate_m1A711EC87
 	int32_t V_14 = 0;
 	int32_t V_15 = 0;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:32>
 		__this->___m_isHoveringObject = (bool)0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:34>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_0 = __this->___m_TextMeshPro;
 		NullCheck(L_0);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_1;
@@ -12843,11 +13593,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_LateUpdate_m1A711EC87
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:36>
 		__this->___m_isHoveringObject = (bool)1;
 	}
 
 IL_002a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:39>
 		bool L_5 = __this->___m_isHoveringObject;
 		if (!L_5)
 		{
@@ -12855,6 +13607,7 @@ IL_002a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:42>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_6 = __this->___m_TextMeshPro;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
 		L_7 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -12864,6 +13617,7 @@ IL_002a:
 		int32_t L_9;
 		L_9 = TMP_TextUtilities_FindIntersectingCharacter_m89C20D1FB440DECC3C06670B457A707B6DB36453(L_6, L_7, L_8, (bool)1, NULL);
 		V_0 = L_9;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:43>
 		int32_t L_10 = V_0;
 		if ((((int32_t)L_10) == ((int32_t)(-1))))
 		{
@@ -12897,8 +13651,10 @@ IL_002a:
 
 IL_007a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:47>
 		int32_t L_15 = V_0;
 		__this->___m_lastCharIndex = L_15;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:49>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_16 = __this->___m_TextMeshPro;
 		NullCheck(L_16);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_17;
@@ -12909,6 +13665,7 @@ IL_007a:
 		NullCheck(L_18);
 		int32_t L_20 = ((L_18)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_19)))->___materialReferenceIndex;
 		V_3 = L_20;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:51>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_21 = __this->___m_TextMeshPro;
 		NullCheck(L_21);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_22;
@@ -12919,6 +13676,7 @@ IL_007a:
 		NullCheck(L_23);
 		int32_t L_25 = ((L_23)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_24)))->___vertexIndex;
 		V_4 = L_25;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:53>
 		int32_t L_26;
 		L_26 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
 		int32_t L_27;
@@ -12926,6 +13684,7 @@ IL_007a:
 		int32_t L_28;
 		L_28 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
 		Color32__ctor_mC9C6B443F0C7CA3F8B174158B2AF6F05E18EAC4E_inline((&V_5), (uint8_t)((int32_t)(uint8_t)L_26), (uint8_t)((int32_t)(uint8_t)L_27), (uint8_t)((int32_t)(uint8_t)L_28), (uint8_t)((int32_t)255), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:55>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_29 = __this->___m_TextMeshPro;
 		NullCheck(L_29);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_30;
@@ -12936,26 +13695,31 @@ IL_007a:
 		NullCheck(L_31);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_33 = ((L_31)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_32)))->___colors32;
 		V_6 = L_33;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:57>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_34 = V_6;
 		int32_t L_35 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_36 = V_5;
 		NullCheck(L_34);
 		(L_34)->SetAt(static_cast<il2cpp_array_size_t>(L_35), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_36);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:58>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_37 = V_6;
 		int32_t L_38 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_39 = V_5;
 		NullCheck(L_37);
 		(L_37)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_38, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_39);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:59>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_40 = V_6;
 		int32_t L_41 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_42 = V_5;
 		NullCheck(L_40);
 		(L_40)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_41, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_42);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:60>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_43 = V_6;
 		int32_t L_44 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_45 = V_5;
 		NullCheck(L_43);
 		(L_43)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_44, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_45);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:63>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_46 = __this->___m_TextMeshPro;
 		NullCheck(L_46);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_47;
@@ -12972,6 +13736,7 @@ IL_007a:
 
 IL_015b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:69>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_52 = __this->___m_TextMeshPro;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_53;
 		L_53 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -12980,6 +13745,7 @@ IL_015b:
 		int32_t L_55;
 		L_55 = TMP_TextUtilities_FindIntersectingLink_mC752442B8650D5146505B5C18C7D92B681D276E9(L_52, L_53, L_54, NULL);
 		V_1 = L_55;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:72>
 		int32_t L_56 = V_1;
 		if ((!(((uint32_t)L_56) == ((uint32_t)(-1)))))
 		{
@@ -13006,11 +13772,13 @@ IL_017f:
 
 IL_0188:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:75>
 		__this->___m_selectedLink = (-1);
 	}
 
 IL_018f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:79>
 		int32_t L_60 = V_1;
 		if ((((int32_t)L_60) == ((int32_t)(-1))))
 		{
@@ -13026,8 +13794,10 @@ IL_018f:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:81>
 		int32_t L_63 = V_1;
 		__this->___m_selectedLink = L_63;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:83>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_64 = __this->___m_TextMeshPro;
 		NullCheck(L_64);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_65;
@@ -13039,6 +13809,7 @@ IL_018f:
 		int32_t L_68 = L_67;
 		TMP_LinkInfo_t9DC08E8BF8C5E8094AFF8C9FB3C251AF88B92DA6 L_69 = (L_66)->GetAt(static_cast<il2cpp_array_size_t>(L_68));
 		V_7 = L_69;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:90>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_70 = __this->___m_TextMeshPro;
 		NullCheck(L_70);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_71;
@@ -13051,6 +13822,7 @@ IL_018f:
 		il2cpp_codegen_runtime_class_init_inline(RectTransformUtility_t65C00A84A72F17D78B81F2E7D88C2AA98AB61244_il2cpp_TypeInfo_var);
 		bool L_75;
 		L_75 = RectTransformUtility_ScreenPointToWorldPointInRectangle_mA09F3D77E4731EF789E23E19D5CBA5EE5D1CF745(L_71, L_73, L_74, (&V_8), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:92>
 		String_t* L_76;
 		L_76 = TMP_LinkInfo_GetLinkID_mCC9D9E783D606660A4D15E0E746E1E27AD9C2425((&V_7), NULL);
 		V_9 = L_76;
@@ -13070,6 +13842,7 @@ IL_018f:
 
 IL_0202:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:111>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_81 = __this->___m_TextMeshPro;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_82;
 		L_82 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -13079,6 +13852,7 @@ IL_0202:
 		int32_t L_84;
 		L_84 = TMP_TextUtilities_FindIntersectingWord_m93E6DBCA2781A67271E7D0F8906CA0488CA08EB2(L_81, L_82, L_83, NULL);
 		V_2 = L_84;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:112>
 		int32_t L_85 = V_2;
 		if ((((int32_t)L_85) == ((int32_t)(-1))))
 		{
@@ -13094,8 +13868,10 @@ IL_0202:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:114>
 		int32_t L_88 = V_2;
 		__this->___m_lastWordIndex = L_88;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:116>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_89 = __this->___m_TextMeshPro;
 		NullCheck(L_89);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_90;
@@ -13107,6 +13883,7 @@ IL_0202:
 		int32_t L_93 = L_92;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_94 = (L_91)->GetAt(static_cast<il2cpp_array_size_t>(L_93));
 		V_10 = L_94;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:118>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_95 = __this->___m_TextMeshPro;
 		NullCheck(L_95);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_96;
@@ -13125,6 +13902,7 @@ IL_0202:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_103;
 		L_103 = Transform_TransformPoint_m05BFF013DB830D7BFE44A007703694AE1062EE44(L_96, L_102, NULL);
 		V_11 = L_103;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:119>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_104;
 		L_104 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_105 = V_11;
@@ -13132,6 +13910,7 @@ IL_0202:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_106;
 		L_106 = Camera_WorldToScreenPoint_m26B4C8945C3B5731F1CC5944CFD96BF17126BAA3(L_104, L_105, NULL);
 		V_11 = L_106;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:123>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_107 = __this->___m_TextMeshPro;
 		NullCheck(L_107);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_108;
@@ -13141,6 +13920,7 @@ IL_0202:
 		NullCheck(L_109);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_110 = ((L_109)->GetAddressAt(static_cast<il2cpp_array_size_t>(0)))->___colors32;
 		V_12 = L_110;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:125>
 		int32_t L_111;
 		L_111 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
 		int32_t L_112;
@@ -13148,12 +13928,14 @@ IL_0202:
 		int32_t L_113;
 		L_113 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
 		Color32__ctor_mC9C6B443F0C7CA3F8B174158B2AF6F05E18EAC4E_inline((&V_13), (uint8_t)((int32_t)(uint8_t)L_111), (uint8_t)((int32_t)(uint8_t)L_112), (uint8_t)((int32_t)(uint8_t)L_113), (uint8_t)((int32_t)255), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:126>
 		V_14 = 0;
 		goto IL_033b;
 	}
 
 IL_02dd:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:128>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_114 = __this->___m_TextMeshPro;
 		NullCheck(L_114);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_115;
@@ -13166,32 +13948,38 @@ IL_02dd:
 		NullCheck(L_116);
 		int32_t L_120 = ((L_116)->GetAddressAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_118, L_119)))))->___vertexIndex;
 		V_15 = L_120;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:130>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_121 = V_12;
 		int32_t L_122 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_123 = V_13;
 		NullCheck(L_121);
 		(L_121)->SetAt(static_cast<il2cpp_array_size_t>(L_122), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_123);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:131>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_124 = V_12;
 		int32_t L_125 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_126 = V_13;
 		NullCheck(L_124);
 		(L_124)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_125, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_126);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:132>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_127 = V_12;
 		int32_t L_128 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_129 = V_13;
 		NullCheck(L_127);
 		(L_127)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_128, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_129);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:133>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_130 = V_12;
 		int32_t L_131 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_132 = V_13;
 		NullCheck(L_130);
 		(L_130)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_131, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_132);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:126>
 		int32_t L_133 = V_14;
 		V_14 = ((int32_t)il2cpp_codegen_add(L_133, 1));
 	}
 
 IL_033b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:126>
 		int32_t L_134 = V_14;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_135 = V_10;
 		int32_t L_136 = L_135.___characterCount;
@@ -13201,6 +13989,7 @@ IL_033b:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:136>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_137 = __this->___m_TextMeshPro;
 		NullCheck(L_137);
 		Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4* L_138;
@@ -13212,6 +14001,7 @@ IL_033b:
 
 IL_0358:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:140>
 		return;
 	}
 }
@@ -13226,9 +14016,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_OnPointerEnter_m747F0
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:145>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralA2EC275CC698277AF27C3AFD1084563679CC06EB, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:146>
 		__this->___m_isHoveringObject = (bool)1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:147>
 		return;
 	}
 }
@@ -13243,9 +14036,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_OnPointerExit_m5D7D8A
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:152>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral598081DBD06E8B1A338629AF7933F9131C6D33AB, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:153>
 		__this->___m_isHoveringObject = (bool)0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:154>
 		return;
 	}
 }
@@ -13253,8 +14049,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A_OnPointerExit_m5D7D8A
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_A__ctor_m4C56A438A3140D5CF9C7AFB8466E11142F4FA3BE (TMP_TextSelector_A_t088F530FC9DE9E7B6AC9720D50A05B757189B294* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:16>
 		__this->___m_selectedLink = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:17>
 		__this->___m_lastCharIndex = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs:18>
 		__this->___m_lastWordIndex = (-1);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -13282,6 +14081,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_Awake_m773D4C87E67823
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:39>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -13289,6 +14089,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_Awake_m773D4C87E67823
 		L_1 = GameObject_GetComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_mBDBF977A8C7734F6EDD83FC65C6FDDE74427611E(L_0, GameObject_GetComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_mBDBF977A8C7734F6EDD83FC65C6FDDE74427611E_RuntimeMethod_var);
 		__this->___m_TextMeshPro = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextMeshPro), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:42>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2;
 		L_2 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_2);
@@ -13296,6 +14097,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_Awake_m773D4C87E67823
 		L_3 = GameObject_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m0A41CB7A7F9A10FCC98D1C7B5799D57C2724D991(L_2, GameObject_GetComponentInParent_TisCanvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26_m0A41CB7A7F9A10FCC98D1C7B5799D57C2724D991_RuntimeMethod_var);
 		__this->___m_Canvas = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Canvas), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:45>
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_4 = __this->___m_Canvas;
 		NullCheck(L_4);
 		int32_t L_5;
@@ -13306,6 +14108,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_Awake_m773D4C87E67823
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:46>
 		__this->___m_Camera = (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184*)NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_Camera), (void*)(Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184*)NULL);
 		goto IL_0049;
@@ -13313,6 +14116,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_Awake_m773D4C87E67823
 
 IL_0038:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:48>
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_6 = __this->___m_Canvas;
 		NullCheck(L_6);
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_7;
@@ -13323,12 +14127,14 @@ IL_0038:
 
 IL_0049:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:51>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_8 = __this->___TextPopup_Prefab_01;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_9;
 		L_9 = Object_Instantiate_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m2EBBFED3BA1B67B30F8503C5BD918B4C1745903E(L_8, Object_Instantiate_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m2EBBFED3BA1B67B30F8503C5BD918B4C1745903E_RuntimeMethod_var);
 		__this->___m_TextPopup_RectTransform = L_9;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextPopup_RectTransform), (void*)L_9);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:52>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_10 = __this->___m_TextPopup_RectTransform;
 		Canvas_t2DB4CEFDFF732884866C83F11ABF75F5AE8FFB26* L_11 = __this->___m_Canvas;
 		NullCheck(L_11);
@@ -13336,18 +14142,21 @@ IL_0049:
 		L_12 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_11, NULL);
 		NullCheck(L_10);
 		Transform_SetParent_m9BDD7B7476714B2D7919B10BDC22CE75C0A0A195(L_10, L_12, (bool)0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:53>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_13 = __this->___m_TextPopup_RectTransform;
 		NullCheck(L_13);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_14;
 		L_14 = Component_GetComponentInChildren_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m60A1B193FDBBFB3719065622DB5E0BB21CA4ABDC(L_13, Component_GetComponentInChildren_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m60A1B193FDBBFB3719065622DB5E0BB21CA4ABDC_RuntimeMethod_var);
 		__this->___m_TextPopup_TMPComponent = L_14;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextPopup_TMPComponent), (void*)L_14);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:54>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_15 = __this->___m_TextPopup_RectTransform;
 		NullCheck(L_15);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_16;
 		L_16 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_15, NULL);
 		NullCheck(L_16);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_16, (bool)0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:55>
 		return;
 	}
 }
@@ -13364,12 +14173,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnEnable_m8DA695DB091
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:61>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)TMP_TextSelector_B_ON_TEXT_CHANGED_m5B53EF1608E98B6A56AAA386085A3216B35A51EE_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6(L_0, L_1, FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:62>
 		return;
 	}
 }
@@ -13386,12 +14197,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnDisable_mF2EF7AE0E0
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:67>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)TMP_TextSelector_B_ON_TEXT_CHANGED_m5B53EF1608E98B6A56AAA386085A3216B35A51EE_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F(L_0, L_1, FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:68>
 		return;
 	}
 }
@@ -13405,6 +14218,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_ON_TEXT_CHANGED_m5B53
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:73>
 		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_0 = ___0_obj;
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_1 = __this->___m_TextMeshPro;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -13416,6 +14230,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_ON_TEXT_CHANGED_m5B53
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:76>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_3 = __this->___m_TextMeshPro;
 		NullCheck(L_3);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_4;
@@ -13429,6 +14244,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_ON_TEXT_CHANGED_m5B53
 
 IL_0024:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:78>
 		return;
 	}
 }
@@ -13484,6 +14300,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_LateUpdate_mE1B3969D7
 	memset((&V_24), 0, sizeof(V_24));
 	String_t* V_25 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:83>
 		bool L_0 = __this->___isHoveringObject;
 		if (!L_0)
 		{
@@ -13491,6 +14308,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_LateUpdate_mE1B3969D7
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:87>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_1 = __this->___m_TextMeshPro;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2;
 		L_2 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -13499,6 +14317,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_LateUpdate_mE1B3969D7
 		int32_t L_4;
 		L_4 = TMP_TextUtilities_FindIntersectingCharacter_m89C20D1FB440DECC3C06670B457A707B6DB36453(L_1, L_2, L_3, (bool)1, NULL);
 		V_0 = L_4;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:90>
 		int32_t L_5 = V_0;
 		if ((((int32_t)L_5) == ((int32_t)(-1))))
 		{
@@ -13516,13 +14335,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_LateUpdate_mE1B3969D7
 
 IL_0030:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:92>
 		int32_t L_8 = __this->___m_lastIndex;
 		TMP_TextSelector_B_RestoreCachedVertexAttributes_m1FD258EC7A53C8E1ECB18EB6FFEFC6239780C398(__this, L_8, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:93>
 		__this->___m_lastIndex = (-1);
 	}
 
 IL_0043:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:96>
 		int32_t L_9 = V_0;
 		if ((((int32_t)L_9) == ((int32_t)(-1))))
 		{
@@ -13556,8 +14378,10 @@ IL_0043:
 
 IL_0071:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:98>
 		int32_t L_14 = V_0;
 		__this->___m_lastIndex = L_14;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:101>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_15 = __this->___m_TextMeshPro;
 		NullCheck(L_15);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_16;
@@ -13568,6 +14392,7 @@ IL_0071:
 		NullCheck(L_17);
 		int32_t L_19 = ((L_17)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_18)))->___materialReferenceIndex;
 		V_3 = L_19;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:104>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_20 = __this->___m_TextMeshPro;
 		NullCheck(L_20);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_21;
@@ -13578,6 +14403,7 @@ IL_0071:
 		NullCheck(L_22);
 		int32_t L_24 = ((L_22)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_23)))->___vertexIndex;
 		V_4 = L_24;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:107>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_25 = __this->___m_TextMeshPro;
 		NullCheck(L_25);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_26;
@@ -13588,6 +14414,7 @@ IL_0071:
 		NullCheck(L_27);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_29 = ((L_27)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_28)))->___vertices;
 		V_5 = L_29;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:110>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_30 = V_5;
 		int32_t L_31 = V_4;
 		NullCheck(L_30);
@@ -13604,9 +14431,11 @@ IL_0071:
 		L_39 = Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline(L_38, (2.0f), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_40;
 		L_40 = Vector2_op_Implicit_mE8EBEE9291F11BB02F062D6E000F4798968CBD96_inline(L_39, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:114>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_41;
 		L_41 = Vector2_op_Implicit_m6D9CABB2C791A192867D7A4559D132BE86DD3EB7_inline(L_40, NULL);
 		V_6 = L_41;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:117>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_42 = V_5;
 		int32_t L_43 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_44 = V_5;
@@ -13619,6 +14448,7 @@ IL_0071:
 		L_49 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_47, L_48, NULL);
 		NullCheck(L_42);
 		(L_42)->SetAt(static_cast<il2cpp_array_size_t>(L_43), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_49);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:118>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_50 = V_5;
 		int32_t L_51 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_52 = V_5;
@@ -13631,6 +14461,7 @@ IL_0071:
 		L_57 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_55, L_56, NULL);
 		NullCheck(L_50);
 		(L_50)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_51, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_57);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:119>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_58 = V_5;
 		int32_t L_59 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_60 = V_5;
@@ -13643,6 +14474,7 @@ IL_0071:
 		L_65 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_63, L_64, NULL);
 		NullCheck(L_58);
 		(L_58)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_59, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_65);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:120>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_66 = V_5;
 		int32_t L_67 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_68 = V_5;
@@ -13655,7 +14487,9 @@ IL_0071:
 		L_73 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_71, L_72, NULL);
 		NullCheck(L_66);
 		(L_66)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_67, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_73);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:122>
 		V_7 = (1.5f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:125>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_74;
 		L_74 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_75;
@@ -13668,6 +14502,7 @@ IL_0071:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_79;
 		L_79 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3_inline(L_74, L_75, L_78, NULL);
 		__this->___m_matrix = L_79;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:128>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_80 = V_5;
 		int32_t L_81 = V_4;
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6* L_82 = (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6*)(&__this->___m_matrix);
@@ -13680,6 +14515,7 @@ IL_0071:
 		L_87 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline(L_82, L_86, NULL);
 		NullCheck(L_80);
 		(L_80)->SetAt(static_cast<il2cpp_array_size_t>(L_81), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_87);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:129>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_88 = V_5;
 		int32_t L_89 = V_4;
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6* L_90 = (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6*)(&__this->___m_matrix);
@@ -13692,6 +14528,7 @@ IL_0071:
 		L_95 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline(L_90, L_94, NULL);
 		NullCheck(L_88);
 		(L_88)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_89, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_95);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:130>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_96 = V_5;
 		int32_t L_97 = V_4;
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6* L_98 = (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6*)(&__this->___m_matrix);
@@ -13704,6 +14541,7 @@ IL_0071:
 		L_103 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline(L_98, L_102, NULL);
 		NullCheck(L_96);
 		(L_96)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_97, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_103);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:131>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_104 = V_5;
 		int32_t L_105 = V_4;
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6* L_106 = (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6*)(&__this->___m_matrix);
@@ -13716,6 +14554,7 @@ IL_0071:
 		L_111 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline(L_106, L_110, NULL);
 		NullCheck(L_104);
 		(L_104)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_105, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_111);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:134>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_112 = V_5;
 		int32_t L_113 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_114 = V_5;
@@ -13728,6 +14567,7 @@ IL_0071:
 		L_119 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_117, L_118, NULL);
 		NullCheck(L_112);
 		(L_112)->SetAt(static_cast<il2cpp_array_size_t>(L_113), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_119);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:135>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_120 = V_5;
 		int32_t L_121 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_122 = V_5;
@@ -13740,6 +14580,7 @@ IL_0071:
 		L_127 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_125, L_126, NULL);
 		NullCheck(L_120);
 		(L_120)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_121, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_127);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:136>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_128 = V_5;
 		int32_t L_129 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_130 = V_5;
@@ -13752,6 +14593,7 @@ IL_0071:
 		L_135 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_133, L_134, NULL);
 		NullCheck(L_128);
 		(L_128)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_129, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_135);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:137>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_136 = V_5;
 		int32_t L_137 = V_4;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_138 = V_5;
@@ -13764,7 +14606,9 @@ IL_0071:
 		L_143 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_141, L_142, NULL);
 		NullCheck(L_136);
 		(L_136)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_137, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_143);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:140>
 		Color32__ctor_mC9C6B443F0C7CA3F8B174158B2AF6F05E18EAC4E_inline((&V_8), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), (uint8_t)((int32_t)192), (uint8_t)((int32_t)255), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:143>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_144 = __this->___m_TextMeshPro;
 		NullCheck(L_144);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_145;
@@ -13774,25 +14618,30 @@ IL_0071:
 		int32_t L_147 = V_3;
 		NullCheck(L_146);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_148 = ((L_146)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_147)))->___colors32;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:145>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_149 = L_148;
 		int32_t L_150 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_151 = V_8;
 		NullCheck(L_149);
 		(L_149)->SetAt(static_cast<il2cpp_array_size_t>(L_150), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_151);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:146>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_152 = L_149;
 		int32_t L_153 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_154 = V_8;
 		NullCheck(L_152);
 		(L_152)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_153, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_154);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:147>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_155 = L_152;
 		int32_t L_156 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_157 = V_8;
 		NullCheck(L_155);
 		(L_155)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_156, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_157);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:148>
 		int32_t L_158 = V_4;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_159 = V_8;
 		NullCheck(L_155);
 		(L_155)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_158, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_159);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:152>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_160 = __this->___m_TextMeshPro;
 		NullCheck(L_160);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_161;
@@ -13804,13 +14653,16 @@ IL_0071:
 		int32_t L_164 = L_163;
 		TMP_MeshInfo_t320C52212E9D672EBB5F5C18C3E0700AA33DD76B L_165 = (L_162)->GetAt(static_cast<il2cpp_array_size_t>(L_164));
 		V_9 = L_165;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:155>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_166 = V_5;
 		NullCheck(L_166);
 		V_10 = ((int32_t)il2cpp_codegen_subtract(((int32_t)(((RuntimeArray*)L_166)->max_length)), 4));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:159>
 		int32_t L_167 = V_4;
 		int32_t L_168 = V_10;
 		il2cpp_codegen_runtime_class_init_inline(TMP_MeshInfo_t320C52212E9D672EBB5F5C18C3E0700AA33DD76B_il2cpp_TypeInfo_var);
 		TMP_MeshInfo_SwapVertexData_mBB35F36F8E7E6CF1429B26417140570EE94FE718((&V_9), L_167, L_168, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:162>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_169 = __this->___m_TextMeshPro;
 		NullCheck(L_169);
 		VirtualActionInvoker1< int32_t >::Invoke(108, L_169, ((int32_t)255));
@@ -13818,6 +14670,7 @@ IL_0071:
 
 IL_0323:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:169>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_170 = __this->___m_TextMeshPro;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_171;
 		L_171 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -13826,6 +14679,7 @@ IL_0323:
 		int32_t L_173;
 		L_173 = TMP_TextUtilities_FindIntersectingWord_m93E6DBCA2781A67271E7D0F8906CA0488CA08EB2(L_170, L_171, L_172, NULL);
 		V_1 = L_173;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:172>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_174 = __this->___m_TextPopup_RectTransform;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_175;
@@ -13860,6 +14714,7 @@ IL_0323:
 
 IL_0367:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:174>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_180 = __this->___m_TextMeshPro;
 		NullCheck(L_180);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_181;
@@ -13871,16 +14726,19 @@ IL_0367:
 		int32_t L_184 = L_183;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_185 = (L_182)->GetAt(static_cast<il2cpp_array_size_t>(L_184));
 		V_11 = L_185;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:177>
 		V_12 = 0;
 		goto IL_0437;
 	}
 
 IL_038c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:179>
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_186 = V_11;
 		int32_t L_187 = L_186.___firstCharacterIndex;
 		int32_t L_188 = V_12;
 		V_13 = ((int32_t)il2cpp_codegen_add(L_187, L_188));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:182>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_189 = __this->___m_TextMeshPro;
 		NullCheck(L_189);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_190;
@@ -13891,6 +14749,7 @@ IL_038c:
 		NullCheck(L_191);
 		int32_t L_193 = ((L_191)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_192)))->___materialReferenceIndex;
 		V_14 = L_193;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:185>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_194 = __this->___m_TextMeshPro;
 		NullCheck(L_194);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_195;
@@ -13901,6 +14760,7 @@ IL_038c:
 		NullCheck(L_196);
 		int32_t L_198 = ((L_196)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_197)))->___vertexIndex;
 		V_15 = L_198;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:188>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_199 = __this->___m_TextMeshPro;
 		NullCheck(L_199);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_200;
@@ -13910,6 +14770,7 @@ IL_038c:
 		int32_t L_202 = V_14;
 		NullCheck(L_201);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_203 = ((L_201)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_202)))->___colors32;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:190>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_204 = L_203;
 		int32_t L_205 = V_15;
 		NullCheck(L_204);
@@ -13918,31 +14779,37 @@ IL_038c:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_208;
 		L_208 = TMPro_ExtensionMethods_Tint_m6B681898DA88005A3CA7B1450849F44AD6991159(L_207, (1.33333004f), NULL);
 		V_16 = L_208;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:192>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_209 = L_204;
 		int32_t L_210 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_211 = V_16;
 		NullCheck(L_209);
 		(L_209)->SetAt(static_cast<il2cpp_array_size_t>(L_210), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_211);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:193>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_212 = L_209;
 		int32_t L_213 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_214 = V_16;
 		NullCheck(L_212);
 		(L_212)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_213, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_214);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:194>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_215 = L_212;
 		int32_t L_216 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_217 = V_16;
 		NullCheck(L_215);
 		(L_215)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_216, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_217);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:195>
 		int32_t L_218 = V_15;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_219 = V_16;
 		NullCheck(L_215);
 		(L_215)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_218, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_219);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:177>
 		int32_t L_220 = V_12;
 		V_12 = ((int32_t)il2cpp_codegen_add(L_220, 1));
 	}
 
 IL_0437:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:177>
 		int32_t L_221 = V_12;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_222 = V_11;
 		int32_t L_223 = L_222.___characterCount;
@@ -13952,14 +14819,17 @@ IL_0437:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:199>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_224 = __this->___m_TextMeshPro;
 		NullCheck(L_224);
 		VirtualActionInvoker1< int32_t >::Invoke(108, L_224, ((int32_t)255));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:201>
 		__this->___m_selectedWord = (-1);
 	}
 
 IL_045c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:206>
 		int32_t L_225 = V_1;
 		if ((((int32_t)L_225) == ((int32_t)(-1))))
 		{
@@ -13991,8 +14861,10 @@ IL_045c:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:208>
 		int32_t L_230 = V_1;
 		__this->___m_selectedWord = L_230;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:210>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_231 = __this->___m_TextMeshPro;
 		NullCheck(L_231);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_232;
@@ -14004,16 +14876,19 @@ IL_045c:
 		int32_t L_235 = L_234;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_236 = (L_233)->GetAt(static_cast<il2cpp_array_size_t>(L_235));
 		V_17 = L_236;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:213>
 		V_18 = 0;
 		goto IL_055f;
 	}
 
 IL_04b4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:215>
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_237 = V_17;
 		int32_t L_238 = L_237.___firstCharacterIndex;
 		int32_t L_239 = V_18;
 		V_19 = ((int32_t)il2cpp_codegen_add(L_238, L_239));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:218>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_240 = __this->___m_TextMeshPro;
 		NullCheck(L_240);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_241;
@@ -14024,6 +14899,7 @@ IL_04b4:
 		NullCheck(L_242);
 		int32_t L_244 = ((L_242)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_243)))->___materialReferenceIndex;
 		V_20 = L_244;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:220>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_245 = __this->___m_TextMeshPro;
 		NullCheck(L_245);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_246;
@@ -14034,6 +14910,7 @@ IL_04b4:
 		NullCheck(L_247);
 		int32_t L_249 = ((L_247)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_248)))->___vertexIndex;
 		V_21 = L_249;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:223>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_250 = __this->___m_TextMeshPro;
 		NullCheck(L_250);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_251;
@@ -14043,6 +14920,7 @@ IL_04b4:
 		int32_t L_253 = V_20;
 		NullCheck(L_252);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_254 = ((L_252)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_253)))->___colors32;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:225>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_255 = L_254;
 		int32_t L_256 = V_21;
 		NullCheck(L_255);
@@ -14051,31 +14929,37 @@ IL_04b4:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_259;
 		L_259 = TMPro_ExtensionMethods_Tint_m6B681898DA88005A3CA7B1450849F44AD6991159(L_258, (0.75f), NULL);
 		V_22 = L_259;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:227>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_260 = L_255;
 		int32_t L_261 = V_21;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_262 = V_22;
 		NullCheck(L_260);
 		(L_260)->SetAt(static_cast<il2cpp_array_size_t>(L_261), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_262);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:228>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_263 = L_260;
 		int32_t L_264 = V_21;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_265 = V_22;
 		NullCheck(L_263);
 		(L_263)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_264, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_265);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:229>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_266 = L_263;
 		int32_t L_267 = V_21;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_268 = V_22;
 		NullCheck(L_266);
 		(L_266)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_267, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_268);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:230>
 		int32_t L_269 = V_21;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_270 = V_22;
 		NullCheck(L_266);
 		(L_266)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_269, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_270);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:213>
 		int32_t L_271 = V_18;
 		V_18 = ((int32_t)il2cpp_codegen_add(L_271, 1));
 	}
 
 IL_055f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:213>
 		int32_t L_272 = V_18;
 		TMP_WordInfo_t825112AF0B76E4461F9C7DD336A02CC6A090A983 L_273 = V_17;
 		int32_t L_274 = L_273.___characterCount;
@@ -14085,6 +14969,7 @@ IL_055f:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:234>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_275 = __this->___m_TextMeshPro;
 		NullCheck(L_275);
 		VirtualActionInvoker1< int32_t >::Invoke(108, L_275, ((int32_t)255));
@@ -14092,6 +14977,7 @@ IL_055f:
 
 IL_057d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:242>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_276 = __this->___m_TextMeshPro;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_277;
 		L_277 = Input_get_mousePosition_mFF21FBD2647DAE2A23BD4C45571CA95D05A0A42C(NULL);
@@ -14100,6 +14986,7 @@ IL_057d:
 		int32_t L_279;
 		L_279 = TMP_TextUtilities_FindIntersectingLink_mC752442B8650D5146505B5C18C7D92B681D276E9(L_276, L_277, L_278, NULL);
 		V_2 = L_279;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:245>
 		int32_t L_280 = V_2;
 		if ((!(((uint32_t)L_280) == ((uint32_t)(-1)))))
 		{
@@ -14126,17 +15013,20 @@ IL_05a1:
 
 IL_05aa:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:247>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_284 = __this->___m_TextPopup_RectTransform;
 		NullCheck(L_284);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_285;
 		L_285 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_284, NULL);
 		NullCheck(L_285);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_285, (bool)0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:248>
 		__this->___m_selectedLink = (-1);
 	}
 
 IL_05c2:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:252>
 		int32_t L_286 = V_2;
 		if ((((int32_t)L_286) == ((int32_t)(-1))))
 		{
@@ -14152,8 +15042,10 @@ IL_05c2:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:254>
 		int32_t L_289 = V_2;
 		__this->___m_selectedLink = L_289;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:256>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_290 = __this->___m_TextMeshPro;
 		NullCheck(L_290);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_291;
@@ -14165,6 +15057,7 @@ IL_05c2:
 		int32_t L_294 = L_293;
 		TMP_LinkInfo_t9DC08E8BF8C5E8094AFF8C9FB3C251AF88B92DA6 L_295 = (L_292)->GetAt(static_cast<il2cpp_array_size_t>(L_294));
 		V_23 = L_295;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:261>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_296 = __this->___m_TextMeshPro;
 		NullCheck(L_296);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_297;
@@ -14177,6 +15070,7 @@ IL_05c2:
 		il2cpp_codegen_runtime_class_init_inline(RectTransformUtility_t65C00A84A72F17D78B81F2E7D88C2AA98AB61244_il2cpp_TypeInfo_var);
 		bool L_301;
 		L_301 = RectTransformUtility_ScreenPointToWorldPointInRectangle_mA09F3D77E4731EF789E23E19D5CBA5EE5D1CF745(L_297, L_299, L_300, (&V_24), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:263>
 		String_t* L_302;
 		L_302 = TMP_LinkInfo_GetLinkID_mCC9D9E783D606660A4D15E0E746E1E27AD9C2425((&V_23), NULL);
 		V_25 = L_302;
@@ -14203,42 +15097,51 @@ IL_05c2:
 
 IL_063d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:266>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_307 = __this->___m_TextPopup_RectTransform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_308 = V_24;
 		NullCheck(L_307);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_307, L_308, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:267>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_309 = __this->___m_TextPopup_RectTransform;
 		NullCheck(L_309);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_310;
 		L_310 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_309, NULL);
 		NullCheck(L_310);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_310, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:268>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_311 = __this->___m_TextPopup_TMPComponent;
 		NullCheck(L_311);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_311, _stringLiteralEE3657997C5E6EC82CDE374326A95906F03A3315);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:269>
 		return;
 	}
 
 IL_066c:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:271>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_312 = __this->___m_TextPopup_RectTransform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_313 = V_24;
 		NullCheck(L_312);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_312, L_313, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:272>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_314 = __this->___m_TextPopup_RectTransform;
 		NullCheck(L_314);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_315;
 		L_315 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_314, NULL);
 		NullCheck(L_315);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_315, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:273>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_316 = __this->___m_TextPopup_TMPComponent;
 		NullCheck(L_316);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_316, _stringLiteral69CE07E5C7ADCC833DA3E659BC9009F6C3C1346A);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:274>
 		return;
 	}
 
 IL_069b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:283>
 		int32_t L_317 = __this->___m_lastIndex;
 		if ((((int32_t)L_317) == ((int32_t)(-1))))
 		{
@@ -14246,13 +15149,16 @@ IL_069b:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:285>
 		int32_t L_318 = __this->___m_lastIndex;
 		TMP_TextSelector_B_RestoreCachedVertexAttributes_m1FD258EC7A53C8E1ECB18EB6FFEFC6239780C398(__this, L_318, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:286>
 		__this->___m_lastIndex = (-1);
 	}
 
 IL_06b7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:290>
 		return;
 	}
 }
@@ -14260,7 +15166,9 @@ IL_06b7:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerEnter_mBAF5711E20E579D21258BD4040454A64E1134D98 (TMP_TextSelector_B_t57166268B8E5437286F55085EA19969D0A528CC2* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:296>
 		__this->___isHoveringObject = (bool)1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:297>
 		return;
 	}
 }
@@ -14268,7 +15176,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerEnter_mBAF57
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerExit_m40ED8F7E47FF6FD8B38BE96B2216267F61509D65 (TMP_TextSelector_B_t57166268B8E5437286F55085EA19969D0A528CC2* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:303>
 		__this->___isHoveringObject = (bool)0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:304>
 		return;
 	}
 }
@@ -14276,6 +15186,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerExit_m40ED8F
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerClick_m773B56D918B1D0F73C5ABC0EB22FD34D39AFBB97 (TMP_TextSelector_B_t57166268B8E5437286F55085EA19969D0A528CC2* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:447>
 		return;
 	}
 }
@@ -14283,6 +15194,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerClick_m773B5
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_OnPointerUp_mF409D728900872CC323B18DDA7F91265058BE772 (TMP_TextSelector_B_t57166268B8E5437286F55085EA19969D0A528CC2* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:453>
 		return;
 	}
 }
@@ -14297,6 +15209,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_RestoreCachedVertexAt
 	Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* V_5 = NULL;
 	int32_t V_6 = 0;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:458>
 		int32_t L_0 = ___0_index;
 		if ((((int32_t)L_0) == ((int32_t)(-1))))
 		{
@@ -14319,11 +15232,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B_RestoreCachedVertexAt
 
 IL_0019:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:458>
 		return;
 	}
 
 IL_001a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:461>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_5 = __this->___m_TextMeshPro;
 		NullCheck(L_5);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_6;
@@ -14334,6 +15249,7 @@ IL_001a:
 		NullCheck(L_7);
 		int32_t L_9 = ((L_7)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_8)))->___materialReferenceIndex;
 		V_0 = L_9;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:464>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_10 = __this->___m_TextMeshPro;
 		NullCheck(L_10);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_11;
@@ -14344,11 +15260,13 @@ IL_001a:
 		NullCheck(L_12);
 		int32_t L_14 = ((L_12)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_13)))->___vertexIndex;
 		V_1 = L_14;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:468>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_15 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_16 = V_0;
 		NullCheck(L_15);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_17 = ((L_15)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_16)))->___vertices;
 		V_2 = L_17;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:471>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_18 = __this->___m_TextMeshPro;
 		NullCheck(L_18);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_19;
@@ -14358,6 +15276,7 @@ IL_001a:
 		int32_t L_21 = V_0;
 		NullCheck(L_20);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_22 = ((L_20)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_21)))->___vertices;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:474>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_23 = L_22;
 		int32_t L_24 = V_1;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_25 = V_2;
@@ -14367,6 +15286,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_28 = (L_25)->GetAt(static_cast<il2cpp_array_size_t>(L_27));
 		NullCheck(L_23);
 		(L_23)->SetAt(static_cast<il2cpp_array_size_t>(L_24), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_28);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:475>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_29 = L_23;
 		int32_t L_30 = V_1;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_31 = V_2;
@@ -14376,6 +15296,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_34 = (L_31)->GetAt(static_cast<il2cpp_array_size_t>(L_33));
 		NullCheck(L_29);
 		(L_29)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_30, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_34);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:476>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_35 = L_29;
 		int32_t L_36 = V_1;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_37 = V_2;
@@ -14385,6 +15306,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_40 = (L_37)->GetAt(static_cast<il2cpp_array_size_t>(L_39));
 		NullCheck(L_35);
 		(L_35)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_36, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_40);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:477>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_41 = L_35;
 		int32_t L_42 = V_1;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_43 = V_2;
@@ -14394,6 +15316,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_46 = (L_43)->GetAt(static_cast<il2cpp_array_size_t>(L_45));
 		NullCheck(L_41);
 		(L_41)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_42, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_46);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:481>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_47 = __this->___m_TextMeshPro;
 		NullCheck(L_47);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_48;
@@ -14403,11 +15326,13 @@ IL_001a:
 		int32_t L_50 = V_0;
 		NullCheck(L_49);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_51 = ((L_49)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_50)))->___colors32;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:484>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_52 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_53 = V_0;
 		NullCheck(L_52);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_54 = ((L_52)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_53)))->___colors32;
 		V_3 = L_54;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:487>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_55 = L_51;
 		int32_t L_56 = V_1;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_57 = V_3;
@@ -14417,6 +15342,7 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_60 = (L_57)->GetAt(static_cast<il2cpp_array_size_t>(L_59));
 		NullCheck(L_55);
 		(L_55)->SetAt(static_cast<il2cpp_array_size_t>(L_56), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_60);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:488>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_61 = L_55;
 		int32_t L_62 = V_1;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_63 = V_3;
@@ -14426,6 +15352,7 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_66 = (L_63)->GetAt(static_cast<il2cpp_array_size_t>(L_65));
 		NullCheck(L_61);
 		(L_61)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_62, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_66);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:489>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_67 = L_61;
 		int32_t L_68 = V_1;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_69 = V_3;
@@ -14435,6 +15362,7 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_72 = (L_69)->GetAt(static_cast<il2cpp_array_size_t>(L_71));
 		NullCheck(L_67);
 		(L_67)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_68, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_72);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:490>
 		int32_t L_73 = V_1;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_74 = V_3;
 		int32_t L_75 = V_1;
@@ -14443,11 +15371,13 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_77 = (L_74)->GetAt(static_cast<il2cpp_array_size_t>(L_76));
 		NullCheck(L_67);
 		(L_67)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_73, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_77);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:494>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_78 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_79 = V_0;
 		NullCheck(L_78);
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_80 = ((L_78)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_79)))->___uvs0;
 		V_4 = L_80;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:495>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_81 = __this->___m_TextMeshPro;
 		NullCheck(L_81);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_82;
@@ -14457,6 +15387,7 @@ IL_001a:
 		int32_t L_84 = V_0;
 		NullCheck(L_83);
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_85 = ((L_83)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_84)))->___uvs0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:496>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_86 = L_85;
 		int32_t L_87 = V_1;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_88 = V_4;
@@ -14466,6 +15397,7 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_91 = (L_88)->GetAt(static_cast<il2cpp_array_size_t>(L_90));
 		NullCheck(L_86);
 		(L_86)->SetAt(static_cast<il2cpp_array_size_t>(L_87), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_91);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:497>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_92 = L_86;
 		int32_t L_93 = V_1;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_94 = V_4;
@@ -14475,6 +15407,7 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_97 = (L_94)->GetAt(static_cast<il2cpp_array_size_t>(L_96));
 		NullCheck(L_92);
 		(L_92)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_93, 1))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_97);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:498>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_98 = L_92;
 		int32_t L_99 = V_1;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_100 = V_4;
@@ -14484,6 +15417,7 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_103 = (L_100)->GetAt(static_cast<il2cpp_array_size_t>(L_102));
 		NullCheck(L_98);
 		(L_98)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_99, 2))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_103);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:499>
 		int32_t L_104 = V_1;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_105 = V_4;
 		int32_t L_106 = V_1;
@@ -14492,11 +15426,13 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_108 = (L_105)->GetAt(static_cast<il2cpp_array_size_t>(L_107));
 		NullCheck(L_98);
 		(L_98)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_104, 3))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_108);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:502>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_109 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_110 = V_0;
 		NullCheck(L_109);
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_111 = ((L_109)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_110)))->___uvs2;
 		V_5 = L_111;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:503>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_112 = __this->___m_TextMeshPro;
 		NullCheck(L_112);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_113;
@@ -14506,6 +15442,7 @@ IL_001a:
 		int32_t L_115 = V_0;
 		NullCheck(L_114);
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_116 = ((L_114)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_115)))->___uvs2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:504>
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_117 = L_116;
 		int32_t L_118 = V_1;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_119 = V_5;
@@ -14515,6 +15452,7 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_122 = (L_119)->GetAt(static_cast<il2cpp_array_size_t>(L_121));
 		NullCheck(L_117);
 		(L_117)->SetAt(static_cast<il2cpp_array_size_t>(L_118), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_122);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:505>
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_123 = L_117;
 		int32_t L_124 = V_1;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_125 = V_5;
@@ -14524,6 +15462,7 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_128 = (L_125)->GetAt(static_cast<il2cpp_array_size_t>(L_127));
 		NullCheck(L_123);
 		(L_123)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_124, 1))), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_128);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:506>
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_129 = L_123;
 		int32_t L_130 = V_1;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_131 = V_5;
@@ -14533,6 +15472,7 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_134 = (L_131)->GetAt(static_cast<il2cpp_array_size_t>(L_133));
 		NullCheck(L_129);
 		(L_129)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_130, 2))), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_134);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:507>
 		int32_t L_135 = V_1;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_136 = V_5;
 		int32_t L_137 = V_1;
@@ -14541,9 +15481,11 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_139 = (L_136)->GetAt(static_cast<il2cpp_array_size_t>(L_138));
 		NullCheck(L_129);
 		(L_129)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_135, 3))), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_139);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:511>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_140 = V_2;
 		NullCheck(L_140);
 		V_6 = ((int32_t)il2cpp_codegen_multiply(((int32_t)il2cpp_codegen_subtract(((int32_t)(((int32_t)(((RuntimeArray*)L_140)->max_length))/4)), 1)), 4));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:514>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_141 = L_41;
 		int32_t L_142 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_143 = V_2;
@@ -14553,6 +15495,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_146 = (L_143)->GetAt(static_cast<il2cpp_array_size_t>(L_145));
 		NullCheck(L_141);
 		(L_141)->SetAt(static_cast<il2cpp_array_size_t>(L_142), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_146);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:515>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_147 = L_141;
 		int32_t L_148 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_149 = V_2;
@@ -14562,6 +15505,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_152 = (L_149)->GetAt(static_cast<il2cpp_array_size_t>(L_151));
 		NullCheck(L_147);
 		(L_147)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_148, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_152);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:516>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_153 = L_147;
 		int32_t L_154 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_155 = V_2;
@@ -14571,6 +15515,7 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_158 = (L_155)->GetAt(static_cast<il2cpp_array_size_t>(L_157));
 		NullCheck(L_153);
 		(L_153)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_154, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_158);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:517>
 		int32_t L_159 = V_6;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_160 = V_2;
 		int32_t L_161 = V_6;
@@ -14579,11 +15524,13 @@ IL_001a:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_163 = (L_160)->GetAt(static_cast<il2cpp_array_size_t>(L_162));
 		NullCheck(L_153);
 		(L_153)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_159, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_163);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:520>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_164 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_165 = V_0;
 		NullCheck(L_164);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_166 = ((L_164)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_165)))->___colors32;
 		V_3 = L_166;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:521>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_167 = __this->___m_TextMeshPro;
 		NullCheck(L_167);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_168;
@@ -14593,6 +15540,7 @@ IL_001a:
 		int32_t L_170 = V_0;
 		NullCheck(L_169);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_171 = ((L_169)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_170)))->___colors32;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:522>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_172 = L_171;
 		int32_t L_173 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_174 = V_3;
@@ -14602,6 +15550,7 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_177 = (L_174)->GetAt(static_cast<il2cpp_array_size_t>(L_176));
 		NullCheck(L_172);
 		(L_172)->SetAt(static_cast<il2cpp_array_size_t>(L_173), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_177);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:523>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_178 = L_172;
 		int32_t L_179 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_180 = V_3;
@@ -14611,6 +15560,7 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_183 = (L_180)->GetAt(static_cast<il2cpp_array_size_t>(L_182));
 		NullCheck(L_178);
 		(L_178)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_179, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_183);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:524>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_184 = L_178;
 		int32_t L_185 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_186 = V_3;
@@ -14620,6 +15570,7 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_189 = (L_186)->GetAt(static_cast<il2cpp_array_size_t>(L_188));
 		NullCheck(L_184);
 		(L_184)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_185, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_189);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:525>
 		int32_t L_190 = V_6;
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_191 = V_3;
 		int32_t L_192 = V_6;
@@ -14628,11 +15579,13 @@ IL_001a:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_194 = (L_191)->GetAt(static_cast<il2cpp_array_size_t>(L_193));
 		NullCheck(L_184);
 		(L_184)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_190, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_194);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:528>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_195 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_196 = V_0;
 		NullCheck(L_195);
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_197 = ((L_195)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_196)))->___uvs0;
 		V_4 = L_197;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:529>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_198 = __this->___m_TextMeshPro;
 		NullCheck(L_198);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_199;
@@ -14642,6 +15595,7 @@ IL_001a:
 		int32_t L_201 = V_0;
 		NullCheck(L_200);
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_202 = ((L_200)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_201)))->___uvs0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:530>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_203 = L_202;
 		int32_t L_204 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_205 = V_4;
@@ -14651,6 +15605,7 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_208 = (L_205)->GetAt(static_cast<il2cpp_array_size_t>(L_207));
 		NullCheck(L_203);
 		(L_203)->SetAt(static_cast<il2cpp_array_size_t>(L_204), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_208);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:531>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_209 = L_203;
 		int32_t L_210 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_211 = V_4;
@@ -14660,6 +15615,7 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_214 = (L_211)->GetAt(static_cast<il2cpp_array_size_t>(L_213));
 		NullCheck(L_209);
 		(L_209)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_210, 1))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_214);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:532>
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_215 = L_209;
 		int32_t L_216 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_217 = V_4;
@@ -14669,6 +15625,7 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_220 = (L_217)->GetAt(static_cast<il2cpp_array_size_t>(L_219));
 		NullCheck(L_215);
 		(L_215)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_216, 2))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_220);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:533>
 		int32_t L_221 = V_6;
 		Vector4U5BU5D_tC0F3A7115F85007510F6D173968200CD31BCF7AD* L_222 = V_4;
 		int32_t L_223 = V_6;
@@ -14677,11 +15634,13 @@ IL_001a:
 		Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 L_225 = (L_222)->GetAt(static_cast<il2cpp_array_size_t>(L_224));
 		NullCheck(L_215);
 		(L_215)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_221, 3))), (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3)L_225);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:536>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_226 = __this->___m_cachedMeshInfoVertexData;
 		int32_t L_227 = V_0;
 		NullCheck(L_226);
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_228 = ((L_226)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_227)))->___uvs2;
 		V_5 = L_228;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:537>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_229 = __this->___m_TextMeshPro;
 		NullCheck(L_229);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_230;
@@ -14691,6 +15650,7 @@ IL_001a:
 		int32_t L_232 = V_0;
 		NullCheck(L_231);
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_233 = ((L_231)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_232)))->___uvs2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:538>
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_234 = L_233;
 		int32_t L_235 = V_6;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_236 = V_5;
@@ -14700,6 +15660,7 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_239 = (L_236)->GetAt(static_cast<il2cpp_array_size_t>(L_238));
 		NullCheck(L_234);
 		(L_234)->SetAt(static_cast<il2cpp_array_size_t>(L_235), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_239);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:539>
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_240 = L_234;
 		int32_t L_241 = V_6;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_242 = V_5;
@@ -14709,6 +15670,7 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_245 = (L_242)->GetAt(static_cast<il2cpp_array_size_t>(L_244));
 		NullCheck(L_240);
 		(L_240)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_241, 1))), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_245);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:540>
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_246 = L_240;
 		int32_t L_247 = V_6;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_248 = V_5;
@@ -14718,6 +15680,7 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_251 = (L_248)->GetAt(static_cast<il2cpp_array_size_t>(L_250));
 		NullCheck(L_246);
 		(L_246)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_247, 2))), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_251);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:541>
 		int32_t L_252 = V_6;
 		Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA* L_253 = V_5;
 		int32_t L_254 = V_6;
@@ -14726,9 +15689,11 @@ IL_001a:
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_256 = (L_253)->GetAt(static_cast<il2cpp_array_size_t>(L_255));
 		NullCheck(L_246);
 		(L_246)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_252, 3))), (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7)L_256);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:544>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_257 = __this->___m_TextMeshPro;
 		NullCheck(L_257);
 		VirtualActionInvoker1< int32_t >::Invoke(108, L_257, ((int32_t)255));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:545>
 		return;
 	}
 }
@@ -14736,8 +15701,11 @@ IL_001a:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_TextSelector_B__ctor_mB45DD6360094ADBEF5E8020E8C62404B7E45E301 (TMP_TextSelector_B_t57166268B8E5437286F55085EA19969D0A528CC2* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:29>
 		__this->___m_selectedWord = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:30>
 		__this->___m_selectedLink = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs:31>
 		__this->___m_lastIndex = (-1);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -14770,6 +15738,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter_Awake_m3E0ECAD08F
 	}
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_0 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:28>
 		bool L_0;
 		L_0 = Behaviour_get_enabled_mAAC9F15E9EBF552217A5AE2681589CC0BFA300C1(__this, NULL);
 		if (L_0)
@@ -14778,56 +15747,70 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter_Awake_m3E0ECAD08F
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:29>
 		return;
 	}
 
 IL_0009:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:31>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		Application_set_targetFrameRate_mB90EEA60DAE55CD71C38D4B7DFDBE2B34EA6B46F(((int32_t)1000), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:33>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_1, _stringLiteralA6107EE62A5874EF8D2DEAC7D3C0A9F07B89E096, NULL);
 		V_0 = L_1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:34>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = V_0;
 		NullCheck(L_2);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_3;
 		L_3 = GameObject_AddComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m771EB78FF8813B5AFF21AC0D252E5461943E6388(L_2, GameObject_AddComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m771EB78FF8813B5AFF21AC0D252E5461943E6388_RuntimeMethod_var);
 		__this->___m_frameCounter_transform = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_frameCounter_transform), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:36>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_4 = __this->___m_frameCounter_transform;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5;
 		L_5 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		NullCheck(L_4);
 		Transform_SetParent_m9BDD7B7476714B2D7919B10BDC22CE75C0A0A195(L_4, L_5, (bool)0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:38>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6 = V_0;
 		NullCheck(L_6);
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_7;
 		L_7 = GameObject_AddComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m15E50057DA76710B136ADF4E7CA55A463D9DA3EB(L_6, GameObject_AddComponent_TisTextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957_m15E50057DA76710B136ADF4E7CA55A463D9DA3EB_RuntimeMethod_var);
 		__this->___m_TextMeshPro = L_7;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextMeshPro), (void*)L_7);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:39>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_8 = __this->___m_TextMeshPro;
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_9;
 		L_9 = Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3(_stringLiteralAB3448E21FA53C63C06270903A13B17D02935BE0, Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3_RuntimeMethod_var);
 		NullCheck(L_8);
 		TMP_Text_set_font_mC55E4A8C1C09595031384B35F2C2FB2FC3479E83(L_8, L_9, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:40>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_10 = __this->___m_TextMeshPro;
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_11;
 		L_11 = Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E(_stringLiteral9ECD13393A1BC799BB4763A4E4CD5B53E220C53A, Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E_RuntimeMethod_var);
 		NullCheck(L_10);
 		VirtualActionInvoker1< Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* >::Invoke(68, L_10, L_11);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:42>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_12 = __this->___m_TextMeshPro;
 		NullCheck(L_12);
 		TMP_Text_set_textWrappingMode_mBD3A313CC85C9BB85F924D589A33A500E21DCA3D(L_12, 0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:43>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_13 = __this->___m_TextMeshPro;
 		NullCheck(L_13);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_13, (36.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:45>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_14 = __this->___m_TextMeshPro;
 		NullCheck(L_14);
 		TMP_Text_set_isOverlay_m0DA2AC113AE402CA25097641AD38D0822C6D5561(L_14, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:47>
 		int32_t L_15 = __this->___AnchorPosition;
 		TMP_UiFrameRateCounter_Set_FrameCounter_Position_mAF25D6E90A6CB17EE041885B32579A2AEDBFCC36(__this, L_15, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:48>
 		int32_t L_16 = __this->___AnchorPosition;
 		__this->___last_AnchorPosition = L_16;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:49>
 		return;
 	}
 }
@@ -14835,10 +15818,13 @@ IL_0009:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter_Start_m11EF02C330E5D834C41F009CF088A3150352567F (TMP_UiFrameRateCounter_t3CB67462256A3570DFD0BD10261E7CABB11AFC0E* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:54>
 		float L_0;
 		L_0 = Time_get_realtimeSinceStartup_m73B3CB73175D79A44333D59BB70F9EDE55EC9510(NULL);
 		__this->___m_LastInterval = L_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:55>
 		__this->___m_Frames = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:56>
 		return;
 	}
 }
@@ -14858,6 +15844,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter_Update_m568E46703
 	float V_1 = 0.0f;
 	float V_2 = 0.0f;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:61>
 		int32_t L_0 = __this->___AnchorPosition;
 		int32_t L_1 = __this->___last_AnchorPosition;
 		if ((((int32_t)L_0) == ((int32_t)L_1)))
@@ -14866,19 +15853,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter_Update_m568E46703
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:62>
 		int32_t L_2 = __this->___AnchorPosition;
 		TMP_UiFrameRateCounter_Set_FrameCounter_Position_mAF25D6E90A6CB17EE041885B32579A2AEDBFCC36(__this, L_2, NULL);
 	}
 
 IL_001a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:64>
 		int32_t L_3 = __this->___AnchorPosition;
 		__this->___last_AnchorPosition = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:66>
 		int32_t L_4 = __this->___m_Frames;
 		__this->___m_Frames = ((int32_t)il2cpp_codegen_add(L_4, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:67>
 		float L_5;
 		L_5 = Time_get_realtimeSinceStartup_m73B3CB73175D79A44333D59BB70F9EDE55EC9510(NULL);
 		V_0 = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:69>
 		float L_6 = V_0;
 		float L_7 = __this->___m_LastInterval;
 		float L_8 = __this->___UpdateInterval;
@@ -14888,14 +15880,17 @@ IL_001a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:72>
 		int32_t L_9 = __this->___m_Frames;
 		float L_10 = V_0;
 		float L_11 = __this->___m_LastInterval;
 		V_1 = ((float)(((float)L_9)/((float)il2cpp_codegen_subtract(L_10, L_11))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:73>
 		float L_12 = V_1;
 		float L_13;
 		L_13 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(L_12, (9.99999975E-06f), NULL);
 		V_2 = ((float)((1000.0f)/L_13));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:75>
 		float L_14 = V_1;
 		if ((!(((float)L_14) < ((float)(30.0f)))))
 		{
@@ -14903,6 +15898,7 @@ IL_001a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:76>
 		__this->___htmlColorTag = _stringLiteralA87D266F5AAE1AF5998468D25833A8C6AD50D4FD;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___htmlColorTag), (void*)_stringLiteralA87D266F5AAE1AF5998468D25833A8C6AD50D4FD);
 		goto IL_00a5;
@@ -14910,6 +15906,7 @@ IL_001a:
 
 IL_0085:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:77>
 		float L_15 = V_1;
 		if ((!(((float)L_15) < ((float)(10.0f)))))
 		{
@@ -14917,6 +15914,7 @@ IL_0085:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:78>
 		__this->___htmlColorTag = _stringLiteral8ACAA4E0B28437F5FD1A41CE6591A16813F05377;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___htmlColorTag), (void*)_stringLiteral8ACAA4E0B28437F5FD1A41CE6591A16813F05377);
 		goto IL_00a5;
@@ -14924,12 +15922,14 @@ IL_0085:
 
 IL_009a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:80>
 		__this->___htmlColorTag = _stringLiteral7F85A2723BB62FEF95DD6F8C5F0FF606EA62246A;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___htmlColorTag), (void*)_stringLiteral7F85A2723BB62FEF95DD6F8C5F0FF606EA62246A);
 	}
 
 IL_00a5:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:82>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_16 = __this->___m_TextMeshPro;
 		String_t* L_17 = __this->___htmlColorTag;
 		String_t* L_18;
@@ -14938,13 +15938,16 @@ IL_00a5:
 		float L_20 = V_2;
 		NullCheck(L_16);
 		TMP_Text_SetText_m033947AEEEBDA12707E4B0535B4CCD7EB28B5F31(L_16, L_18, L_19, L_20, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:84>
 		__this->___m_Frames = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:85>
 		float L_21 = V_0;
 		__this->___m_LastInterval = L_21;
 	}
 
 IL_00d0:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:87>
 		return;
 	}
 }
@@ -14979,129 +15982,153 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter_Set_FrameCounter_
 
 IL_0017:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:95>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_1 = __this->___m_TextMeshPro;
 		NullCheck(L_1);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_1, ((int32_t)257), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:96>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_2 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_3;
 		memset((&L_3), 0, sizeof(L_3));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_3), (0.0f), (1.0f), NULL);
 		NullCheck(L_2);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_2, L_3, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:97>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_4 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_5;
 		memset((&L_5), 0, sizeof(L_5));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_5), (0.00999999978f), (0.99000001f), NULL);
 		NullCheck(L_4);
 		RectTransform_set_anchorMin_m931442ABE3368D6D4309F43DF1D64AB64B0F52E3(L_4, L_5, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:98>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_6 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_7;
 		memset((&L_7), 0, sizeof(L_7));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_7), (0.00999999978f), (0.99000001f), NULL);
 		NullCheck(L_6);
 		RectTransform_set_anchorMax_m52829ABEDD229ABD3DA20BCA676FA1DCA4A39B7D(L_6, L_7, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:99>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_8 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_9;
 		memset((&L_9), 0, sizeof(L_9));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_9), (0.0f), (1.0f), NULL);
 		NullCheck(L_8);
 		RectTransform_set_anchoredPosition_mF903ACE04F6959B1CD67E2B94FABC0263068F965(L_8, L_9, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:100>
 		return;
 	}
 
 IL_0090:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:102>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_10 = __this->___m_TextMeshPro;
 		NullCheck(L_10);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_10, ((int32_t)1025), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:103>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_11 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_12;
 		memset((&L_12), 0, sizeof(L_12));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_12), (0.0f), (0.0f), NULL);
 		NullCheck(L_11);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_11, L_12, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:104>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_13 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_14;
 		memset((&L_14), 0, sizeof(L_14));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_14), (0.00999999978f), (0.00999999978f), NULL);
 		NullCheck(L_13);
 		RectTransform_set_anchorMin_m931442ABE3368D6D4309F43DF1D64AB64B0F52E3(L_13, L_14, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:105>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_15 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_16;
 		memset((&L_16), 0, sizeof(L_16));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_16), (0.00999999978f), (0.00999999978f), NULL);
 		NullCheck(L_15);
 		RectTransform_set_anchorMax_m52829ABEDD229ABD3DA20BCA676FA1DCA4A39B7D(L_15, L_16, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:106>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_17 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_18;
 		memset((&L_18), 0, sizeof(L_18));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_18), (0.0f), (0.0f), NULL);
 		NullCheck(L_17);
 		RectTransform_set_anchoredPosition_mF903ACE04F6959B1CD67E2B94FABC0263068F965(L_17, L_18, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:107>
 		return;
 	}
 
 IL_0109:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:109>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_19 = __this->___m_TextMeshPro;
 		NullCheck(L_19);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_19, ((int32_t)260), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:110>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_20 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_21;
 		memset((&L_21), 0, sizeof(L_21));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_21), (1.0f), (1.0f), NULL);
 		NullCheck(L_20);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_20, L_21, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:111>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_22 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_23;
 		memset((&L_23), 0, sizeof(L_23));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_23), (0.99000001f), (0.99000001f), NULL);
 		NullCheck(L_22);
 		RectTransform_set_anchorMin_m931442ABE3368D6D4309F43DF1D64AB64B0F52E3(L_22, L_23, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:112>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_24 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_25;
 		memset((&L_25), 0, sizeof(L_25));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_25), (0.99000001f), (0.99000001f), NULL);
 		NullCheck(L_24);
 		RectTransform_set_anchorMax_m52829ABEDD229ABD3DA20BCA676FA1DCA4A39B7D(L_24, L_25, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:113>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_26 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_27;
 		memset((&L_27), 0, sizeof(L_27));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_27), (1.0f), (1.0f), NULL);
 		NullCheck(L_26);
 		RectTransform_set_anchoredPosition_mF903ACE04F6959B1CD67E2B94FABC0263068F965(L_26, L_27, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:114>
 		return;
 	}
 
 IL_0182:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:116>
 		TextMeshProUGUI_t101091AF4B578BB534C92E9D1EEAF0611636D957* L_28 = __this->___m_TextMeshPro;
 		NullCheck(L_28);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_28, ((int32_t)1028), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:117>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_29 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_30;
 		memset((&L_30), 0, sizeof(L_30));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_30), (1.0f), (0.0f), NULL);
 		NullCheck(L_29);
 		RectTransform_set_pivot_m79D0177D383D432A93C2615F1932B739B1C6E146(L_29, L_30, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:118>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_31 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_32;
 		memset((&L_32), 0, sizeof(L_32));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_32), (0.99000001f), (0.00999999978f), NULL);
 		NullCheck(L_31);
 		RectTransform_set_anchorMin_m931442ABE3368D6D4309F43DF1D64AB64B0F52E3(L_31, L_32, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:119>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_33 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_34;
 		memset((&L_34), 0, sizeof(L_34));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_34), (0.99000001f), (0.00999999978f), NULL);
 		NullCheck(L_33);
 		RectTransform_set_anchorMax_m52829ABEDD229ABD3DA20BCA676FA1DCA4A39B7D(L_33, L_34, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:120>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_35 = __this->___m_frameCounter_transform;
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_36;
 		memset((&L_36), 0, sizeof(L_36));
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_36), (1.0f), (0.0f), NULL);
 		NullCheck(L_35);
 		RectTransform_set_anchoredPosition_mF903ACE04F6959B1CD67E2B94FABC0263068F965(L_35, L_36, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:123>
 		return;
 	}
 }
@@ -15109,7 +16136,9 @@ IL_0182:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMP_UiFrameRateCounter__ctor_mBF5305427799EBC515580C2747FE604A6DFEC848 (TMP_UiFrameRateCounter_t3CB67462256A3570DFD0BD10261E7CABB11AFC0E* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:10>
 		__this->___UpdateInterval = (5.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs:16>
 		__this->___AnchorPosition = 2;
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -15150,6 +16179,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMPro_InstructionOverlay_Awake_m0F92D44F
 	}
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_0 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:26>
 		bool L_0;
 		L_0 = Behaviour_get_enabled_mAAC9F15E9EBF552217A5AE2681589CC0BFA300C1(__this, NULL);
 		if (L_0)
@@ -15158,24 +16188,29 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMPro_InstructionOverlay_Awake_m0F92D44F
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:27>
 		return;
 	}
 
 IL_0009:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:29>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_1;
 		L_1 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		__this->___m_camera = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_camera), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:31>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_2, _stringLiteralA6107EE62A5874EF8D2DEAC7D3C0A9F07B89E096, NULL);
 		V_0 = L_2;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:32>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = V_0;
 		NullCheck(L_3);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4;
 		L_4 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_3, NULL);
 		__this->___m_frameCounter_transform = L_4;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_frameCounter_transform), (void*)L_4);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:33>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_6 = __this->___m_camera;
 		NullCheck(L_6);
@@ -15183,44 +16218,54 @@ IL_0009:
 		L_7 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_6, NULL);
 		NullCheck(L_5);
 		Transform_set_parent_m9BD5E563B539DD5BEC342736B03F97B38A243234(L_5, L_7, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:34>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8 = __this->___m_frameCounter_transform;
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_9;
 		L_9 = Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline(NULL);
 		NullCheck(L_8);
 		Transform_set_localRotation_mAB4A011D134BA58AB780BECC0025CA65F16185FA(L_8, L_9, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:37>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = V_0;
 		NullCheck(L_10);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_11;
 		L_11 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_10, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
 		__this->___m_TextMeshPro = L_11;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextMeshPro), (void*)L_11);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:38>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_12 = __this->___m_TextMeshPro;
 		TMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160* L_13;
 		L_13 = Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3(_stringLiteralAB3448E21FA53C63C06270903A13B17D02935BE0, Resources_Load_TisTMP_FontAsset_t923BF2F78D7C5AC36376E168A1193B7CB4855160_m5F15FBF7AC2FCDC8C169ED260201B75AB8CB50F3_RuntimeMethod_var);
 		NullCheck(L_12);
 		TMP_Text_set_font_mC55E4A8C1C09595031384B35F2C2FB2FC3479E83(L_12, L_13, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:39>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_14 = __this->___m_TextMeshPro;
 		Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* L_15;
 		L_15 = Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E(_stringLiteral9ECD13393A1BC799BB4763A4E4CD5B53E220C53A, Resources_Load_TisMaterial_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3_mC909CC888641BC8E1E29C8AB1C790C637C9B390E_RuntimeMethod_var);
 		NullCheck(L_14);
 		VirtualActionInvoker1< Material_t18053F08F347D0DCA5E1140EC7EC4533DD8A14E3* >::Invoke(68, L_14, L_15);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:41>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_16 = __this->___m_TextMeshPro;
 		NullCheck(L_16);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_16, (30.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:43>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_17 = __this->___m_TextMeshPro;
 		NullCheck(L_17);
 		TMP_Text_set_isOverlay_m0DA2AC113AE402CA25097641AD38D0822C6D5561(L_17, (bool)1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:44>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_18 = V_0;
 		NullCheck(L_18);
 		TextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C* L_19;
 		L_19 = GameObject_GetComponent_TisTextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C_mA04134D48462B7543775CE11D71859B1D2A99872(L_18, GameObject_GetComponent_TisTextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C_mA04134D48462B7543775CE11D71859B1D2A99872_RuntimeMethod_var);
 		__this->___m_textContainer = L_19;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_textContainer), (void*)L_19);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:46>
 		int32_t L_20 = __this->___AnchorPosition;
 		TMPro_InstructionOverlay_Set_FrameCounter_Position_m3CC1B812C740BAE87C6B5CA94DC64E6131F42A7C(__this, L_20, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:49>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_21 = __this->___m_TextMeshPro;
 		NullCheck(L_21);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_21, _stringLiteral269F8BFBE6C7517C00380B92291D0799AAB2F285);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:51>
 		return;
 	}
 }
@@ -15255,9 +16300,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMPro_InstructionOverlay_Set_FrameCounte
 
 IL_0017:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:63>
 		TextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C* L_1 = __this->___m_textContainer;
 		NullCheck(L_1);
 		TextContainer_set_anchorPosition_mA915529616A0B4679FAAA6183FC194597E03EA50(L_1, 0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:64>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_3 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4;
@@ -15268,14 +16315,17 @@ IL_0017:
 		L_5 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_3, L_4, NULL);
 		NullCheck(L_2);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_2, L_5, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:65>
 		return;
 	}
 
 IL_004e:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:68>
 		TextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C* L_6 = __this->___m_textContainer;
 		NullCheck(L_6);
 		TextContainer_set_anchorPosition_mA915529616A0B4679FAAA6183FC194597E03EA50(L_6, 6, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:69>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_8 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
@@ -15286,14 +16336,17 @@ IL_004e:
 		L_10 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_8, L_9, NULL);
 		NullCheck(L_7);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_7, L_10, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:70>
 		return;
 	}
 
 IL_0085:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:73>
 		TextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C* L_11 = __this->___m_textContainer;
 		NullCheck(L_11);
 		TextContainer_set_anchorPosition_mA915529616A0B4679FAAA6183FC194597E03EA50(L_11, 2, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:74>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_12 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_13 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14;
@@ -15304,14 +16357,17 @@ IL_0085:
 		L_15 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_13, L_14, NULL);
 		NullCheck(L_12);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_12, L_15, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:75>
 		return;
 	}
 
 IL_00bc:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:78>
 		TextContainer_t949A6EBEE5C8832723E73D8D3DCF4C8D0B3D7F3C* L_16 = __this->___m_textContainer;
 		NullCheck(L_16);
 		TextContainer_set_anchorPosition_mA915529616A0B4679FAAA6183FC194597E03EA50(L_16, 8, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:79>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_17 = __this->___m_frameCounter_transform;
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_18 = __this->___m_camera;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_19;
@@ -15322,6 +16378,7 @@ IL_00bc:
 		L_20 = Camera_ViewportToWorldPoint_m9D76494E8B695ADF7690BAF7953B89B152D96E71(L_18, L_19, NULL);
 		NullCheck(L_17);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_17, L_20, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:82>
 		return;
 	}
 }
@@ -15329,6 +16386,7 @@ IL_00bc:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TMPro_InstructionOverlay__ctor_m247258528E488171765F77A9A3C6B7E079E64839 (TMPro_InstructionOverlay_t1CFD12C64F70D5D2FBE29466015C02776A406B62* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs:13>
 		__this->___AnchorPosition = 1;
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -15360,20 +16418,25 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TeleType_Awake_m8D56A3C1E06AD96B35B88C3A
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:25>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_textMeshPro = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_textMeshPro), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:26>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = __this->___m_textMeshPro;
 		String_t* L_2 = __this->___label01;
 		NullCheck(L_1);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_1, L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:27>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_3 = __this->___m_textMeshPro;
 		NullCheck(L_3);
 		TMP_Text_set_textWrappingMode_mBD3A313CC85C9BB85F924D589A33A500E21DCA3D(L_3, 1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:28>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = __this->___m_textMeshPro;
 		NullCheck(L_4);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_4, ((int32_t)258), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:44>
 		return;
 	}
 }
@@ -15407,8 +16470,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TeleType__ctor_m824BBE09CC217EB037FFB367
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:15>
 		__this->___label01 = _stringLiteral5225EE496AAB278285733EDA00B46385A27F58CC;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___label01), (void*)_stringLiteral5225EE496AAB278285733EDA00B46385A27F58CC);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:16>
 		__this->___label02 = _stringLiteral0133981053AC767ED98F641B459173B5499F4EB0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___label02), (void*)_stringLiteral0133981053AC767ED98F641B459173B5499F4EB0);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
@@ -15489,11 +16554,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CStartU3Ed__4_MoveNext_mE1C3343B7258BA
 IL_002a:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:51>
 		TeleType_tA6F2E696EFE0B4124756D8810A7AAFB7829EE2F5* L_3 = V_1;
 		NullCheck(L_3);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = L_3->___m_textMeshPro;
 		NullCheck(L_4);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_4, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:54>
 		TeleType_tA6F2E696EFE0B4124756D8810A7AAFB7829EE2F5* L_5 = V_1;
 		NullCheck(L_5);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_6 = L_5->___m_textMeshPro;
@@ -15503,21 +16570,26 @@ IL_002a:
 		NullCheck(L_7);
 		int32_t L_8 = L_7->___characterCount;
 		__this->___U3CtotalVisibleCharactersU3E5__2 = L_8;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:55>
 		__this->___U3CcounterU3E5__3 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:56>
 		V_2 = 0;
 	}
 
 IL_005d:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:60>
 		int32_t L_9 = __this->___U3CcounterU3E5__3;
 		int32_t L_10 = __this->___U3CtotalVisibleCharactersU3E5__2;
 		V_2 = ((int32_t)(L_9%((int32_t)il2cpp_codegen_add(L_10, 1))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:62>
 		TeleType_tA6F2E696EFE0B4124756D8810A7AAFB7829EE2F5* L_11 = V_1;
 		NullCheck(L_11);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_12 = L_11->___m_textMeshPro;
 		int32_t L_13 = V_2;
 		NullCheck(L_12);
 		TMP_Text_set_maxVisibleCharacters_mEDD8DCB11D204F3FC10BFAC49BF6E8E09548358A(L_12, L_13, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:65>
 		int32_t L_14 = V_2;
 		int32_t L_15 = __this->___U3CtotalVisibleCharactersU3E5__2;
 		if ((((int32_t)L_14) < ((int32_t)L_15)))
@@ -15526,6 +16598,7 @@ IL_005d:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:67>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_16 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_16, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_16;
@@ -15537,6 +16610,7 @@ IL_005d:
 IL_009e:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:68>
 		TeleType_tA6F2E696EFE0B4124756D8810A7AAFB7829EE2F5* L_17 = V_1;
 		NullCheck(L_17);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_18 = L_17->___m_textMeshPro;
@@ -15545,6 +16619,7 @@ IL_009e:
 		String_t* L_20 = L_19->___label02;
 		NullCheck(L_18);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_18, L_20);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:69>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_21 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_21, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_21;
@@ -15556,6 +16631,7 @@ IL_009e:
 IL_00cf:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:70>
 		TeleType_tA6F2E696EFE0B4124756D8810A7AAFB7829EE2F5* L_22 = V_1;
 		NullCheck(L_22);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_23 = L_22->___m_textMeshPro;
@@ -15564,6 +16640,7 @@ IL_00cf:
 		String_t* L_25 = L_24->___label01;
 		NullCheck(L_23);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_23, L_25);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:71>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_26 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_26, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_26;
@@ -15579,8 +16656,10 @@ IL_0100:
 
 IL_0107:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:74>
 		int32_t L_27 = __this->___U3CcounterU3E5__3;
 		__this->___U3CcounterU3E5__3 = ((int32_t)il2cpp_codegen_add(L_27, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:76>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_28 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_28, (0.0500000007f), NULL);
 		__this->___U3CU3E2__current = L_28;
@@ -15592,6 +16671,7 @@ IL_0107:
 IL_012e:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs:58>
 		goto IL_005d;
 	}
 }
@@ -15638,6 +16718,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_Awake_m55D28DC1F590
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:14>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -15645,6 +16726,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_Awake_m55D28DC1F590
 		L_1 = GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3(L_0, GameObject_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_mA59A63181077B821132B53D44724D7F86C6FECB3_RuntimeMethod_var);
 		__this->___m_TextComponent = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:15>
 		return;
 	}
 }
@@ -15652,11 +16734,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_Awake_m55D28DC1F590
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_Start_m5667F64AE1F48EBA2FF1B3D2D53E2AFCAB738B39 (TextConsoleSimulator_t986082F574CD2A38D6E40D856C6A9926D7EF49D2* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:20>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0 = __this->___m_TextComponent;
 		RuntimeObject* L_1;
 		L_1 = TextConsoleSimulator_RevealCharacters_mAA4D3653F05692839313CE180250A44378024E52(__this, L_0, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_2;
 		L_2 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_1, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:22>
 		return;
 	}
 }
@@ -15673,12 +16757,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_OnEnable_mDF58D349E
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:28>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)TextConsoleSimulator_ON_TEXT_CHANGED_m050ECF4852B6A82000133662D6502577DFD57C3A_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6(L_0, L_1, FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:29>
 		return;
 	}
 }
@@ -15695,12 +16781,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_OnDisable_m4B3A741D
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:33>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)TextConsoleSimulator_ON_TEXT_CHANGED_m050ECF4852B6A82000133662D6502577DFD57C3A_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F(L_0, L_1, FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:34>
 		return;
 	}
 }
@@ -15708,7 +16796,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_OnDisable_m4B3A741D
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextConsoleSimulator_ON_TEXT_CHANGED_m050ECF4852B6A82000133662D6502577DFD57C3A (TextConsoleSimulator_t986082F574CD2A38D6E40D856C6A9926D7EF49D2* __this, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:40>
 		__this->___hasTextChanged = (bool)1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:41>
 		return;
 	}
 }
@@ -15829,24 +16919,29 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CRevealCharactersU3Ed__7_MoveNext_m2D0
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:50>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_3 = __this->___textComponent;
 		NullCheck(L_3);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_3, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:52>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = __this->___textComponent;
 		NullCheck(L_4);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_5;
 		L_5 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_4, NULL);
 		__this->___U3CtextInfoU3E5__2 = L_5;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CtextInfoU3E5__2), (void*)L_5);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:54>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_6 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_6);
 		int32_t L_7 = L_6->___characterCount;
 		__this->___U3CtotalVisibleCharactersU3E5__3 = L_7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:55>
 		__this->___U3CvisibleCountU3E5__4 = 0;
 	}
 
 IL_005f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:59>
 		TextConsoleSimulator_t986082F574CD2A38D6E40D856C6A9926D7EF49D2* L_8 = V_1;
 		NullCheck(L_8);
 		bool L_9 = L_8->___hasTextChanged;
@@ -15856,10 +16951,12 @@ IL_005f:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:61>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_10 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_10);
 		int32_t L_11 = L_10->___characterCount;
 		__this->___U3CtotalVisibleCharactersU3E5__3 = L_11;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:62>
 		TextConsoleSimulator_t986082F574CD2A38D6E40D856C6A9926D7EF49D2* L_12 = V_1;
 		NullCheck(L_12);
 		L_12->___hasTextChanged = (bool)0;
@@ -15867,6 +16964,7 @@ IL_005f:
 
 IL_007f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:65>
 		int32_t L_13 = __this->___U3CvisibleCountU3E5__4;
 		int32_t L_14 = __this->___U3CtotalVisibleCharactersU3E5__3;
 		if ((((int32_t)L_13) <= ((int32_t)L_14)))
@@ -15875,6 +16973,7 @@ IL_007f:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:67>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_15 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_15, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_15;
@@ -15886,17 +16985,21 @@ IL_007f:
 IL_00a6:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:68>
 		__this->___U3CvisibleCountU3E5__4 = 0;
 	}
 
 IL_00b4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:71>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_16 = __this->___textComponent;
 		int32_t L_17 = __this->___U3CvisibleCountU3E5__4;
 		NullCheck(L_16);
 		TMP_Text_set_maxVisibleCharacters_mEDD8DCB11D204F3FC10BFAC49BF6E8E09548358A(L_16, L_17, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:73>
 		int32_t L_18 = __this->___U3CvisibleCountU3E5__4;
 		__this->___U3CvisibleCountU3E5__4 = ((int32_t)il2cpp_codegen_add(L_18, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:75>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 2;
@@ -15906,6 +17009,7 @@ IL_00b4:
 IL_00e3:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:57>
 		goto IL_005f;
 	}
 }
@@ -15997,9 +17101,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CRevealWordsU3Ed__8_MoveNext_mC5102728
 IL_001b:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:86>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_2 = __this->___textComponent;
 		NullCheck(L_2);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_2, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:88>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_3 = __this->___textComponent;
 		NullCheck(L_3);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_4;
@@ -16007,6 +17113,7 @@ IL_001b:
 		NullCheck(L_4);
 		int32_t L_5 = L_4->___wordCount;
 		__this->___U3CtotalWordCountU3E5__2 = L_5;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:89>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_6 = __this->___textComponent;
 		NullCheck(L_6);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_7;
@@ -16014,16 +17121,21 @@ IL_001b:
 		NullCheck(L_7);
 		int32_t L_8 = L_7->___characterCount;
 		__this->___U3CtotalVisibleCharactersU3E5__3 = L_8;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:90>
 		__this->___U3CcounterU3E5__4 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:91>
 		V_1 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:92>
 		__this->___U3CvisibleCountU3E5__5 = 0;
 	}
 
 IL_006b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:96>
 		int32_t L_9 = __this->___U3CcounterU3E5__4;
 		int32_t L_10 = __this->___U3CtotalWordCountU3E5__2;
 		V_1 = ((int32_t)(L_9%((int32_t)il2cpp_codegen_add(L_10, 1))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:99>
 		int32_t L_11 = V_1;
 		if (L_11)
 		{
@@ -16031,12 +17143,14 @@ IL_006b:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:100>
 		__this->___U3CvisibleCountU3E5__5 = 0;
 		goto IL_00cc;
 	}
 
 IL_0087:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:101>
 		int32_t L_12 = V_1;
 		int32_t L_13 = __this->___U3CtotalWordCountU3E5__2;
 		if ((((int32_t)L_12) >= ((int32_t)L_13)))
@@ -16045,6 +17159,7 @@ IL_0087:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:102>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_14 = __this->___textComponent;
 		NullCheck(L_14);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_15;
@@ -16060,6 +17175,7 @@ IL_0087:
 
 IL_00b7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:103>
 		int32_t L_19 = V_1;
 		int32_t L_20 = __this->___U3CtotalWordCountU3E5__2;
 		if ((!(((uint32_t)L_19) == ((uint32_t)L_20))))
@@ -16068,16 +17184,19 @@ IL_00b7:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:104>
 		int32_t L_21 = __this->___U3CtotalVisibleCharactersU3E5__3;
 		__this->___U3CvisibleCountU3E5__5 = L_21;
 	}
 
 IL_00cc:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:106>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_22 = __this->___textComponent;
 		int32_t L_23 = __this->___U3CvisibleCountU3E5__5;
 		NullCheck(L_22);
 		TMP_Text_set_maxVisibleCharacters_mEDD8DCB11D204F3FC10BFAC49BF6E8E09548358A(L_22, L_23, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:109>
 		int32_t L_24 = __this->___U3CvisibleCountU3E5__5;
 		int32_t L_25 = __this->___U3CtotalVisibleCharactersU3E5__3;
 		if ((((int32_t)L_24) < ((int32_t)L_25)))
@@ -16086,6 +17205,7 @@ IL_00cc:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:111>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_26 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_26, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_26;
@@ -16101,8 +17221,10 @@ IL_0104:
 
 IL_010b:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:114>
 		int32_t L_27 = __this->___U3CcounterU3E5__4;
 		__this->___U3CcounterU3E5__4 = ((int32_t)il2cpp_codegen_add(L_27, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:116>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_28 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_28, (0.100000001f), NULL);
 		__this->___U3CU3E2__current = L_28;
@@ -16114,6 +17236,7 @@ IL_010b:
 IL_0132:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs:94>
 		goto IL_006b;
 	}
 }
@@ -16161,10 +17284,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Awake_m600F1825C
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:39>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
 		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
 		__this->___m_transform = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_transform), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:40>
 		String_t* L_1;
 		L_1 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(__this, NULL);
 		String_t* L_2;
@@ -16173,6 +17298,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Awake_m600F1825C
 		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_3, L_2, NULL);
 		__this->___m_floatingText = L_3;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_floatingText), (void*)L_3);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:46>
 		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_4;
 		L_4 = Camera_get_main_m52C992F18E05355ABB9EEB64A4BF2215E12762DF(NULL);
 		NullCheck(L_4);
@@ -16180,6 +17306,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Awake_m600F1825C
 		L_5 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_4, NULL);
 		__this->___m_cameraTransform = L_5;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_cameraTransform), (void*)L_5);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:47>
 		return;
 	}
 }
@@ -16198,6 +17325,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Start_m8121246A4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:51>
 		int32_t L_0 = __this->___SpawnType;
 		if (L_0)
 		{
@@ -16205,12 +17333,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Start_m8121246A4
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:54>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = __this->___m_floatingText;
 		NullCheck(L_1);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_2;
 		L_2 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_1, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
 		__this->___m_textMeshPro = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_textMeshPro), (void*)L_2);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:55>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_3 = __this->___m_textMeshPro;
 		NullCheck(L_3);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_4;
@@ -16220,12 +17350,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Start_m8121246A4
 		Vector2__ctor_m9525B79969AFFE3254B303A40997A56DEEB6F548_inline((&L_5), (3.0f), (3.0f), NULL);
 		NullCheck(L_4);
 		RectTransform_set_sizeDelta_mC9A980EA6036E6725EF24CEDF3EE80A9B2B50EE5(L_4, L_5, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:57>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6 = __this->___m_floatingText;
 		NullCheck(L_6);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7;
 		L_7 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_6, NULL);
 		__this->___m_floatingText_Transform = L_7;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_floatingText_Transform), (void*)L_7);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:58>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8 = __this->___m_floatingText_Transform;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9 = __this->___m_transform;
 		NullCheck(L_9);
@@ -16238,9 +17370,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Start_m8121246A4
 		L_12 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_10, L_11, NULL);
 		NullCheck(L_8);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_8, L_12, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:63>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_13 = __this->___m_textMeshPro;
 		NullCheck(L_13);
 		TMP_Text_set_alignment_mE5216A28797987CC19927ED3CB8DFAC438C6B95A(L_13, ((int32_t)514), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:64>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_14 = __this->___m_textMeshPro;
 		int32_t L_15;
 		L_15 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
@@ -16255,23 +17389,28 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Start_m8121246A4
 		L_19 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_18, NULL);
 		NullCheck(L_14);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_14, L_19);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:65>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_20 = __this->___m_textMeshPro;
 		NullCheck(L_20);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_20, (24.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:68>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_21 = __this->___m_textMeshPro;
 		NullCheck(L_21);
 		List_1_t3A076A19AF26E22A128C32B5C19804DDD2877607* L_22;
 		L_22 = TMP_Text_get_fontFeatures_mB68611B8CC517E049004F25EB9966F1CC3830499_inline(L_21, NULL);
 		NullCheck(L_22);
 		List_1_Clear_mF99932B21C9883F8D329D36A63CB886718B9C18E_inline(L_22, List_1_Clear_mF99932B21C9883F8D329D36A63CB886718B9C18E_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:69>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_23 = __this->___m_textMeshPro;
 		String_t* L_24 = ((String_t_StaticFields*)il2cpp_codegen_static_fields_for(il2cpp_defaults.string_class))->___Empty;
 		NullCheck(L_23);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_23, L_24);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:70>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_25 = __this->___m_textMeshPro;
 		bool L_26 = __this->___IsTextObjectScaleStatic;
 		NullCheck(L_25);
 		TMP_Text_set_isTextObjectScaleStatic_m8436FC38400ABE08F513770AF9C8CC6743DBE092(L_25, L_26, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:72>
 		RuntimeObject* L_27;
 		L_27 = TextMeshProFloatingText_DisplayTextMeshProFloatingText_mA1E370089458CD380E9BA7740C2BC2032F084148(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_28;
@@ -16281,6 +17420,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText_Start_m8121246A4
 
 IL_0118:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:74>
 		int32_t L_29 = __this->___SpawnType;
 		if ((!(((uint32_t)L_29) == ((uint32_t)1))))
 		{
@@ -16288,12 +17428,14 @@ IL_0118:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:78>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_30 = __this->___m_floatingText;
 		NullCheck(L_30);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_31;
 		L_31 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_30, NULL);
 		__this->___m_floatingText_Transform = L_31;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_floatingText_Transform), (void*)L_31);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:79>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_32 = __this->___m_floatingText_Transform;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_33 = __this->___m_transform;
 		NullCheck(L_33);
@@ -16306,17 +17448,20 @@ IL_0118:
 		L_36 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_34, L_35, NULL);
 		NullCheck(L_32);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_32, L_36, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:81>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_37 = __this->___m_floatingText;
 		NullCheck(L_37);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_38;
 		L_38 = GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2(L_37, GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2_RuntimeMethod_var);
 		__this->___m_textMesh = L_38;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_textMesh), (void*)L_38);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:82>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_39 = __this->___m_textMesh;
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_40;
 		L_40 = Resources_Load_TisFont_tC95270EA3198038970422D78B74A7F2E218A96B6_m2B532BE5E14BE59B8F59F82BF8193EEEE249DC6D(_stringLiteral9D329ACFC4F7EECCB821A7FEF99A0F23E1C721B7, Resources_Load_TisFont_tC95270EA3198038970422D78B74A7F2E218A96B6_m2B532BE5E14BE59B8F59F82BF8193EEEE249DC6D_RuntimeMethod_var);
 		NullCheck(L_39);
 		TextMesh_set_font_m7E407CAEDBB382B95B70069D8FAB8A9E74EAAA74(L_39, L_40, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:83>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_41 = __this->___m_textMesh;
 		NullCheck(L_41);
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_42;
@@ -16330,6 +17475,7 @@ IL_0118:
 		L_45 = Font_get_material_m61ABDEC14C6D659DDC5A4F080023699116C17364(L_44, NULL);
 		NullCheck(L_42);
 		Renderer_set_sharedMaterial_m5E842F9A06CFB7B77656EB319881CB4B3E8E4288(L_42, L_45, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:84>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_46 = __this->___m_textMesh;
 		int32_t L_47;
 		L_47 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
@@ -16344,12 +17490,15 @@ IL_0118:
 		L_51 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_50, NULL);
 		NullCheck(L_46);
 		TextMesh_set_color_mF08F30C3CD797C16289225B567724B9F07DC641E(L_46, L_51, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:85>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_52 = __this->___m_textMesh;
 		NullCheck(L_52);
 		TextMesh_set_anchor_m3FCB7C4B1FF66CE189B56076C0306AFE984FCD32(L_52, 7, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:86>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_53 = __this->___m_textMesh;
 		NullCheck(L_53);
 		TextMesh_set_fontSize_mAB9F7FFC0E4DB759B786F6A9357B18C86015498B(L_53, ((int32_t)24), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:88>
 		RuntimeObject* L_54;
 		L_54 = TextMeshProFloatingText_DisplayTextMeshFloatingText_mA02B20CF33E43FE99FD5F1B90F7F350262F0BEBE(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_55;
@@ -16359,7 +17508,9 @@ IL_0118:
 
 IL_020f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:90>
 		int32_t L_56 = __this->___SpawnType;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:95>
 		return;
 	}
 }
@@ -16405,9 +17556,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TextMeshProFloatingText_Displa
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText__ctor_mD08AF0FB6944A51BC6EA15D6BE4E33AA4A916E3E (TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:20>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0;
 		L_0 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
 		__this->___lastPOS = L_0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:21>
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_1;
 		L_1 = Quaternion_get_identity_m7E701AE095ED10FD5EA0B50ABCFDE2EEFF2173A5_inline(NULL);
 		__this->___lastRotation = L_1;
@@ -16428,10 +17581,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshProFloatingText__cctor_m27209781
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:28>
 		WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663* L_0 = (WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663*)il2cpp_codegen_object_new(WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663_il2cpp_TypeInfo_var);
 		WaitForEndOfFrame__ctor_m4AF7E576C01E6B04443BB898B1AE5D645F7D45AB(L_0, NULL);
 		((TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_StaticFields*)il2cpp_codegen_static_fields_for(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var))->___k_WaitForEndOfFrame = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&((TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_StaticFields*)il2cpp_codegen_static_fields_for(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var))->___k_WaitForEndOfFrame), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:29>
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:30>
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:31>
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:32>
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:33>
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:34>
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:35>
 		WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E* L_1 = (WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E*)(WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E*)SZArrayNew(WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E_il2cpp_TypeInfo_var, (uint32_t)((int32_t)20));
 		WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E* L_2 = L_1;
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_3 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
@@ -16606,12 +17767,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CDisplayTextMeshFloatingTextU3Ed__16_M
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:171>
 		__this->___U3CCountDurationU3E5__2 = (2.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:172>
 		float L_3;
 		L_3 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((5.0f), (20.0f), NULL);
 		__this->___U3Cstarting_CountU3E5__3 = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:173>
 		float L_4 = __this->___U3Cstarting_CountU3E5__3;
 		__this->___U3Ccurrent_CountU3E5__4 = L_4;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:175>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_5 = V_1;
 		NullCheck(L_5);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6 = L_5->___m_floatingText_Transform;
@@ -16619,6 +17784,7 @@ IL_0022:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
 		L_7 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_6, NULL);
 		__this->___U3Cstart_posU3E5__5 = L_7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:176>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_8 = V_1;
 		NullCheck(L_8);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_9 = L_8->___m_textMesh;
@@ -16628,8 +17794,11 @@ IL_0022:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_11;
 		L_11 = Color32_op_Implicit_m79AF5E0BDE9CE041CAC4D89CBFA66E71C6DD1B70_inline(L_10, NULL);
 		__this->___U3Cstart_colorU3E5__6 = L_11;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:177>
 		__this->___U3CalphaU3E5__7 = (255.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:178>
 		V_2 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:180>
 		float L_12 = __this->___U3Cstarting_CountU3E5__3;
 		float L_13 = __this->___U3CCountDurationU3E5__2;
 		__this->___U3CfadeDurationU3E5__8 = ((float)il2cpp_codegen_multiply(((float)((3.0f)/L_12)), L_13));
@@ -16638,12 +17807,14 @@ IL_0022:
 
 IL_00a7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:184>
 		float L_14 = __this->___U3Ccurrent_CountU3E5__4;
 		float L_15;
 		L_15 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		float L_16 = __this->___U3CCountDurationU3E5__2;
 		float L_17 = __this->___U3Cstarting_CountU3E5__3;
 		__this->___U3Ccurrent_CountU3E5__4 = ((float)il2cpp_codegen_subtract(L_14, ((float)il2cpp_codegen_multiply(((float)(L_15/L_16)), L_17))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:186>
 		float L_18 = __this->___U3Ccurrent_CountU3E5__4;
 		if ((!(((float)L_18) <= ((float)(3.0f)))))
 		{
@@ -16651,6 +17822,7 @@ IL_00a7:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:189>
 		float L_19 = __this->___U3CalphaU3E5__7;
 		float L_20;
 		L_20 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
@@ -16662,8 +17834,10 @@ IL_00a7:
 
 IL_0102:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:192>
 		float L_23 = __this->___U3Ccurrent_CountU3E5__4;
 		V_2 = il2cpp_codegen_cast_double_to_int<int32_t>(L_23);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:193>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_24 = V_1;
 		NullCheck(L_24);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_25 = L_24->___m_textMesh;
@@ -16671,6 +17845,7 @@ IL_0102:
 		L_26 = Int32_ToString_m030E01C24E294D6762FB0B6F37CB541581F55CA5((&V_2), NULL);
 		NullCheck(L_25);
 		TextMesh_set_text_mDF79D39638ED82797D0B0B3BB9E6B10712F8EA9E(L_25, L_26, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:196>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_27 = V_1;
 		NullCheck(L_27);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_28 = L_27->___m_textMesh;
@@ -16688,6 +17863,7 @@ IL_0102:
 		L_37 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_36, NULL);
 		NullCheck(L_28);
 		TextMesh_set_color_mF08F30C3CD797C16289225B567724B9F07DC641E(L_28, L_37, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:199>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_38 = V_1;
 		NullCheck(L_38);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_39 = L_38->___m_floatingText_Transform;
@@ -16705,6 +17881,7 @@ IL_0102:
 		L_45 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_41, L_44, NULL);
 		NullCheck(L_40);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_40, L_45, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:202>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_46 = V_1;
 		NullCheck(L_46);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_47 = L_46->___lastPOS;
@@ -16741,6 +17918,7 @@ IL_0102:
 
 IL_01c4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:204>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_58 = V_1;
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_59 = V_1;
 		NullCheck(L_59);
@@ -16750,6 +17928,7 @@ IL_01c4:
 		L_61 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_60, NULL);
 		NullCheck(L_58);
 		L_58->___lastPOS = L_61;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:205>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_62 = V_1;
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_63 = V_1;
 		NullCheck(L_63);
@@ -16759,6 +17938,7 @@ IL_01c4:
 		L_65 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_64, NULL);
 		NullCheck(L_62);
 		L_62->___lastRotation = L_65;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:206>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_66 = V_1;
 		NullCheck(L_66);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_67 = L_66->___m_floatingText_Transform;
@@ -16767,6 +17947,7 @@ IL_01c4:
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_69 = L_68->___lastRotation;
 		NullCheck(L_67);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_67, L_69, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:207>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_70 = V_1;
 		NullCheck(L_70);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_71 = L_70->___m_transform;
@@ -16779,6 +17960,7 @@ IL_01c4:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_75;
 		L_75 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_72, L_74, NULL);
 		V_3 = L_75;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:208>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_76 = V_1;
 		NullCheck(L_76);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_77 = L_76->___m_transform;
@@ -16795,6 +17977,7 @@ IL_01c4:
 
 IL_022f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:211>
 		il2cpp_codegen_runtime_class_init_inline(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var);
 		WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663* L_83 = ((TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_StaticFields*)il2cpp_codegen_static_fields_for(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var))->___k_WaitForEndOfFrame;
 		__this->___U3CU3E2__current = L_83;
@@ -16810,6 +17993,7 @@ IL_0243:
 
 IL_024a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:182>
 		float L_84 = __this->___U3Ccurrent_CountU3E5__4;
 		if ((((float)L_84) > ((float)(0.0f))))
 		{
@@ -16817,6 +18001,7 @@ IL_024a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:216>
 		il2cpp_codegen_runtime_class_init_inline(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var);
 		WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E* L_85 = ((TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_StaticFields*)il2cpp_codegen_static_fields_for(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var))->___k_WaitForSecondsRandom;
 		int32_t L_86;
@@ -16833,12 +18018,14 @@ IL_024a:
 IL_0277:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:218>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_89 = V_1;
 		NullCheck(L_89);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_90 = L_89->___m_floatingText_Transform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_91 = __this->___U3Cstart_posU3E5__5;
 		NullCheck(L_90);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_90, L_91, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:220>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_92 = V_1;
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_93 = V_1;
 		NullCheck(L_93);
@@ -16847,6 +18034,7 @@ IL_0277:
 		NullCheck(L_92);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_95;
 		L_95 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(L_92, L_94, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:221>
 		return (bool)0;
 	}
 }
@@ -16943,12 +18131,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CDisplayTextMeshProFloatingTextU3Ed__1
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:115>
 		__this->___U3CCountDurationU3E5__2 = (2.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:116>
 		float L_3;
 		L_3 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((5.0f), (20.0f), NULL);
 		__this->___U3Cstarting_CountU3E5__3 = L_3;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:117>
 		float L_4 = __this->___U3Cstarting_CountU3E5__3;
 		__this->___U3Ccurrent_CountU3E5__4 = L_4;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:119>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_5 = V_1;
 		NullCheck(L_5);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6 = L_5->___m_floatingText_Transform;
@@ -16956,6 +18148,7 @@ IL_0022:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
 		L_7 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_6, NULL);
 		__this->___U3Cstart_posU3E5__5 = L_7;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:120>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_8 = V_1;
 		NullCheck(L_8);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_9 = L_8->___m_textMeshPro;
@@ -16965,8 +18158,11 @@ IL_0022:
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_11;
 		L_11 = Color32_op_Implicit_m79AF5E0BDE9CE041CAC4D89CBFA66E71C6DD1B70_inline(L_10, NULL);
 		__this->___U3Cstart_colorU3E5__6 = L_11;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:121>
 		__this->___U3CalphaU3E5__7 = (255.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:122>
 		V_2 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:125>
 		float L_12 = __this->___U3Cstarting_CountU3E5__3;
 		float L_13 = __this->___U3CCountDurationU3E5__2;
 		__this->___U3CfadeDurationU3E5__8 = ((float)il2cpp_codegen_multiply(((float)((3.0f)/L_12)), L_13));
@@ -16975,12 +18171,14 @@ IL_0022:
 
 IL_00a7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:129>
 		float L_14 = __this->___U3Ccurrent_CountU3E5__4;
 		float L_15;
 		L_15 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
 		float L_16 = __this->___U3CCountDurationU3E5__2;
 		float L_17 = __this->___U3Cstarting_CountU3E5__3;
 		__this->___U3Ccurrent_CountU3E5__4 = ((float)il2cpp_codegen_subtract(L_14, ((float)il2cpp_codegen_multiply(((float)(L_15/L_16)), L_17))));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:131>
 		float L_18 = __this->___U3Ccurrent_CountU3E5__4;
 		if ((!(((float)L_18) <= ((float)(3.0f)))))
 		{
@@ -16988,6 +18186,7 @@ IL_00a7:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:134>
 		float L_19 = __this->___U3CalphaU3E5__7;
 		float L_20;
 		L_20 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
@@ -16999,8 +18198,10 @@ IL_00a7:
 
 IL_0102:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:137>
 		float L_23 = __this->___U3Ccurrent_CountU3E5__4;
 		V_2 = il2cpp_codegen_cast_double_to_int<int32_t>(L_23);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:138>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_24 = V_1;
 		NullCheck(L_24);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_25 = L_24->___m_textMeshPro;
@@ -17008,6 +18209,7 @@ IL_0102:
 		L_26 = Int32_ToString_m030E01C24E294D6762FB0B6F37CB541581F55CA5((&V_2), NULL);
 		NullCheck(L_25);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_25, L_26);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:141>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_27 = V_1;
 		NullCheck(L_27);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_28 = L_27->___m_textMeshPro;
@@ -17025,6 +18227,7 @@ IL_0102:
 		L_37 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_36, NULL);
 		NullCheck(L_28);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_28, L_37);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:144>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_38 = V_1;
 		NullCheck(L_38);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_39 = L_38->___m_floatingText_Transform;
@@ -17042,6 +18245,7 @@ IL_0102:
 		L_45 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_41, L_44, NULL);
 		NullCheck(L_40);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_40, L_45, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:147>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_46 = V_1;
 		NullCheck(L_46);
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_47 = L_46->___lastPOS;
@@ -17078,6 +18282,7 @@ IL_0102:
 
 IL_01c4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:149>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_58 = V_1;
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_59 = V_1;
 		NullCheck(L_59);
@@ -17087,6 +18292,7 @@ IL_01c4:
 		L_61 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_60, NULL);
 		NullCheck(L_58);
 		L_58->___lastPOS = L_61;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:150>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_62 = V_1;
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_63 = V_1;
 		NullCheck(L_63);
@@ -17096,6 +18302,7 @@ IL_01c4:
 		L_65 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_64, NULL);
 		NullCheck(L_62);
 		L_62->___lastRotation = L_65;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:151>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_66 = V_1;
 		NullCheck(L_66);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_67 = L_66->___m_floatingText_Transform;
@@ -17104,6 +18311,7 @@ IL_01c4:
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_69 = L_68->___lastRotation;
 		NullCheck(L_67);
 		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_67, L_69, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:152>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_70 = V_1;
 		NullCheck(L_70);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_71 = L_70->___m_transform;
@@ -17116,6 +18324,7 @@ IL_01c4:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_75;
 		L_75 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_72, L_74, NULL);
 		V_3 = L_75;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:153>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_76 = V_1;
 		NullCheck(L_76);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_77 = L_76->___m_transform;
@@ -17132,6 +18341,7 @@ IL_01c4:
 
 IL_022f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:156>
 		il2cpp_codegen_runtime_class_init_inline(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var);
 		WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663* L_83 = ((TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_StaticFields*)il2cpp_codegen_static_fields_for(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var))->___k_WaitForEndOfFrame;
 		__this->___U3CU3E2__current = L_83;
@@ -17147,6 +18357,7 @@ IL_0243:
 
 IL_024a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:127>
 		float L_84 = __this->___U3Ccurrent_CountU3E5__4;
 		if ((((float)L_84) > ((float)(0.0f))))
 		{
@@ -17154,6 +18365,7 @@ IL_024a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:161>
 		il2cpp_codegen_runtime_class_init_inline(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var);
 		WaitForSecondsU5BU5D_t2A9038ECB6E643745AEF2AD9A4F7FFD3D272186E* L_85 = ((TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_StaticFields*)il2cpp_codegen_static_fields_for(TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var))->___k_WaitForSecondsRandom;
 		int32_t L_86;
@@ -17170,12 +18382,14 @@ IL_024a:
 IL_0277:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:163>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_89 = V_1;
 		NullCheck(L_89);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_90 = L_89->___m_floatingText_Transform;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_91 = __this->___U3Cstart_posU3E5__5;
 		NullCheck(L_90);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_90, L_91, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:165>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_92 = V_1;
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_93 = V_1;
 		NullCheck(L_93);
@@ -17184,6 +18398,7 @@ IL_0277:
 		NullCheck(L_92);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_95;
 		L_95 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(L_92, L_94, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs:166>
 		return (bool)0;
 	}
 }
@@ -17224,6 +18439,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CDisplayTextMeshProFloatingT
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshSpawner_Awake_m9A84A570D2582918A6B1287139527E9AB2CF088D (TextMeshSpawner_tB6905931E9BE4D7A2A2E37A51E221A7B462D75BB* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:21>
 		return;
 	}
 }
@@ -17245,12 +18461,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshSpawner_Start_m3EE98071CA27A1890
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_1 = NULL;
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_2 = NULL;
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:26>
 		V_0 = 0;
 		goto IL_0159;
 	}
 
 IL_0007:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:28>
 		int32_t L_0 = __this->___SpawnType;
 		if (L_0)
 		{
@@ -17258,9 +18476,11 @@ IL_0007:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:32>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_1, NULL);
 		V_1 = L_1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:33>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = V_1;
 		NullCheck(L_2);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3;
@@ -17274,16 +18494,20 @@ IL_0007:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_6), L_4, (0.5f), L_5, NULL);
 		NullCheck(L_3);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_3, L_6, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:40>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_7 = V_1;
 		NullCheck(L_7);
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_8;
 		L_8 = GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C(L_7, GameObject_AddComponent_TisTextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E_mD3BE0A75BBE971456A1D7C8C6F6688A094A81C9C_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:43>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_9 = L_8;
 		NullCheck(L_9);
 		TMP_Text_set_fontSize_m1C3A3BA2BC88E5E1D89375FD35A0AA91E75D3AAD(L_9, (96.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:45>
 		TextMeshPro_t4560AB28A3EAF503895A781A9C625273D833270E* L_10 = L_9;
 		NullCheck(L_10);
 		VirtualActionInvoker1< String_t* >::Invoke(66, L_10, _stringLiteral15196F05B117690F3E12E56AA0C43803EA0D2A46);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:46>
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_11;
 		memset((&L_11), 0, sizeof(L_11));
 		Color32__ctor_mC9C6B443F0C7CA3F8B174158B2AF6F05E18EAC4E_inline((&L_11), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), (uint8_t)0, (uint8_t)((int32_t)255), NULL);
@@ -17291,12 +18515,14 @@ IL_0007:
 		L_12 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_11, NULL);
 		NullCheck(L_10);
 		VirtualActionInvoker1< Color_tD001788D726C3A7F1379BEED0260B9591F440C1F >::Invoke(23, L_10, L_12);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:51>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_13 = V_1;
 		NullCheck(L_13);
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_14;
 		L_14 = GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1(L_13, GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1_RuntimeMethod_var);
 		__this->___floatingText_Script = L_14;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___floatingText_Script), (void*)L_14);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:52>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_15 = __this->___floatingText_Script;
 		NullCheck(L_15);
 		L_15->___SpawnType = 0;
@@ -17305,9 +18531,11 @@ IL_0007:
 
 IL_00a3:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:57>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_16 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
 		GameObject__ctor_m7D0340DE160786E6EFA8DABD39EC3B694DA30AAD(L_16, NULL);
 		V_2 = L_16;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:58>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_17 = V_2;
 		NullCheck(L_17);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_18;
@@ -17321,10 +18549,12 @@ IL_00a3:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_21), L_19, (0.5f), L_20, NULL);
 		NullCheck(L_18);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_18, L_21, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:62>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_22 = V_2;
 		NullCheck(L_22);
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_23;
 		L_23 = GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2(L_22, GameObject_AddComponent_TisTextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8_mFAD74D91BCACF9C3FAE6960EB58D5C346DDBD9C2_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:63>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_24 = L_23;
 		NullCheck(L_24);
 		Renderer_t320575F223BCB177A982E5DDB5DB19FAA89E7FBF* L_25;
@@ -17335,16 +18565,20 @@ IL_00a3:
 		L_27 = Font_get_material_m61ABDEC14C6D659DDC5A4F080023699116C17364(L_26, NULL);
 		NullCheck(L_25);
 		Renderer_set_sharedMaterial_m5E842F9A06CFB7B77656EB319881CB4B3E8E4288(L_25, L_27, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:64>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_28 = L_24;
 		Font_tC95270EA3198038970422D78B74A7F2E218A96B6* L_29 = __this->___TheFont;
 		NullCheck(L_28);
 		TextMesh_set_font_m7E407CAEDBB382B95B70069D8FAB8A9E74EAAA74(L_28, L_29, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:65>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_30 = L_28;
 		NullCheck(L_30);
 		TextMesh_set_anchor_m3FCB7C4B1FF66CE189B56076C0306AFE984FCD32(L_30, 7, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:66>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_31 = L_30;
 		NullCheck(L_31);
 		TextMesh_set_fontSize_mAB9F7FFC0E4DB759B786F6A9357B18C86015498B(L_31, ((int32_t)96), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:68>
 		TextMesh_t7E1981C7B03E50D5CA5A3AD5B0D9BB0AB6EE91F8* L_32 = L_31;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_33;
 		memset((&L_33), 0, sizeof(L_33));
@@ -17353,14 +18587,17 @@ IL_00a3:
 		L_34 = Color32_op_Implicit_m47CBB138122B400E0B1F4BFD7C30A6C2C00FCA3E_inline(L_33, NULL);
 		NullCheck(L_32);
 		TextMesh_set_color_mF08F30C3CD797C16289225B567724B9F07DC641E(L_32, L_34, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:69>
 		NullCheck(L_32);
 		TextMesh_set_text_mDF79D39638ED82797D0B0B3BB9E6B10712F8EA9E(L_32, _stringLiteral15196F05B117690F3E12E56AA0C43803EA0D2A46, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:72>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_35 = V_2;
 		NullCheck(L_35);
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_36;
 		L_36 = GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1(L_35, GameObject_AddComponent_TisTextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_m3DBA7F56D8D880227B1D70FAA3DF6988A4EE69F1_RuntimeMethod_var);
 		__this->___floatingText_Script = L_36;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___floatingText_Script), (void*)L_36);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:73>
 		TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31* L_37 = __this->___floatingText_Script;
 		NullCheck(L_37);
 		L_37->___SpawnType = 1;
@@ -17368,12 +18605,14 @@ IL_00a3:
 
 IL_0155:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:26>
 		int32_t L_38 = V_0;
 		V_0 = ((int32_t)il2cpp_codegen_add(L_38, 1));
 	}
 
 IL_0159:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:26>
 		int32_t L_39 = V_0;
 		int32_t L_40 = __this->___NumberOfNPC;
 		if ((((int32_t)L_39) < ((int32_t)L_40)))
@@ -17382,6 +18621,7 @@ IL_0159:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:76>
 		return;
 	}
 }
@@ -17389,6 +18629,7 @@ IL_0159:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextMeshSpawner__ctor_m8409A62C31C4A6B6CEC2F48F1DC9777460C28233 (TextMeshSpawner_tB6905931E9BE4D7A2A2E37A51E221A7B462D75BB* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs:12>
 		__this->___NumberOfNPC = ((int32_t)12);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -17412,10 +18653,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexColorCycler_Awake_m8895A9C06DB3EC4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:15>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_TextComponent = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:16>
 		return;
 	}
 }
@@ -17423,10 +18666,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexColorCycler_Awake_m8895A9C06DB3EC4
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexColorCycler_Start_m36846DA72BFC7FDFA944A368C9DB62D17A15917B (VertexColorCycler_t527535DC3F38CBB70E8A4B35907DA8EC4FC62C8D* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:21>
 		RuntimeObject* L_0;
 		L_0 = VertexColorCycler_AnimateVertexColors_m16733B3DFF4C0F625AA66B5DF9D3B04D723E49CC(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:22>
 		return;
 	}
 }
@@ -17528,11 +18773,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CAnimateVertexColorsU3Ed__3_MoveNext_m
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:32>
 		VertexColorCycler_t527535DC3F38CBB70E8A4B35907DA8EC4FC62C8D* L_3 = V_1;
 		NullCheck(L_3);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = L_3->___m_TextComponent;
 		NullCheck(L_4);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_4, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:34>
 		VertexColorCycler_t527535DC3F38CBB70E8A4B35907DA8EC4FC62C8D* L_5 = V_1;
 		NullCheck(L_5);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_6 = L_5->___m_TextComponent;
@@ -17541,7 +18788,9 @@ IL_0022:
 		L_7 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_6, NULL);
 		__this->___U3CtextInfoU3E5__2 = L_7;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CtextInfoU3E5__2), (void*)L_7);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:35>
 		__this->___U3CcurrentCharacterU3E5__3 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:38>
 		VertexColorCycler_t527535DC3F38CBB70E8A4B35907DA8EC4FC62C8D* L_8 = V_1;
 		NullCheck(L_8);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_9 = L_8->___m_TextComponent;
@@ -17555,10 +18804,12 @@ IL_0022:
 
 IL_005f:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:42>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_12 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_12);
 		int32_t L_13 = L_12->___characterCount;
 		V_4 = L_13;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:45>
 		int32_t L_14 = V_4;
 		if (L_14)
 		{
@@ -17566,6 +18817,7 @@ IL_005f:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:47>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_15 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_15, (0.25f), NULL);
 		__this->___U3CU3E2__current = L_15;
@@ -17577,11 +18829,13 @@ IL_005f:
 IL_0089:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:48>
 		goto IL_005f;
 	}
 
 IL_0092:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:52>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_16 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_16);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_17 = L_16->___characterInfo;
@@ -17589,6 +18843,7 @@ IL_0092:
 		NullCheck(L_17);
 		int32_t L_19 = ((L_17)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_18)))->___materialReferenceIndex;
 		V_5 = L_19;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:55>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_20 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_20);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_21 = L_20->___meshInfo;
@@ -17596,6 +18851,7 @@ IL_0092:
 		NullCheck(L_21);
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_23 = ((L_21)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_22)))->___colors32;
 		V_2 = L_23;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:58>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_24 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_24);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_25 = L_24->___characterInfo;
@@ -17603,6 +18859,7 @@ IL_0092:
 		NullCheck(L_25);
 		int32_t L_27 = ((L_25)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_26)))->___vertexIndex;
 		V_6 = L_27;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:61>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_28 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_28);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_29 = L_28->___characterInfo;
@@ -17615,6 +18872,7 @@ IL_0092:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:63>
 		int32_t L_32;
 		L_32 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
 		int32_t L_33;
@@ -17622,26 +18880,31 @@ IL_0092:
 		int32_t L_34;
 		L_34 = Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68(0, ((int32_t)255), NULL);
 		Color32__ctor_mC9C6B443F0C7CA3F8B174158B2AF6F05E18EAC4E_inline((&V_3), (uint8_t)((int32_t)(uint8_t)L_32), (uint8_t)((int32_t)(uint8_t)L_33), (uint8_t)((int32_t)(uint8_t)L_34), (uint8_t)((int32_t)255), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:65>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_35 = V_2;
 		int32_t L_36 = V_6;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_37 = V_3;
 		NullCheck(L_35);
 		(L_35)->SetAt(static_cast<il2cpp_array_size_t>(L_36), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_37);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:66>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_38 = V_2;
 		int32_t L_39 = V_6;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_40 = V_3;
 		NullCheck(L_38);
 		(L_38)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_39, 1))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_40);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:67>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_41 = V_2;
 		int32_t L_42 = V_6;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_43 = V_3;
 		NullCheck(L_41);
 		(L_41)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_42, 2))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_43);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:68>
 		Color32U5BU5D_t38116C3E91765C4C5726CE12C77FAD7F9F737259* L_44 = V_2;
 		int32_t L_45 = V_6;
 		Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B L_46 = V_3;
 		NullCheck(L_44);
 		(L_44)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_45, 3))), (Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B)L_46);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:71>
 		VertexColorCycler_t527535DC3F38CBB70E8A4B35907DA8EC4FC62C8D* L_47 = V_1;
 		NullCheck(L_47);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_48 = L_47->___m_TextComponent;
@@ -17651,9 +18914,11 @@ IL_0092:
 
 IL_0168:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:77>
 		int32_t L_49 = __this->___U3CcurrentCharacterU3E5__3;
 		int32_t L_50 = V_4;
 		__this->___U3CcurrentCharacterU3E5__3 = ((int32_t)(((int32_t)il2cpp_codegen_add(L_49, 1))%L_50));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:79>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_51 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_51, (0.0500000007f), NULL);
 		__this->___U3CU3E2__current = L_51;
@@ -17665,6 +18930,7 @@ IL_0168:
 IL_0192:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs:40>
 		goto IL_005f;
 	}
 }
@@ -17711,10 +18977,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_Awake_m0DF2AC9C728A15EEB427
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:30>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_TextComponent = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:31>
 		return;
 	}
 }
@@ -17731,12 +18999,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_OnEnable_mCD5C1FDDBA809B04A
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:36>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexJitter_ON_TEXT_CHANGED_m0CF9C49A1033B4475C04A417440F39490FED64A8_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6(L_0, L_1, FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:37>
 		return;
 	}
 }
@@ -17753,12 +19023,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_OnDisable_mB670406B3982BFC4
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:41>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexJitter_ON_TEXT_CHANGED_m0CF9C49A1033B4475C04A417440F39490FED64A8_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F(L_0, L_1, FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:42>
 		return;
 	}
 }
@@ -17766,10 +19038,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_OnDisable_mB670406B3982BFC4
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_Start_mDE6155803CF2B1E6CE0EBAE8DF7DB93601E1DD76 (VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:47>
 		RuntimeObject* L_0;
 		L_0 = VertexJitter_AnimateVertexColors_m2A69F06CF58FA46B689BD4166DEF5AD15FA2FA88(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:48>
 		return;
 	}
 }
@@ -17783,6 +19057,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_ON_TEXT_CHANGED_m0CF9C49A10
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:53>
 		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_0 = ___0_obj;
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = __this->___m_TextComponent;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -17794,11 +19069,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter_ON_TEXT_CHANGED_m0CF9C49A10
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:54>
 		__this->___hasTextChanged = (bool)1;
 	}
 
 IL_0015:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:55>
 		return;
 	}
 }
@@ -17825,8 +19102,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* VertexJitter_AnimateVertexColo
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexJitter__ctor_m41E4682405B3C0B19779BA8CB77156D65D64716D (VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:11>
 		__this->___AngleMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:12>
 		__this->___SpeedMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:13>
 		__this->___CurveScale = (1.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -17920,11 +19200,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CAnimateVertexColorsU3Ed__11_MoveNext_
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:66>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_3 = V_1;
 		NullCheck(L_3);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = L_3->___m_TextComponent;
 		NullCheck(L_4);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_4, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:68>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_5 = V_1;
 		NullCheck(L_5);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_6 = L_5->___m_TextComponent;
@@ -17933,37 +19215,45 @@ IL_0022:
 		L_7 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_6, NULL);
 		__this->___U3CtextInfoU3E5__2 = L_7;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CtextInfoU3E5__2), (void*)L_7);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:72>
 		__this->___U3CloopCountU3E5__3 = 0;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:73>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_8 = V_1;
 		NullCheck(L_8);
 		L_8->___hasTextChanged = (bool)1;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:76>
 		VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38* L_9 = (VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38*)(VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38*)SZArrayNew(VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38_il2cpp_TypeInfo_var, (uint32_t)((int32_t)1024));
 		__this->___U3CvertexAnimU3E5__4 = L_9;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CvertexAnimU3E5__4), (void*)L_9);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:77>
 		V_3 = 0;
 		goto IL_00ad;
 	}
 
 IL_0069:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:79>
 		VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38* L_10 = __this->___U3CvertexAnimU3E5__4;
 		int32_t L_11 = V_3;
 		NullCheck(L_10);
 		float L_12;
 		L_12 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((10.0f), (25.0f), NULL);
 		((L_10)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_11)))->___angleRange = L_12;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:80>
 		VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38* L_13 = __this->___U3CvertexAnimU3E5__4;
 		int32_t L_14 = V_3;
 		NullCheck(L_13);
 		float L_15;
 		L_15 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((1.0f), (3.0f), NULL);
 		((L_13)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_14)))->___speed = L_15;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:77>
 		int32_t L_16 = V_3;
 		V_3 = ((int32_t)il2cpp_codegen_add(L_16, 1));
 	}
 
 IL_00ad:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:77>
 		int32_t L_17 = V_3;
 		if ((((int32_t)L_17) < ((int32_t)((int32_t)1024))))
 		{
@@ -17971,6 +19261,7 @@ IL_00ad:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:84>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_18 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_18);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_19;
@@ -17981,6 +19272,7 @@ IL_00ad:
 
 IL_00c6:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:89>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_20 = V_1;
 		NullCheck(L_20);
 		bool L_21 = L_20->___hasTextChanged;
@@ -17990,12 +19282,14 @@ IL_00c6:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:92>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_22 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_22);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_23;
 		L_23 = TMP_TextInfo_CopyMeshInfoVertexData_mF66E2F8821470E68D95FEB53D456CFA86241C0CA(L_22, NULL);
 		__this->___U3CcachedMeshInfoU3E5__5 = L_23;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CcachedMeshInfoU3E5__5), (void*)L_23);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:94>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_24 = V_1;
 		NullCheck(L_24);
 		L_24->___hasTextChanged = (bool)0;
@@ -18003,10 +19297,12 @@ IL_00c6:
 
 IL_00e6:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:97>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_25 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_25);
 		int32_t L_26 = L_25->___characterCount;
 		V_4 = L_26;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:100>
 		int32_t L_27 = V_4;
 		if (L_27)
 		{
@@ -18014,6 +19310,7 @@ IL_00e6:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:102>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_28 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_28, (0.25f), NULL);
 		__this->___U3CU3E2__current = L_28;
@@ -18025,17 +19322,20 @@ IL_00e6:
 IL_0110:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:103>
 		goto IL_00c6;
 	}
 
 IL_0119:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:107>
 		V_5 = 0;
 		goto IL_03de;
 	}
 
 IL_0121:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:109>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_29 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_29);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_30 = L_29->___characterInfo;
@@ -18043,6 +19343,7 @@ IL_0121:
 		NullCheck(L_30);
 		int32_t L_32 = L_31;
 		TMP_CharacterInfo_t8B8FF32D6AACE251F2E7835AA5BC6608D535D9F8 L_33 = (L_30)->GetAt(static_cast<il2cpp_array_size_t>(L_32));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:112>
 		bool L_34 = L_33.___isVisible;
 		if (!L_34)
 		{
@@ -18050,12 +19351,14 @@ IL_0121:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:116>
 		VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38* L_35 = __this->___U3CvertexAnimU3E5__4;
 		int32_t L_36 = V_5;
 		NullCheck(L_35);
 		int32_t L_37 = L_36;
 		VertexAnim_tFF5399F548EE5426E46DEB662F561DDE129E20D7 L_38 = (L_35)->GetAt(static_cast<il2cpp_array_size_t>(L_37));
 		V_6 = L_38;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:119>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_39 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_39);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_40 = L_39->___characterInfo;
@@ -18063,6 +19366,7 @@ IL_0121:
 		NullCheck(L_40);
 		int32_t L_42 = ((L_40)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_41)))->___materialReferenceIndex;
 		V_7 = L_42;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:122>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_43 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_43);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_44 = L_43->___characterInfo;
@@ -18070,11 +19374,13 @@ IL_0121:
 		NullCheck(L_44);
 		int32_t L_46 = ((L_44)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_45)))->___vertexIndex;
 		V_8 = L_46;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:125>
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_47 = __this->___U3CcachedMeshInfoU3E5__5;
 		int32_t L_48 = V_7;
 		NullCheck(L_47);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_49 = ((L_47)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_48)))->___vertices;
 		V_9 = L_49;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:130>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_50 = V_9;
 		int32_t L_51 = V_8;
 		NullCheck(L_50);
@@ -18091,9 +19397,11 @@ IL_0121:
 		L_59 = Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline(L_58, (2.0f), NULL);
 		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_60;
 		L_60 = Vector2_op_Implicit_mE8EBEE9291F11BB02F062D6E000F4798968CBD96_inline(L_59, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:134>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_61;
 		L_61 = Vector2_op_Implicit_m6D9CABB2C791A192867D7A4559D132BE86DD3EB7_inline(L_60, NULL);
 		V_10 = L_61;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:136>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_62 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_62);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_63 = L_62->___meshInfo;
@@ -18101,6 +19409,7 @@ IL_0121:
 		NullCheck(L_63);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_65 = ((L_63)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_64)))->___vertices;
 		V_11 = L_65;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:138>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_66 = V_11;
 		int32_t L_67 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_68 = V_9;
@@ -18113,6 +19422,7 @@ IL_0121:
 		L_73 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_71, L_72, NULL);
 		NullCheck(L_66);
 		(L_66)->SetAt(static_cast<il2cpp_array_size_t>(L_67), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_73);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:139>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_74 = V_11;
 		int32_t L_75 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_76 = V_9;
@@ -18125,6 +19435,7 @@ IL_0121:
 		L_81 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_79, L_80, NULL);
 		NullCheck(L_74);
 		(L_74)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_75, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_81);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:140>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_82 = V_11;
 		int32_t L_83 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_84 = V_9;
@@ -18137,6 +19448,7 @@ IL_0121:
 		L_89 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_87, L_88, NULL);
 		NullCheck(L_82);
 		(L_82)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_83, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_89);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:141>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_90 = V_11;
 		int32_t L_91 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_92 = V_9;
@@ -18149,6 +19461,7 @@ IL_0121:
 		L_97 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_95, L_96, NULL);
 		NullCheck(L_90);
 		(L_90)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_91, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_97);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:143>
 		VertexAnim_tFF5399F548EE5426E46DEB662F561DDE129E20D7 L_98 = V_6;
 		float L_99 = L_98.___angleRange;
 		VertexAnim_tFF5399F548EE5426E46DEB662F561DDE129E20D7 L_100 = V_6;
@@ -18161,6 +19474,7 @@ IL_0121:
 		float L_106;
 		L_106 = Mathf_SmoothStep_mEFDC738EB0AA162D71013BDBBDD157B080A8E524_inline(((-L_99)), L_101, L_105, NULL);
 		(&V_6)->___angle = L_106;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:144>
 		float L_107;
 		L_107 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((-0.25f), (0.25f), NULL);
 		float L_108;
@@ -18168,6 +19482,7 @@ IL_0121:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_109;
 		memset((&L_109), 0, sizeof(L_109));
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_109), L_107, L_108, (0.0f), NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:146>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_110 = V_1;
 		NullCheck(L_110);
 		float L_111 = L_110->___CurveScale;
@@ -18185,6 +19500,7 @@ IL_0121:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_118;
 		L_118 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3_inline(L_112, L_116, L_117, NULL);
 		V_2 = L_118;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:148>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_119 = V_11;
 		int32_t L_120 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_121 = V_11;
@@ -18196,6 +19512,7 @@ IL_0121:
 		L_125 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_124, NULL);
 		NullCheck(L_119);
 		(L_119)->SetAt(static_cast<il2cpp_array_size_t>(L_120), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_125);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:149>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_126 = V_11;
 		int32_t L_127 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_128 = V_11;
@@ -18207,6 +19524,7 @@ IL_0121:
 		L_132 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_131, NULL);
 		NullCheck(L_126);
 		(L_126)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_127, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_132);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:150>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_133 = V_11;
 		int32_t L_134 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_135 = V_11;
@@ -18218,6 +19536,7 @@ IL_0121:
 		L_139 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_138, NULL);
 		NullCheck(L_133);
 		(L_133)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_134, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_139);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:151>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_140 = V_11;
 		int32_t L_141 = V_8;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_142 = V_11;
@@ -18229,6 +19548,7 @@ IL_0121:
 		L_146 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_145, NULL);
 		NullCheck(L_140);
 		(L_140)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_141, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_146);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:153>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_147 = V_11;
 		int32_t L_148 = V_8;
 		NullCheck(L_147);
@@ -18238,6 +19558,7 @@ IL_0121:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_152;
 		L_152 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_150, L_151, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_149 = L_152;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:154>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_153 = V_11;
 		int32_t L_154 = V_8;
 		NullCheck(L_153);
@@ -18247,6 +19568,7 @@ IL_0121:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_158;
 		L_158 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_156, L_157, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_155 = L_158;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:155>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_159 = V_11;
 		int32_t L_160 = V_8;
 		NullCheck(L_159);
@@ -18256,6 +19578,7 @@ IL_0121:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_164;
 		L_164 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_162, L_163, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_161 = L_164;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:156>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_165 = V_11;
 		int32_t L_166 = V_8;
 		NullCheck(L_165);
@@ -18265,6 +19588,7 @@ IL_0121:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_170;
 		L_170 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_168, L_169, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_167 = L_170;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:158>
 		VertexAnimU5BU5D_tC74236D4EB454A8EF2CE1E6145CE5F78E1D5CF38* L_171 = __this->___U3CvertexAnimU3E5__4;
 		int32_t L_172 = V_5;
 		VertexAnim_tFF5399F548EE5426E46DEB662F561DDE129E20D7 L_173 = V_6;
@@ -18274,12 +19598,14 @@ IL_0121:
 
 IL_03d8:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:107>
 		int32_t L_174 = V_5;
 		V_5 = ((int32_t)il2cpp_codegen_add(L_174, 1));
 	}
 
 IL_03de:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:107>
 		int32_t L_175 = V_5;
 		int32_t L_176 = V_4;
 		if ((((int32_t)L_175) < ((int32_t)L_176)))
@@ -18288,12 +19614,14 @@ IL_03de:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:162>
 		V_12 = 0;
 		goto IL_0449;
 	}
 
 IL_03ec:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:164>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_177 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_177);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_178 = L_177->___meshInfo;
@@ -18308,6 +19636,7 @@ IL_03ec:
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_184 = ((L_182)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_183)))->___vertices;
 		NullCheck(L_180);
 		Mesh_set_vertices_m5BB814D89E9ACA00DBF19F7D8E22CB73AC73FE5C(L_180, L_184, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:165>
 		VertexJitter_t5D8689E23D1DD2CCF81ACE6FFC9E34797E8AE4C7* L_185 = V_1;
 		NullCheck(L_185);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_186 = L_185->___m_TextComponent;
@@ -18320,12 +19649,14 @@ IL_03ec:
 		int32_t L_191 = V_12;
 		NullCheck(L_186);
 		VirtualActionInvoker2< Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4*, int32_t >::Invoke(107, L_186, L_190, L_191);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:162>
 		int32_t L_192 = V_12;
 		V_12 = ((int32_t)il2cpp_codegen_add(L_192, 1));
 	}
 
 IL_0449:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:162>
 		int32_t L_193 = V_12;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_194 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_194);
@@ -18337,8 +19668,10 @@ IL_0449:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:168>
 		int32_t L_196 = __this->___U3CloopCountU3E5__3;
 		__this->___U3CloopCountU3E5__3 = ((int32_t)il2cpp_codegen_add(L_196, 1));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:170>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_197 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_197, (0.100000001f), NULL);
 		__this->___U3CU3E2__current = L_197;
@@ -18350,6 +19683,7 @@ IL_0449:
 IL_0481:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs:86>
 		goto IL_00c6;
 	}
 }
@@ -18396,10 +19730,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_Awake_m092957B0A67A153E7CD5
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:22>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_TextComponent = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:23>
 		return;
 	}
 }
@@ -18416,12 +19752,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_OnEnable_m52E2A036C9EB2C1D6
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:28>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexShakeA_ON_TEXT_CHANGED_mE7A41CEFDB0008A1CD15F156EFEE1C895A92EE77_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6(L_0, L_1, FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:29>
 		return;
 	}
 }
@@ -18438,12 +19776,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_OnDisable_m52F58AF9438377D2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:33>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexShakeA_ON_TEXT_CHANGED_mE7A41CEFDB0008A1CD15F156EFEE1C895A92EE77_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F(L_0, L_1, FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:34>
 		return;
 	}
 }
@@ -18451,10 +19791,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_OnDisable_m52F58AF9438377D2
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_Start_mDD8B5538BDFBC2BA242B997B879E7ED64ACAFC5E (VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:39>
 		RuntimeObject* L_0;
 		L_0 = VertexShakeA_AnimateVertexColors_m5FD933D6BF976B64FC0B80614DE5112377D1DC38(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:40>
 		return;
 	}
 }
@@ -18468,6 +19810,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_ON_TEXT_CHANGED_mE7A41CEFDB
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:45>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0 = __this->___m_TextComponent;
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = L_0;
 		___0_obj = L_1;
@@ -18480,11 +19823,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA_ON_TEXT_CHANGED_mE7A41CEFDB
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:46>
 		__this->___hasTextChanged = (bool)1;
 	}
 
 IL_0017:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:47>
 		return;
 	}
 }
@@ -18511,9 +19856,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* VertexShakeA_AnimateVertexColo
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeA__ctor_m63ED483A292CA310B90144E0779C0472AAC22CBB (VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:11>
 		__this->___AngleMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:12>
 		__this->___SpeedMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:13>
 		__this->___ScaleMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:14>
 		__this->___RotationMultiplier = (1.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -18604,11 +19953,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CAnimateVertexColorsU3Ed__11_MoveNext_
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:58>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_3 = V_1;
 		NullCheck(L_3);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = L_3->___m_TextComponent;
 		NullCheck(L_4);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_4, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:60>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_5 = V_1;
 		NullCheck(L_5);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_6 = L_5->___m_TextComponent;
@@ -18617,9 +19968,11 @@ IL_0022:
 		L_7 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_6, NULL);
 		__this->___U3CtextInfoU3E5__2 = L_7;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CtextInfoU3E5__2), (void*)L_7);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:63>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_8 = (Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D*)(Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D*)SZArrayNew(Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D_il2cpp_TypeInfo_var, (uint32_t)0);
 		__this->___U3CcopyOfVerticesU3E5__3 = L_8;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CcopyOfVerticesU3E5__3), (void*)L_8);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:65>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_9 = V_1;
 		NullCheck(L_9);
 		L_9->___hasTextChanged = (bool)1;
@@ -18627,6 +19980,7 @@ IL_0022:
 
 IL_005a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:70>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_10 = V_1;
 		NullCheck(L_10);
 		bool L_11 = L_10->___hasTextChanged;
@@ -18636,6 +19990,7 @@ IL_005a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:72>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_12 = __this->___U3CcopyOfVerticesU3E5__3;
 		NullCheck(L_12);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_13 = __this->___U3CtextInfoU3E5__2;
@@ -18648,6 +20003,7 @@ IL_005a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:73>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_15 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_15);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_16 = L_15->___meshInfo;
@@ -18659,12 +20015,14 @@ IL_005a:
 
 IL_0091:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:75>
 		V_4 = 0;
 		goto IL_00c7;
 	}
 
 IL_0096:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:77>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_18 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_18);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_19 = L_18->___meshInfo;
@@ -18673,18 +20031,21 @@ IL_0096:
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_21 = ((L_19)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_20)))->___vertices;
 		NullCheck(L_21);
 		V_5 = ((int32_t)(((RuntimeArray*)L_21)->max_length));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:78>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_22 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_23 = V_4;
 		int32_t L_24 = V_5;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_25 = (Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)SZArrayNew(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C_il2cpp_TypeInfo_var, (uint32_t)L_24);
 		NullCheck(L_22);
 		(L_22)->SetAt(static_cast<il2cpp_array_size_t>(L_23), (Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)L_25);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:75>
 		int32_t L_26 = V_4;
 		V_4 = ((int32_t)il2cpp_codegen_add(L_26, 1));
 	}
 
 IL_00c7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:75>
 		int32_t L_27 = V_4;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_28 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_28);
@@ -18696,6 +20057,7 @@ IL_00c7:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:81>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_30 = V_1;
 		NullCheck(L_30);
 		L_30->___hasTextChanged = (bool)0;
@@ -18703,15 +20065,18 @@ IL_00c7:
 
 IL_00df:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:84>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_31 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_31);
 		int32_t L_32 = L_31->___characterCount;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:87>
 		if (L_32)
 		{
 			goto IL_0111;
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:89>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_33 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_33, (0.25f), NULL);
 		__this->___U3CU3E2__current = L_33;
@@ -18723,21 +20088,25 @@ IL_00df:
 IL_0105:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:90>
 		goto IL_005a;
 	}
 
 IL_0111:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:93>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_34 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_34);
 		int32_t L_35 = L_34->___lineCount;
 		V_3 = L_35;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:96>
 		V_6 = 0;
 		goto IL_0448;
 	}
 
 IL_0125:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:99>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_36 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_36);
 		TMP_LineInfoU5BU5D_tE485ECF6A7A96441C72B53D75E7A5A5461A2CA0E* L_37 = L_36->___lineInfo;
@@ -18745,6 +20114,7 @@ IL_0125:
 		NullCheck(L_37);
 		int32_t L_39 = ((L_37)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_38)))->___firstCharacterIndex;
 		V_7 = L_39;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:100>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_40 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_40);
 		TMP_LineInfoU5BU5D_tE485ECF6A7A96441C72B53D75E7A5A5461A2CA0E* L_41 = L_40->___lineInfo;
@@ -18752,6 +20122,7 @@ IL_0125:
 		NullCheck(L_41);
 		int32_t L_43 = ((L_41)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_42)))->___lastCharacterIndex;
 		V_8 = L_43;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:103>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_44 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_44);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_45 = L_44->___characterInfo;
@@ -18769,6 +20140,7 @@ IL_0125:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_53;
 		L_53 = Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline(L_52, (2.0f), NULL);
 		V_9 = L_53;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:104>
 		float L_54;
 		L_54 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((-0.25f), (0.25f), NULL);
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_55 = V_1;
@@ -18777,6 +20149,7 @@ IL_0125:
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_57;
 		L_57 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline((0.0f), (0.0f), ((float)il2cpp_codegen_multiply(L_54, L_56)), NULL);
 		V_10 = L_57;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:107>
 		int32_t L_58 = V_7;
 		V_11 = L_58;
 		goto IL_0439;
@@ -18784,6 +20157,7 @@ IL_0125:
 
 IL_01c6:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:110>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_59 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_59);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_60 = L_59->___characterInfo;
@@ -18796,6 +20170,7 @@ IL_01c6:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:114>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_63 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_63);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_64 = L_63->___characterInfo;
@@ -18803,6 +20178,7 @@ IL_01c6:
 		NullCheck(L_64);
 		int32_t L_66 = ((L_64)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_65)))->___materialReferenceIndex;
 		V_12 = L_66;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:117>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_67 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_67);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_68 = L_67->___characterInfo;
@@ -18810,6 +20186,7 @@ IL_01c6:
 		NullCheck(L_68);
 		int32_t L_70 = ((L_68)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_69)))->___vertexIndex;
 		V_13 = L_70;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:120>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_71 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_71);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_72 = L_71->___meshInfo;
@@ -18817,6 +20194,7 @@ IL_01c6:
 		NullCheck(L_72);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_74 = ((L_72)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_73)))->___vertices;
 		V_14 = L_74;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:124>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_75 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_76 = V_12;
 		NullCheck(L_75);
@@ -18833,6 +20211,7 @@ IL_01c6:
 		L_85 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_83, L_84, NULL);
 		NullCheck(L_78);
 		(L_78)->SetAt(static_cast<il2cpp_array_size_t>(L_79), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_85);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:125>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_86 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_87 = V_12;
 		NullCheck(L_86);
@@ -18849,6 +20228,7 @@ IL_01c6:
 		L_96 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_94, L_95, NULL);
 		NullCheck(L_89);
 		(L_89)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_90, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_96);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:126>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_97 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_98 = V_12;
 		NullCheck(L_97);
@@ -18865,6 +20245,7 @@ IL_01c6:
 		L_107 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_105, L_106, NULL);
 		NullCheck(L_100);
 		(L_100)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_101, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_107);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:127>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_108 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_109 = V_12;
 		NullCheck(L_108);
@@ -18881,6 +20262,7 @@ IL_01c6:
 		L_118 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_116, L_117, NULL);
 		NullCheck(L_111);
 		(L_111)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_112, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_118);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:130>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_119 = V_1;
 		NullCheck(L_119);
 		float L_120 = L_119->___ScaleMultiplier;
@@ -18890,6 +20272,7 @@ IL_01c6:
 		float L_123;
 		L_123 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494(((float)il2cpp_codegen_subtract((0.995000005f), ((float)il2cpp_codegen_multiply((0.00100000005f), L_120)))), ((float)il2cpp_codegen_add((1.005f), ((float)il2cpp_codegen_multiply((0.00100000005f), L_122)))), NULL);
 		V_15 = L_123;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:133>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_124;
 		L_124 = Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline(NULL);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_125 = V_10;
@@ -18901,6 +20284,7 @@ IL_01c6:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_129;
 		L_129 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3_inline(L_124, L_125, L_128, NULL);
 		V_2 = L_129;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:136>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_130 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_131 = V_12;
 		NullCheck(L_130);
@@ -18920,6 +20304,7 @@ IL_01c6:
 		L_142 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_141, NULL);
 		NullCheck(L_133);
 		(L_133)->SetAt(static_cast<il2cpp_array_size_t>(L_134), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_142);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:137>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_143 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_144 = V_12;
 		NullCheck(L_143);
@@ -18939,6 +20324,7 @@ IL_01c6:
 		L_155 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_154, NULL);
 		NullCheck(L_146);
 		(L_146)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_147, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_155);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:138>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_156 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_157 = V_12;
 		NullCheck(L_156);
@@ -18958,6 +20344,7 @@ IL_01c6:
 		L_168 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_167, NULL);
 		NullCheck(L_159);
 		(L_159)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_160, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_168);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:139>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_169 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_170 = V_12;
 		NullCheck(L_169);
@@ -18977,6 +20364,7 @@ IL_01c6:
 		L_181 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_180, NULL);
 		NullCheck(L_172);
 		(L_172)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_173, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_181);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:142>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_182 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_183 = V_12;
 		NullCheck(L_182);
@@ -18990,6 +20378,7 @@ IL_01c6:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_190;
 		L_190 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_188, L_189, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_187 = L_190;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:143>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_191 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_192 = V_12;
 		NullCheck(L_191);
@@ -19003,6 +20392,7 @@ IL_01c6:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_199;
 		L_199 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_197, L_198, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_196 = L_199;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:144>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_200 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_201 = V_12;
 		NullCheck(L_200);
@@ -19016,6 +20406,7 @@ IL_01c6:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_208;
 		L_208 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_206, L_207, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_205 = L_208;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:145>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_209 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_210 = V_12;
 		NullCheck(L_209);
@@ -19033,12 +20424,14 @@ IL_01c6:
 
 IL_0433:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:107>
 		int32_t L_218 = V_11;
 		V_11 = ((int32_t)il2cpp_codegen_add(L_218, 1));
 	}
 
 IL_0439:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:107>
 		int32_t L_219 = V_11;
 		int32_t L_220 = V_8;
 		if ((((int32_t)L_219) <= ((int32_t)L_220)))
@@ -19047,12 +20440,14 @@ IL_0439:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:96>
 		int32_t L_221 = V_6;
 		V_6 = ((int32_t)il2cpp_codegen_add(L_221, 1));
 	}
 
 IL_0448:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:96>
 		int32_t L_222 = V_6;
 		int32_t L_223 = V_3;
 		if ((((int32_t)L_222) < ((int32_t)L_223)))
@@ -19061,12 +20456,14 @@ IL_0448:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:150>
 		V_16 = 0;
 		goto IL_04a4;
 	}
 
 IL_0455:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:152>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_224 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_224);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_225 = L_224->___meshInfo;
@@ -19080,6 +20477,7 @@ IL_0455:
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_231 = (L_228)->GetAt(static_cast<il2cpp_array_size_t>(L_230));
 		NullCheck(L_227);
 		Mesh_set_vertices_m5BB814D89E9ACA00DBF19F7D8E22CB73AC73FE5C(L_227, L_231, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:153>
 		VertexShakeA_t0915AA60878050D69BA28697506CF5CF6F789E8F* L_232 = V_1;
 		NullCheck(L_232);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_233 = L_232->___m_TextComponent;
@@ -19092,12 +20490,14 @@ IL_0455:
 		int32_t L_238 = V_16;
 		NullCheck(L_233);
 		VirtualActionInvoker2< Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4*, int32_t >::Invoke(107, L_233, L_237, L_238);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:150>
 		int32_t L_239 = V_16;
 		V_16 = ((int32_t)il2cpp_codegen_add(L_239, 1));
 	}
 
 IL_04a4:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:150>
 		int32_t L_240 = V_16;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_241 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_241);
@@ -19109,6 +20509,7 @@ IL_04a4:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:156>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_243 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_243, (0.100000001f), NULL);
 		__this->___U3CU3E2__current = L_243;
@@ -19120,6 +20521,7 @@ IL_04a4:
 IL_04ce:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs:67>
 		goto IL_005a;
 	}
 }
@@ -19166,10 +20568,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_Awake_mFA9A180BD1769CC79E63
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:21>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0;
 		L_0 = Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5(__this, Component_GetComponent_TisTMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9_m0C4C5268B54C7097888C6B109527A680772EBCB5_RuntimeMethod_var);
 		__this->___m_TextComponent = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___m_TextComponent), (void*)L_0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:22>
 		return;
 	}
 }
@@ -19186,12 +20590,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_OnEnable_m4999DF4598174EDA2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:27>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexShakeB_ON_TEXT_CHANGED_mF8641640C828A9664AE03AF01CB4832E14EF436D_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6(L_0, L_1, FastAction_1_Add_m368726E3508DB2176C4F87A79C0C0CC4816176D6_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:28>
 		return;
 	}
 }
@@ -19208,12 +20614,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_OnDisable_m2FB32CBD277A2714
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:32>
 		il2cpp_codegen_runtime_class_init_inline(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var);
 		FastAction_1_tE50C6A692DF85AB55BE3160B659FA7DF19DFA005* L_0 = ((TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_StaticFields*)il2cpp_codegen_static_fields_for(TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var))->___TEXT_CHANGED_EVENT;
 		Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A* L_1 = (Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A*)il2cpp_codegen_object_new(Action_1_t7F8A08D55E64F30F0E9A4213699C99903459421A_il2cpp_TypeInfo_var);
 		Action_1__ctor_m95478636F075134CA2998E22B214611472600983(L_1, __this, (intptr_t)((void*)VertexShakeB_ON_TEXT_CHANGED_mF8641640C828A9664AE03AF01CB4832E14EF436D_RuntimeMethod_var), NULL);
 		NullCheck(L_0);
 		FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F(L_0, L_1, FastAction_1_Remove_mB29130AC90F5F8967CD89587717469E44E4D186F_RuntimeMethod_var);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:33>
 		return;
 	}
 }
@@ -19221,10 +20629,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_OnDisable_m2FB32CBD277A2714
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_Start_m58786A0944340EF16E024ADB596C9AB5686C2AF1 (VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:38>
 		RuntimeObject* L_0;
 		L_0 = VertexShakeB_AnimateVertexColors_m06D25FE7F9F3EFF693DDC889BF725F01D0CF2A6F(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_1;
 		L_1 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_0, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:39>
 		return;
 	}
 }
@@ -19238,6 +20648,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_ON_TEXT_CHANGED_mF8641640C8
 		s_Il2CppMethodInitialized = true;
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:44>
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_0 = __this->___m_TextComponent;
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_1 = L_0;
 		___0_obj = L_1;
@@ -19250,11 +20661,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB_ON_TEXT_CHANGED_mF8641640C8
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:45>
 		__this->___hasTextChanged = (bool)1;
 	}
 
 IL_0017:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:46>
 		return;
 	}
 }
@@ -19281,8 +20694,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* VertexShakeB_AnimateVertexColo
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void VertexShakeB__ctor_m9D068774503CF8642CC0BAC0E909ECE91E4E2198 (VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:11>
 		__this->___AngleMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:12>
 		__this->___SpeedMultiplier = (1.0f);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:13>
 		__this->___CurveScale = (1.0f);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
@@ -19375,11 +20791,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CAnimateVertexColorsU3Ed__10_MoveNext_
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:57>
 		VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* L_3 = V_1;
 		NullCheck(L_3);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_4 = L_3->___m_TextComponent;
 		NullCheck(L_4);
 		VirtualActionInvoker2< bool, bool >::Invoke(106, L_4, (bool)0, (bool)0);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:59>
 		VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* L_5 = V_1;
 		NullCheck(L_5);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_6 = L_5->___m_TextComponent;
@@ -19388,9 +20806,11 @@ IL_0022:
 		L_7 = TMP_Text_get_textInfo_mA24C606B8EA51436E4AA3B9D6DCDFA7A8995E10E(L_6, NULL);
 		__this->___U3CtextInfoU3E5__2 = L_7;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CtextInfoU3E5__2), (void*)L_7);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:62>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_8 = (Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D*)(Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D*)SZArrayNew(Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D_il2cpp_TypeInfo_var, (uint32_t)0);
 		__this->___U3CcopyOfVerticesU3E5__3 = L_8;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CcopyOfVerticesU3E5__3), (void*)L_8);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:64>
 		VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* L_9 = V_1;
 		NullCheck(L_9);
 		L_9->___hasTextChanged = (bool)1;
@@ -19398,6 +20818,7 @@ IL_0022:
 
 IL_005a:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:69>
 		VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* L_10 = V_1;
 		NullCheck(L_10);
 		bool L_11 = L_10->___hasTextChanged;
@@ -19407,6 +20828,7 @@ IL_005a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:71>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_12 = __this->___U3CcopyOfVerticesU3E5__3;
 		NullCheck(L_12);
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_13 = __this->___U3CtextInfoU3E5__2;
@@ -19419,6 +20841,7 @@ IL_005a:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:72>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_15 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_15);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_16 = L_15->___meshInfo;
@@ -19430,12 +20853,14 @@ IL_005a:
 
 IL_0091:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:74>
 		V_4 = 0;
 		goto IL_00c7;
 	}
 
 IL_0096:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:76>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_18 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_18);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_19 = L_18->___meshInfo;
@@ -19444,18 +20869,21 @@ IL_0096:
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_21 = ((L_19)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_20)))->___vertices;
 		NullCheck(L_21);
 		V_5 = ((int32_t)(((RuntimeArray*)L_21)->max_length));
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:77>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_22 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_23 = V_4;
 		int32_t L_24 = V_5;
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_25 = (Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)SZArrayNew(Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C_il2cpp_TypeInfo_var, (uint32_t)L_24);
 		NullCheck(L_22);
 		(L_22)->SetAt(static_cast<il2cpp_array_size_t>(L_23), (Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C*)L_25);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:74>
 		int32_t L_26 = V_4;
 		V_4 = ((int32_t)il2cpp_codegen_add(L_26, 1));
 	}
 
 IL_00c7:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:74>
 		int32_t L_27 = V_4;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_28 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_28);
@@ -19467,6 +20895,7 @@ IL_00c7:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:80>
 		VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* L_30 = V_1;
 		NullCheck(L_30);
 		L_30->___hasTextChanged = (bool)0;
@@ -19474,15 +20903,18 @@ IL_00c7:
 
 IL_00df:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:83>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_31 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_31);
 		int32_t L_32 = L_31->___characterCount;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:86>
 		if (L_32)
 		{
 			goto IL_0111;
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:88>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_33 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_33, (0.25f), NULL);
 		__this->___U3CU3E2__current = L_33;
@@ -19494,21 +20926,25 @@ IL_00df:
 IL_0105:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:89>
 		goto IL_005a;
 	}
 
 IL_0111:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:92>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_34 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_34);
 		int32_t L_35 = L_34->___lineCount;
 		V_3 = L_35;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:95>
 		V_6 = 0;
 		goto IL_0625;
 	}
 
 IL_0125:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:98>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_36 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_36);
 		TMP_LineInfoU5BU5D_tE485ECF6A7A96441C72B53D75E7A5A5461A2CA0E* L_37 = L_36->___lineInfo;
@@ -19516,6 +20952,7 @@ IL_0125:
 		NullCheck(L_37);
 		int32_t L_39 = ((L_37)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_38)))->___firstCharacterIndex;
 		V_7 = L_39;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:99>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_40 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_40);
 		TMP_LineInfoU5BU5D_tE485ECF6A7A96441C72B53D75E7A5A5461A2CA0E* L_41 = L_40->___lineInfo;
@@ -19523,6 +20960,7 @@ IL_0125:
 		NullCheck(L_41);
 		int32_t L_43 = ((L_41)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_42)))->___lastCharacterIndex;
 		V_8 = L_43;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:102>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_44 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_44);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_45 = L_44->___characterInfo;
@@ -19540,11 +20978,13 @@ IL_0125:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_53;
 		L_53 = Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline(L_52, (2.0f), NULL);
 		V_9 = L_53;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:103>
 		float L_54;
 		L_54 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((-0.25f), (0.25f), NULL);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_55;
 		L_55 = Quaternion_Euler_m9262AB29E3E9CE94EF71051F38A28E82AEC73F90_inline((0.0f), (0.0f), L_54, NULL);
 		V_10 = L_55;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:106>
 		int32_t L_56 = V_7;
 		V_11 = L_56;
 		goto IL_0616;
@@ -19552,6 +20992,7 @@ IL_0125:
 
 IL_01bf:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:109>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_57 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_57);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_58 = L_57->___characterInfo;
@@ -19564,6 +21005,7 @@ IL_01bf:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:113>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_61 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_61);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_62 = L_61->___characterInfo;
@@ -19571,6 +21013,7 @@ IL_01bf:
 		NullCheck(L_62);
 		int32_t L_64 = ((L_62)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_63)))->___materialReferenceIndex;
 		V_12 = L_64;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:116>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_65 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_65);
 		TMP_CharacterInfoU5BU5D_t297D56FCF66DAA99D8FEA7C30F9F3926902C5B99* L_66 = L_65->___characterInfo;
@@ -19578,6 +21021,7 @@ IL_01bf:
 		NullCheck(L_66);
 		int32_t L_68 = ((L_66)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_67)))->___vertexIndex;
 		V_13 = L_68;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:119>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_69 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_69);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_70 = L_69->___meshInfo;
@@ -19585,6 +21029,7 @@ IL_01bf:
 		NullCheck(L_70);
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_72 = ((L_70)->GetAddressAt(static_cast<il2cpp_array_size_t>(L_71)))->___vertices;
 		V_14 = L_72;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:122>
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_73 = V_14;
 		int32_t L_74 = V_13;
 		NullCheck(L_73);
@@ -19600,6 +21045,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_82;
 		L_82 = Vector3_op_Division_mCC6BB24E372AB96B8380D1678446EF6A8BAE13BB_inline(L_81, (2.0f), NULL);
 		V_15 = L_82;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:126>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_83 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_84 = V_12;
 		NullCheck(L_83);
@@ -19616,6 +21062,7 @@ IL_01bf:
 		L_93 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_91, L_92, NULL);
 		NullCheck(L_86);
 		(L_86)->SetAt(static_cast<il2cpp_array_size_t>(L_87), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_93);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:127>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_94 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_95 = V_12;
 		NullCheck(L_94);
@@ -19632,6 +21079,7 @@ IL_01bf:
 		L_104 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_102, L_103, NULL);
 		NullCheck(L_97);
 		(L_97)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_98, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_104);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:128>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_105 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_106 = V_12;
 		NullCheck(L_105);
@@ -19648,6 +21096,7 @@ IL_01bf:
 		L_115 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_113, L_114, NULL);
 		NullCheck(L_108);
 		(L_108)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_109, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_115);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:129>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_116 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_117 = V_12;
 		NullCheck(L_116);
@@ -19664,9 +21113,11 @@ IL_01bf:
 		L_126 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_124, L_125, NULL);
 		NullCheck(L_119);
 		(L_119)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_120, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_126);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:132>
 		float L_127;
 		L_127 = Random_Range_m5236C99A7D8AE6AC9190592DC66016652A2D2494((0.949999988f), (1.04999995f), NULL);
 		V_16 = L_127;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:135>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_128;
 		L_128 = Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline(NULL);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_129;
@@ -19679,6 +21130,7 @@ IL_01bf:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_133;
 		L_133 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3_inline(L_128, L_129, L_132, NULL);
 		V_2 = L_133;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:138>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_134 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_135 = V_12;
 		NullCheck(L_134);
@@ -19698,6 +21150,7 @@ IL_01bf:
 		L_146 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_145, NULL);
 		NullCheck(L_137);
 		(L_137)->SetAt(static_cast<il2cpp_array_size_t>(L_138), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_146);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:139>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_147 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_148 = V_12;
 		NullCheck(L_147);
@@ -19717,6 +21170,7 @@ IL_01bf:
 		L_159 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_158, NULL);
 		NullCheck(L_150);
 		(L_150)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_151, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_159);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:140>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_160 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_161 = V_12;
 		NullCheck(L_160);
@@ -19736,6 +21190,7 @@ IL_01bf:
 		L_172 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_171, NULL);
 		NullCheck(L_163);
 		(L_163)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_164, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_172);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:141>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_173 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_174 = V_12;
 		NullCheck(L_173);
@@ -19755,6 +21210,7 @@ IL_01bf:
 		L_185 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_184, NULL);
 		NullCheck(L_176);
 		(L_176)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_177, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_185);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:144>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_186 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_187 = V_12;
 		NullCheck(L_186);
@@ -19768,6 +21224,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_194;
 		L_194 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_192, L_193, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_191 = L_194;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:145>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_195 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_196 = V_12;
 		NullCheck(L_195);
@@ -19781,6 +21238,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_203;
 		L_203 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_201, L_202, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_200 = L_203;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:146>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_204 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_205 = V_12;
 		NullCheck(L_204);
@@ -19794,6 +21252,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_212;
 		L_212 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_210, L_211, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_209 = L_212;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:147>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_213 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_214 = V_12;
 		NullCheck(L_213);
@@ -19807,6 +21266,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_221;
 		L_221 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_219, L_220, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_218 = L_221;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:151>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_222 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_223 = V_12;
 		NullCheck(L_222);
@@ -19820,6 +21280,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_230;
 		L_230 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_228, L_229, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_227 = L_230;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:152>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_231 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_232 = V_12;
 		NullCheck(L_231);
@@ -19833,6 +21294,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_239;
 		L_239 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_237, L_238, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_236 = L_239;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:153>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_240 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_241 = V_12;
 		NullCheck(L_240);
@@ -19846,6 +21308,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_248;
 		L_248 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_246, L_247, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_245 = L_248;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:154>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_249 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_250 = V_12;
 		NullCheck(L_249);
@@ -19859,6 +21322,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_257;
 		L_257 = Vector3_op_Subtraction_mE42023FF80067CB44A1D4A27EB7CF2B24CABB828_inline(L_255, L_256, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_254 = L_257;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:157>
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_258;
 		L_258 = Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline(NULL);
 		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_259 = V_10;
@@ -19867,6 +21331,7 @@ IL_01bf:
 		Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 L_261;
 		L_261 = Matrix4x4_TRS_mCC04FD47347234B451ACC6CCD2CE6D02E1E0E1E3_inline(L_258, L_259, L_260, NULL);
 		V_2 = L_261;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:160>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_262 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_263 = V_12;
 		NullCheck(L_262);
@@ -19886,6 +21351,7 @@ IL_01bf:
 		L_274 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_273, NULL);
 		NullCheck(L_265);
 		(L_265)->SetAt(static_cast<il2cpp_array_size_t>(L_266), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_274);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:161>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_275 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_276 = V_12;
 		NullCheck(L_275);
@@ -19905,6 +21371,7 @@ IL_01bf:
 		L_287 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_286, NULL);
 		NullCheck(L_278);
 		(L_278)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_279, 1))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_287);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:162>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_288 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_289 = V_12;
 		NullCheck(L_288);
@@ -19924,6 +21391,7 @@ IL_01bf:
 		L_300 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_299, NULL);
 		NullCheck(L_291);
 		(L_291)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_292, 2))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_300);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:163>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_301 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_302 = V_12;
 		NullCheck(L_301);
@@ -19943,6 +21411,7 @@ IL_01bf:
 		L_313 = Matrix4x4_MultiplyPoint3x4_mACCBD70AFA82C63DA88555780B7B6B01281AB814_inline((&V_2), L_312, NULL);
 		NullCheck(L_304);
 		(L_304)->SetAt(static_cast<il2cpp_array_size_t>(((int32_t)il2cpp_codegen_add(L_305, 3))), (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2)L_313);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:166>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_314 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_315 = V_12;
 		NullCheck(L_314);
@@ -19956,6 +21425,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_322;
 		L_322 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_320, L_321, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_319 = L_322;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:167>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_323 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_324 = V_12;
 		NullCheck(L_323);
@@ -19969,6 +21439,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_331;
 		L_331 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_329, L_330, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_328 = L_331;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:168>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_332 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_333 = V_12;
 		NullCheck(L_332);
@@ -19982,6 +21453,7 @@ IL_01bf:
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_340;
 		L_340 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_338, L_339, NULL);
 		*(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)L_337 = L_340;
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:169>
 		Vector3U5BU5DU5BU5D_t9E2E40AB6AB9079C8F16A0B6410FF6CF2EE8B53D* L_341 = __this->___U3CcopyOfVerticesU3E5__3;
 		int32_t L_342 = V_12;
 		NullCheck(L_341);
@@ -19999,12 +21471,14 @@ IL_01bf:
 
 IL_0610:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:106>
 		int32_t L_350 = V_11;
 		V_11 = ((int32_t)il2cpp_codegen_add(L_350, 1));
 	}
 
 IL_0616:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:106>
 		int32_t L_351 = V_11;
 		int32_t L_352 = V_8;
 		if ((((int32_t)L_351) <= ((int32_t)L_352)))
@@ -20013,12 +21487,14 @@ IL_0616:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:95>
 		int32_t L_353 = V_6;
 		V_6 = ((int32_t)il2cpp_codegen_add(L_353, 1));
 	}
 
 IL_0625:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:95>
 		int32_t L_354 = V_6;
 		int32_t L_355 = V_3;
 		if ((((int32_t)L_354) < ((int32_t)L_355)))
@@ -20027,12 +21503,14 @@ IL_0625:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:174>
 		V_17 = 0;
 		goto IL_0681;
 	}
 
 IL_0632:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:176>
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_356 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_356);
 		TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7* L_357 = L_356->___meshInfo;
@@ -20046,6 +21524,7 @@ IL_0632:
 		Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* L_363 = (L_360)->GetAt(static_cast<il2cpp_array_size_t>(L_362));
 		NullCheck(L_359);
 		Mesh_set_vertices_m5BB814D89E9ACA00DBF19F7D8E22CB73AC73FE5C(L_359, L_363, NULL);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:177>
 		VertexShakeB_tA3849618A1BE8DCE150A615F38CE2E247FC6F6C8* L_364 = V_1;
 		NullCheck(L_364);
 		TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* L_365 = L_364->___m_TextComponent;
@@ -20058,12 +21537,14 @@ IL_0632:
 		int32_t L_370 = V_17;
 		NullCheck(L_365);
 		VirtualActionInvoker2< Mesh_t6D9C539763A09BC2B12AEAEF36F6DFFC98AE63D4*, int32_t >::Invoke(107, L_365, L_369, L_370);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:174>
 		int32_t L_371 = V_17;
 		V_17 = ((int32_t)il2cpp_codegen_add(L_371, 1));
 	}
 
 IL_0681:
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:174>
 		int32_t L_372 = V_17;
 		TMP_TextInfo_t09A8E906329422C3F0C059876801DD695B8D524D* L_373 = __this->___U3CtextInfoU3E5__2;
 		NullCheck(L_373);
@@ -20075,6 +21556,7 @@ IL_0681:
 		}
 	}
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:180>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_375 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_375, (0.100000001f), NULL);
 		__this->___U3CU3E2__current = L_375;
@@ -20086,6 +21568,7 @@ IL_0681:
 IL_06ab:
 	{
 		__this->___U3CU3E1__state = (-1);
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs:66>
 		goto IL_005a;
 	}
 }
@@ -20329,6 +21812,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t String_get_Length_m42625D
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* TMP_TextEventHandler_get_onCharacterSelection_mA62049738125E3C48405E6DFF09E2D42300BE8C3_inline (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:33>
 		CharacterSelectionEvent_t5D7AF67F47A37175CF8615AD66DEC4A0AA021392* L_0 = __this->___m_OnCharacterSelection;
 		return L_0;
 	}
@@ -20337,6 +21821,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR CharacterSelectionEvent_t5D7AF67F
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* TMP_TextEventHandler_get_onSpriteSelection_m95CDEB7394FFF38F310717EEEFDCD481D96A5E82_inline (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:45>
 		SpriteSelectionEvent_t770551D2973013622C464E817FA74D53BCD4FD95* L_0 = __this->___m_OnSpriteSelection;
 		return L_0;
 	}
@@ -20345,6 +21830,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SpriteSelectionEvent_t770551D2973
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* TMP_TextEventHandler_get_onWordSelection_mF22771B4213EEB3AEFCDA390A4FF28FED5D9184C_inline (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:57>
 		WordSelectionEvent_t340E6006406B5E90F7190C56218E8F7E3712945E* L_0 = __this->___m_OnWordSelection;
 		return L_0;
 	}
@@ -20353,6 +21839,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR WordSelectionEvent_t340E6006406B5
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* TMP_TextEventHandler_get_onLineSelection_mDDF07E7000993FCD6EAF2FBD2D2226EB66273908_inline (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:69>
 		LineSelectionEvent_t526120C6113E0638913B951E3D1D7B1CF94F0880* L_0 = __this->___m_OnLineSelection;
 		return L_0;
 	}
@@ -20361,6 +21848,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR LineSelectionEvent_t526120C6113E0
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* TMP_TextEventHandler_get_onLinkSelection_m87FB9EABE7F917B2F910A18A3B5F1AE3020D976D_inline (TMP_TextEventHandler_t1B20EF196557E1AC0E6AB6AACFA95740CC17A333* __this, const RuntimeMethod* method) 
 {
 	{
+		//<source_info:/Users/fammad/Desktop/DH2670_Haptics_Class/Tactool_Project/Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs:81>
 		LinkSelectionEvent_t5CE74F742D231580ED2C810ECE394E1A2BC81B3D* L_0 = __this->___m_OnLinkSelection;
 		return L_0;
 	}

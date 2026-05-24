@@ -1,0 +1,15 @@
+{
+    "asset": "ffbca8f7d93444b309784bc00a1f2fcf",
+    "fileName": "019e570e-6e61-7cfe-a087-f064744da7b9.wav",
+    "prompt": "metallic clang hammer on metal rod",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

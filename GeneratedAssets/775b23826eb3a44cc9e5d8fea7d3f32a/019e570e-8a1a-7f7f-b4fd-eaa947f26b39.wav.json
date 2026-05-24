@@ -1,0 +1,15 @@
+{
+    "asset": "775b23826eb3a44cc9e5d8fea7d3f32a",
+    "fileName": "019e570e-8a1a-7f7f-b4fd-eaa947f26b39.wav",
+    "prompt": "soft squishy thud clay impact",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

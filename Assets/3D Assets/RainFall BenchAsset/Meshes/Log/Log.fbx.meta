@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: d468973eab08e5e40823633ce614dc6c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339192
+  packageName: Wooden Bench Mini Pack
+  packageVersion: 1.0
+  assetPath: Assets/RainFall BenchAsset/Meshes/Log/Log.fbx
+  uploadId: 803876
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -30,7 +37,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -108,10 +115,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 339192
-  packageName: Wooden Bench Mini Pack
-  packageVersion: 1.0
-  assetPath: Assets/RainFall BenchAsset/Meshes/Log/Log.fbx
-  uploadId: 803876

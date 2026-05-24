@@ -1,0 +1,15 @@
+{
+    "asset": "0a4c8489b5ab343abb834ad4cbde07c4",
+    "fileName": "019e570e-96b7-794a-a4f5-c9863d2f2256.wav",
+    "prompt": "rhythmic wood sawing loop friction",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

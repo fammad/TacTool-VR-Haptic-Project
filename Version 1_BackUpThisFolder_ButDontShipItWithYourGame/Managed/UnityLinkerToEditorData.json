@@ -84,7 +84,9 @@
           },
           {
             "name": "AudioClip",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Playground.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -104,13 +106,17 @@
           },
           {
             "name": "AudioResource",
-            "scenes": [],
-            "dependencyType": 1,
+            "scenes": [
+              "Assets/Scenes/Playground.unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioSource",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Playground.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -255,7 +261,9 @@
           },
           {
             "name": "LightingSettings",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Playground.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },

@@ -1,0 +1,15 @@
+{
+    "asset": "52ac61214a1b549a6910859b17de4f88",
+    "fileName": "019e570e-8282-754e-9a93-9e5edace283c.wav",
+    "prompt": "sharp wooden impact hammer on log",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

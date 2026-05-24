@@ -1,0 +1,15 @@
+{
+    "asset": "9f37cf352ece94ae787364b50b353a7e",
+    "fileName": "019e570e-aad1-72d2-943d-8317bbea9119.wav",
+    "prompt": "high-pitched metal filing scraping loop",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

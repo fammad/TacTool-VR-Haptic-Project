@@ -2,52 +2,79 @@ using UnityEngine;
 using UnityEngine.Events;
 using System.Collections.Generic;
 
-/// <summary>
-/// Detects collisions between tools and specific material tags.
-/// Calculates hit strength and manages cooldowns per object.
-/// </summary>
 [RequireComponent(typeof(Rigidbody))]
 [RequireComponent(typeof(Collider))]
 public class ToolCollisionDetector : MonoBehaviour
 {
-    public enum ToolType { Hammer, Chisel, File }
+    public enum ToolType { Hammer, Chisel, File, Saw }
+
+    public struct ToolHitData
+    {
+        public ToolCollisionDetector tool;
+        public GameObject material;
+        public float strength;
+        public Vector3 point;
+        public Vector3 velocity;
+    }
 
     [Header("Configuration")]
-    [SerializeField] private ToolType toolType;
+    public ToolType toolType;
     [SerializeField] private float hitCooldown = 0.2f;
     [SerializeField] private float minVelocityThreshold = 0.1f;
 
     [Header("Events")]
-    // Custom UnityEvent to pass tool, material, and strength to the inspector
-    public ToolHitEvent onValidHit;
+    public UnityEvent<ToolHitData> onValidHit = new UnityEvent<ToolHitData>();
+    public UnityEvent<ToolCollisionDetector, GameObject, float, Vector3> onValidStay = new UnityEvent<ToolCollisionDetector, GameObject, float, Vector3>();
+    public UnityEvent onValidExit = new UnityEvent();
 
-    // Track cooldowns per specific object hit
     private Dictionary<int, float> lastHitTimes = new Dictionary<int, float>();
 
     private void OnCollisionEnter(Collision collision)
     {
-        // 1. Filter by specific material tags
         string materialTag = collision.gameObject.tag;
         if (!IsValidMaterial(materialTag)) return;
 
-        // 2. Check cooldown for this specific object
         int instanceId = collision.gameObject.GetInstanceID();
         if (IsOnCooldown(instanceId)) return;
 
-        // 3. Calculate collision strength (velocity magnitude)
         float hitStrength = collision.relativeVelocity.magnitude;
-
-        // Ignore very soft touches
         if (hitStrength < minVelocityThreshold) return;
 
-        // 4. Update cooldown tracking
         lastHitTimes[instanceId] = Time.time;
 
-        // 5. Fire event and log
-        string toolName = toolType.ToString();
-        onValidHit?.Invoke(toolName, materialTag, hitStrength);
+        ToolHitData data = new ToolHitData
+        {
+            tool = this,
+            material = collision.gameObject,
+            strength = hitStrength,
+            point = collision.contacts[0].point,
+            velocity = collision.relativeVelocity
+        };
 
-        Debug.Log($"[ToolHit] {toolName} struck {materialTag} with strength: {hitStrength:F2}");
+        onValidHit?.Invoke(data);
+        
+        Debug.Log($"[ToolHit] {toolType} struck {materialTag} with strength: {hitStrength:F2}");
+    }
+
+    private void OnCollisionStay(Collision collision)
+    {
+        if (toolType != ToolType.Saw && toolType != ToolType.File) return;
+
+        string materialTag = collision.gameObject.tag;
+        if (!IsValidMaterial(materialTag)) return;
+
+        float speed = collision.relativeVelocity.magnitude;
+        if (speed < 0.01f) return;
+
+        onValidStay?.Invoke(this, collision.gameObject, speed, collision.contacts[0].point);
+    }
+
+    private void OnCollisionExit(Collision collision)
+    {
+        string materialTag = collision.gameObject.tag;
+        if (!IsValidMaterial(materialTag)) return;
+
+        onValidExit?.Invoke();
     }
 
     private bool IsValidMaterial(string tag)
@@ -63,10 +90,4 @@ public class ToolCollisionDetector : MonoBehaviour
         }
         return false;
     }
-
-    // Clean up dictionary periodically or when objects are destroyed if necessary.
-    // For a simple VR scene, the dictionary size is usually negligible.
 }
-
-[System.Serializable]
-public class ToolHitEvent : UnityEvent<string, string, float> { }

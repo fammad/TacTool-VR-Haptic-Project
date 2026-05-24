@@ -1,0 +1,15 @@
+{
+    "asset": "2fa2ca94e0ad84ca78832313ece68335",
+    "fileName": "019e570e-71ab-7455-a68d-b8599f71829b.wav",
+    "prompt": "hard stone crack marble chipping sound",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

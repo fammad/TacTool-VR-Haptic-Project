@@ -39979,6 +39979,9 @@ IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable7509[1] =
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable7511[1] = 
 {
 	0,};
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable7513[1] = 
+{
+	0,};
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable7514[1] = 
 {
 	static_cast<int32_t>(offsetof(FormerlySerializedAsAttribute_t3962B42E10E2E369F71542567E784A8CBAC80343, ___m_oldName)),};

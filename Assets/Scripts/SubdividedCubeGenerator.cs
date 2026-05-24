@@ -51,12 +51,12 @@ public static class SubdividedCubeGenerator
                 {
                     int start = vIndex + x + y * (res + 1);
                     triangles[tIndex] = start;
-                    triangles[tIndex + 1] = start + res + 1;
-                    triangles[tIndex + 2] = start + 1;
+                    triangles[tIndex + 1] = start + 1;
+                    triangles[tIndex + 2] = start + res + 1;
 
                     triangles[tIndex + 3] = start + 1;
-                    triangles[tIndex + 4] = start + res + 1;
-                    triangles[tIndex + 5] = start + res + 2;
+                    triangles[tIndex + 4] = start + res + 2;
+                    triangles[tIndex + 5] = start + res + 1;
                     tIndex += 6;
                 }
             }

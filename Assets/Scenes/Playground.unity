@@ -3725,7 +3725,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeformableMaterial
   materialType: 2
   resistance: 2.5
-  maxDeformation: 0.2
+  maxDeformation: 0.06
   deformationRadius: 0.1
   autoSubdivide: 1
   subdivisionResolution: 30
@@ -3862,9 +3862,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7c83f7853dea4c9c83137d6f2d78ac1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DeformableMaterial
-  materialType: 0
-  resistance: 5
-  maxDeformation: 0.2
+  materialType: 3
+  resistance: 1.5
+  maxDeformation: 0.12
   deformationRadius: 0.2
   autoSubdivide: 1
   subdivisionResolution: 20

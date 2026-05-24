@@ -86,7 +86,7 @@ public class MaterialInteractionHandler : MonoBehaviour
                 DeformableMaterial deform = material.GetComponent<DeformableMaterial>();
                 if (deform != null)
                 {
-                    deform.ApplyDeformation(point, tool.GetComponent<Rigidbody>().linearVelocity * -1f, true);
+                    deform.ApplyDeformation(point, tool.GetComponent<Rigidbody>().linearVelocity, true);
                 }
             }
         }
